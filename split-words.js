@@ -9,12 +9,12 @@ const splitWords = async () => {
     for(const word of words) {
         chunk.push(word)
         if(chunk.length === 1e3) {
-            fs.writeFile(`./data/chunk-${chunkNum++}.json`, JSON.stringify(words, null, ' '))
+            await fs.writeFile(`./data/chunk-${chunkNum++}.json`, JSON.stringify(chunk, null, ' '))
             chunk = [];
         }
     }
 
-    fs.writeFile(`./data/chunk-${chunkNum}.json`, JSON.stringify(words, null, ' '))
+    await fs.writeFile(`./data/chunk-${chunkNum}.json`, JSON.stringify(chunk, null, ' '))
 }
 
 splitWords();
