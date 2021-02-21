@@ -15,7 +15,7 @@ const queryParams = {
     "aspect_ratio_max": 1.7,
     "aspect_ratio_min": 1.3,
     "per_page": 10  ,
-    "sort": "relevance",
+    "sort": "random",
     "view": "minimal"
 };
 
