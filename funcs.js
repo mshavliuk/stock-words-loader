@@ -14,7 +14,7 @@ const queryParams = {
     "language": "es",
     "aspect_ratio_max": 1.7,
     "aspect_ratio_min": 1.3,
-    "per_page": 10  ,
+    "per_page": 10,
     "sort": "random",
     "view": "minimal"
 };
@@ -56,7 +56,7 @@ const download = (url, dest) => {
 const getImages = async (term, page, language) => {
     const query = {...queryParams, "query": term, page, language}
     const response = await imagesApi.searchImages(query);
-    if(response.data && response.data.length > 0) {
+    if (response.data && response.data.length > 0) {
         return response.data.map(item => item.assets.huge_thumb.url)
     } else {
         return [];
@@ -73,8 +73,9 @@ const getAllWords = () => {
 }
 
 const isLoaded = (term, part) => {
-    const file = glob.sync(`${dir}/${term}\\[${part}\\].*`);
-    return !!file.length;
+    return glob.sync(`${dir}/*.*`)
+        .map(filename => filename.replace(/.*\/(.*)\.\w+/, "$1"))
+        .some(filename => filename === `${term}[${part}]`);
 }
 
 const skipWord = async (term, part) => {
