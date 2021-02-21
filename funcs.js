@@ -19,15 +19,6 @@ const queryParams = {
     "view": "minimal"
 };
 
-
-// imagesApi.searchImages(queryParams)
-//     .then(({data}) => {
-//         console.log(data[0].assets.huge_thumb.url);
-//     })
-//     .catch((error) => {
-//         console.error(error);
-//     });
-
 const dir = './words-images'
 
 const download = (url, dest) => {
@@ -78,7 +69,7 @@ const setImage = async ({term, url, part}) => {
 }
 
 const getAllWords = () => {
-    return fs.readJson('./words.json');
+    return fs.readJson('./data/words.json');
 }
 
 const isLoaded = (term, part) => {
@@ -90,35 +81,11 @@ const skipWord = async (term, part) => {
     const words = await getAllWords();
     const index = words.findIndex(word => word.word === term && word.part === part)
     words[index].skip = true;
-    fs.writeFile('./words.json', JSON.stringify(words, null, ' '))
-}
-
-const main = async () => {
-
-    const words = await fs.readJson('./words.json');
-
-    for (const word of words) {
-        const query = {...queryParams, "query": word.word}
-        const response = await imagesApi.searchImages(query);
-        // .then(({data}) => {
-        //     console.log(data[0].assets.huge_thumb.url);
-        // })
-        // .catch((error) => {
-        //     console.error(error);
-        // });
-        if (response.data.length > 0) {
-            const imageUrl = response.data[0].assets.huge_thumb.url
-            const ext = imageUrl.replace(/.*\.(\w+)$/, '$1')
-            await download(imageUrl, `${dir}/${word.word}.${ext}`)
-        } else {
-            console.log(`No result found for ${word.word}`)
-        }
-    }
+    fs.writeFile('./data/words.json', JSON.stringify(words, null, ' '))
 }
 
 module.exports = {
     download,
-    main,
     getImages,
     getAllWords,
     isLoaded,
