@@ -7,6 +7,7 @@ button, input {
 img {
     margin: 10px;
     cursor: pointer;
+    width: calc(100% / 3 - 20px);
 }
 
 form {
