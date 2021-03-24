@@ -72,7 +72,7 @@
  {
   "number": "1011",
   "word": "escritor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "writer",
   "example": "de la pluma del escritor nacen los libros"
  },
@@ -1654,7 +1654,7 @@
  {
   "number": "1237",
   "word": "político",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "politician",
   "example": "la reelección como el político más popular"
  },
@@ -1710,7 +1710,7 @@
  {
   "number": "1245",
   "word": "secretario",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "secretary",
   "example": "así lo indicó el secretario general en una Comisión"
  },
@@ -3628,7 +3628,7 @@
  {
   "number": "1519",
   "word": "ministro",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "(government)",
   "example": "el Ministro de Hacienda dice que no hay mucho que negociar"
  },
@@ -3971,7 +3971,7 @@
  {
   "number": "1568",
   "word": "soldado",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "soldier",
   "example": "vestido con el uniforme de soldado de la Guerra del Pacífico"
  },
@@ -4755,7 +4755,7 @@
  {
   "number": "1680",
   "word": "abogado",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "lawyer",
   "example": "porque si soy abogado, naturalmente tengo que conocer las leyes"
  },
@@ -4993,7 +4993,7 @@
  {
   "number": "1714",
   "word": "trabajador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "worker, laborer",
   "example": "un 20 de los trabajadores andaluces se dedican al comercio"
  },
@@ -5322,7 +5322,7 @@
  {
   "number": "1761",
   "word": "ingeniero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "engineer",
   "example": "James Watt, el ingeniero escocés, perfeccionó el motor a vapor"
  },

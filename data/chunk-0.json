@@ -3761,7 +3761,7 @@
  {
   "number": "538",
   "word": "autor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "writer, author",
   "example": "cuando un autor escribe un mal libro, se cierra o se tira a la papelera"
  },
@@ -3943,7 +3943,7 @@
  {
   "number": "564",
   "word": "médico",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "doctor",
   "example": "el médico le toma la muestra al paciente"
  },
@@ -4342,7 +4342,7 @@
  {
   "number": "621",
   "word": "profesor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "professor, teacher",
   "example": "fue profesor de física teórica en la  universidad"
  },
@@ -5322,7 +5322,7 @@
  {
   "number": "761",
   "word": "jefe",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "leader, boss, manager",
   "example": "es el jefe de una nueva tribu de guerreros"
  },
@@ -5441,7 +5441,7 @@
  {
   "number": "778",
   "word": "doctor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "doctor",
   "example": "su salud decayó y el doctor le recomendó una vida más tranquila"
  },
@@ -5707,7 +5707,7 @@
  {
   "number": "816",
   "word": "director",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "director, manager, principal",
   "example": "ejerce este control el director de cada departamento"
  },

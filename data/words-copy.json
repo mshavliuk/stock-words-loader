@@ -3761,7 +3761,7 @@
     {
         "number": "538",
         "word": "autor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "writer, author",
         "example": "cuando un autor escribe un mal libro, se cierra o se tira a la papelera"
     },
@@ -3943,7 +3943,7 @@
     {
         "number": "564",
         "word": "m\u00e9dico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "doctor",
         "example": "el m\u00e9dico le toma la muestra al paciente"
     },
@@ -4342,7 +4342,7 @@
     {
         "number": "621",
         "word": "profesor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "professor, teacher",
         "example": "fue profesor de f\u00edsica te\u00f3rica en la  universidad"
     },
@@ -5322,7 +5322,7 @@
     {
         "number": "761",
         "word": "jefe",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "leader, boss, manager",
         "example": "es el jefe de una nueva tribu de guerreros"
     },
@@ -5441,7 +5441,7 @@
     {
         "number": "778",
         "word": "doctor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "doctor",
         "example": "su salud decay\u00f3 y el doctor le recomend\u00f3 una vida m\u00e1s tranquila"
     },
@@ -5707,7 +5707,7 @@
     {
         "number": "816",
         "word": "director",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "director, manager, principal",
         "example": "ejerce este control el director de cada departamento"
     },
@@ -7072,7 +7072,7 @@
     {
         "number": "1011",
         "word": "escritor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "writer",
         "example": "de la pluma del escritor nacen los libros"
     },
@@ -8654,7 +8654,7 @@
     {
         "number": "1237",
         "word": "pol\u00edtico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "politician",
         "example": "la reelecci\u00f3n como el pol\u00edtico m\u00e1s popular"
     },
@@ -8710,7 +8710,7 @@
     {
         "number": "1245",
         "word": "secretario",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "secretary",
         "example": "as\u00ed lo indic\u00f3 el secretario general en una Comisi\u00f3n"
     },
@@ -10628,7 +10628,7 @@
     {
         "number": "1519",
         "word": "ministro",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "(government)",
         "example": "el Ministro de Hacienda dice que no hay mucho que negociar"
     },
@@ -10971,7 +10971,7 @@
     {
         "number": "1568",
         "word": "soldado",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "soldier",
         "example": "vestido con el uniforme de soldado de la Guerra del Pac\u00edfico"
     },
@@ -11755,7 +11755,7 @@
     {
         "number": "1680",
         "word": "abogado",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "lawyer",
         "example": "porque si soy abogado, naturalmente tengo que conocer las leyes"
     },
@@ -11993,7 +11993,7 @@
     {
         "number": "1714",
         "word": "trabajador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "worker, laborer",
         "example": "un 20 de los trabajadores andaluces se dedican al comercio"
     },
@@ -12322,7 +12322,7 @@
     {
         "number": "1761",
         "word": "ingeniero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "engineer",
         "example": "James Watt, el ingeniero escoc\u00e9s, perfeccion\u00f3 el motor a vapor"
     },
@@ -15521,7 +15521,7 @@
     {
         "number": "2218",
         "word": "pintor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "painter",
         "example": "el pintor practica tambi\u00e9n el arte pl\u00e1stico"
     },
@@ -15696,7 +15696,7 @@
     {
         "number": "2243",
         "word": "obrero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "worker, laborer",
         "example": "la selecci\u00f3n de los obreros para determinados trabajos"
     },
@@ -15857,7 +15857,7 @@
     {
         "number": "2266",
         "word": "vendedor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "salesperson",
         "example": "es el vendedor de pescado que va de casa en casa"
     },
@@ -17621,7 +17621,7 @@
     {
         "number": "2518",
         "word": "m\u00fasico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "musician",
         "example": "una marcha de Souza, el m\u00fasico favorito del pueblo americano"
     },
@@ -18132,7 +18132,7 @@
     {
         "number": "2591",
         "word": "corredor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "broker, corridor, runner",
         "example": "el empleo m\u00e1s detestable del orbe: corredor de propiedades"
     },
@@ -19203,7 +19203,7 @@
     {
         "number": "2745",
         "word": "cient\u00edfico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "scientist",
         "example": "los cient\u00edficos acometer\u00e1n importantes investigaciones sobre biolog\u00eda"
     },
@@ -19644,7 +19644,7 @@
     {
         "number": "2808",
         "word": "arquitecto",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "architect",
         "example": "la \u00abdimensi\u00f3n humana\u00bb conseguida por el arquitecto para el nuevo museo"
     },
@@ -20855,14 +20855,14 @@
     {
         "number": "2981",
         "word": "investigador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "researcher, investigator",
         "example": "casi ning\u00fan investigador apuesta ya por la monoterapia contra el sida"
     },
     {
         "number": "2982",
         "word": "t\u00e9cnico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "technician",
         "example": "por el trabajo de los t\u00e9cnicos que dan asistencia t\u00e9cnica a los campesinos"
     },
@@ -21100,7 +21100,7 @@
     {
         "number": "3016",
         "word": "conductor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "driver, conductor",
         "example": "yo defend\u00ed al chofer, al conductor del veh\u00edculo"
     },
@@ -21842,7 +21842,7 @@
     {
         "number": "3122",
         "word": "enfermero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "nurse",
         "example": "tal vez all\u00ed encuentre alg\u00fan m\u00e9dico o enfermero espa\u00f1ol"
     },
@@ -22101,7 +22101,7 @@
     {
         "number": "3159",
         "word": "historiador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "historian",
         "example": "el historiador es un cient\u00edfico social"
     },
@@ -23620,7 +23620,7 @@
     {
         "number": "3376",
         "word": "cazador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "hunter",
         "example": "el animal acosado huye y el cazador lo asesina"
     },
@@ -24306,7 +24306,7 @@
     {
         "number": "3474",
         "word": "pastor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "shepherd, pastor",
         "example": "yo trabajaba de pastor con un reba\u00f1o peque\u00f1o"
     },
@@ -24677,7 +24677,7 @@
     {
         "number": "3527",
         "word": "administrador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "administrator, manager",
         "example": "se contratea los servicios de un administrador profesional"
     },
@@ -26749,7 +26749,7 @@
     {
         "number": "3824",
         "word": "pescador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "fisherman",
         "example": "Cristo busc\u00f3 a 12 pescadores que no sab\u00edan leer ni escribir"
     },
@@ -27057,7 +27057,7 @@
     {
         "number": "3868",
         "word": "f\u00edsico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "physicist",
         "example": "los f\u00edsicos emplean tambi\u00e9n reactores de fisi\u00f3n o aceleradores"
     },
@@ -27890,7 +27890,7 @@
     {
         "number": "3987",
         "word": "embajador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "ambassador",
         "example": "es nuestro embajador en las Naciones  Unidas"
     },
@@ -28051,7 +28051,7 @@
     {
         "number": "4010",
         "word": "servidor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "servant",
         "example": "\u00e9l no era m\u00e1s que servidor de esos poderosos"
     },
@@ -28142,7 +28142,7 @@
     {
         "number": "4023",
         "word": "cocinero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "cook",
         "example": "un cocinero debe probar todos los sabores"
     },
@@ -28170,7 +28170,7 @@
     {
         "number": "4027",
         "word": "fot\u00f3grafo",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "photographer",
         "example": "el fot\u00f3grafo enfocaba su c\u00e1mara desde distintos \u00e1ngulos"
     },
@@ -28604,7 +28604,7 @@
     {
         "number": "4089",
         "word": "consejero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "advisor, counselor",
         "example": "agradezco al consejero por su informaci\u00f3n  \u00fatil"
     },
@@ -29724,7 +29724,7 @@
     {
         "number": "4249",
         "word": "piloto",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "pilot, driver",
         "example": "\u00e9l quer\u00eda ser piloto de L\u00edneas A\u00e9reas Paraguayas"
     },
@@ -30186,7 +30186,7 @@
     {
         "number": "4315",
         "word": "portero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "porter, doorkeeper, goalkeeper",
         "example": "el portero lo acompa\u00f1\u00f3 hasta el ascensor"
     },
@@ -30683,7 +30683,7 @@
     {
         "number": "4386",
         "word": "senador",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "senator",
         "example": "los diputados y los senadores eran nombrados por el Ejecutivo"
     },
@@ -31243,7 +31243,7 @@
     {
         "number": "4466",
         "word": "asesor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "adviser, consultant",
         "example": "el dirigente de la CIA y el principal asesor del presidente"
     },
@@ -31537,7 +31537,7 @@
     {
         "number": "4508",
         "word": "bailar\u00edn",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "dancer",
         "example": "sali\u00f3 de puntillas como un bailar\u00edn"
     },
@@ -31628,7 +31628,7 @@
     {
         "number": "4521",
         "word": "inspector",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "inspector",
         "example": "apareci\u00f3 un inspector municipal que quiso cobrar impuestos"
     },
@@ -31789,7 +31789,7 @@
     {
         "number": "4544",
         "word": "economista",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "economist",
         "example": "el economista que trabajaba en el Banco Central"
     },
@@ -32209,7 +32209,7 @@
     {
         "number": "4604",
         "word": "psic\u00f3logo",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "psychologist",
         "example": "el psic\u00f3logo ayuda a los pacientes a comprender mejor sus problemas"
     },
@@ -32538,7 +32538,7 @@
     {
         "number": "4651",
         "word": "editor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "editor, publisher",
         "example": "en la reuni\u00f3n con los editores de peri\u00f3dicos de Canad\u00e1"
     },
@@ -32867,7 +32867,7 @@
     {
         "number": "4698",
         "word": "cirujano",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "surgeon",
         "example": "un internista, un pediatra, un cirujano, un ginec\u00f3logo y dentista"
     },
@@ -33035,7 +33035,7 @@
     {
         "number": "4722",
         "word": "diplom\u00e1tico",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "diplomat",
         "example": "el presidente, los ministros y los diplom\u00e1ticos extranjeros"
     },
@@ -33539,7 +33539,7 @@
     {
         "number": "4794",
         "word": "agricultor",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "farmer",
         "example": "comenz\u00f3 como una sociedad rural de agricultores independientes"
     },
@@ -34176,7 +34176,7 @@
     {
         "number": "4885",
         "word": "guerrero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "warrior, soldier",
         "example": "los asesinos y los guerreros s\u00f3lo pueden morir en la guerra"
     },
@@ -34624,7 +34624,7 @@
     {
         "number": "4949",
         "word": "marinero",
-        "part": "nm/f",
+        "part": "nm+f",
         "translation": "sailor",
         "example": "los marineros pod\u00edan salir del barco utilizando una maroma"
     },

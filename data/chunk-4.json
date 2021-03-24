@@ -51,7 +51,7 @@
  {
   "number": "4010",
   "word": "servidor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "servant",
   "example": "él no era más que servidor de esos poderosos"
  },
@@ -142,7 +142,7 @@
  {
   "number": "4023",
   "word": "cocinero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "cook",
   "example": "un cocinero debe probar todos los sabores"
  },
@@ -170,7 +170,7 @@
  {
   "number": "4027",
   "word": "fotógrafo",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "photographer",
   "example": "el fotógrafo enfocaba su cámara desde distintos ángulos"
  },
@@ -604,7 +604,7 @@
  {
   "number": "4089",
   "word": "consejero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "advisor, counselor",
   "example": "agradezco al consejero por su información  útil"
  },
@@ -1724,7 +1724,7 @@
  {
   "number": "4249",
   "word": "piloto",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "pilot, driver",
   "example": "él quería ser piloto de Líneas Aéreas Paraguayas"
  },
@@ -2186,7 +2186,7 @@
  {
   "number": "4315",
   "word": "portero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "porter, doorkeeper, goalkeeper",
   "example": "el portero lo acompañó hasta el ascensor"
  },
@@ -2683,7 +2683,7 @@
  {
   "number": "4386",
   "word": "senador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "senator",
   "example": "los diputados y los senadores eran nombrados por el Ejecutivo"
  },
@@ -3243,7 +3243,7 @@
  {
   "number": "4466",
   "word": "asesor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "adviser, consultant",
   "example": "el dirigente de la CIA y el principal asesor del presidente"
  },
@@ -3537,7 +3537,7 @@
  {
   "number": "4508",
   "word": "bailarín",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "dancer",
   "example": "salió de puntillas como un bailarín"
  },
@@ -3628,7 +3628,7 @@
  {
   "number": "4521",
   "word": "inspector",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "inspector",
   "example": "apareció un inspector municipal que quiso cobrar impuestos"
  },
@@ -3789,7 +3789,7 @@
  {
   "number": "4544",
   "word": "economista",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "economist",
   "example": "el economista que trabajaba en el Banco Central"
  },
@@ -4209,7 +4209,7 @@
  {
   "number": "4604",
   "word": "psicólogo",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "psychologist",
   "example": "el psicólogo ayuda a los pacientes a comprender mejor sus problemas"
  },
@@ -4538,7 +4538,7 @@
  {
   "number": "4651",
   "word": "editor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "editor, publisher",
   "example": "en la reunión con los editores de periódicos de Canadá"
  },
@@ -4867,7 +4867,7 @@
  {
   "number": "4698",
   "word": "cirujano",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "surgeon",
   "example": "un internista, un pediatra, un cirujano, un ginecólogo y dentista"
  },
@@ -5035,7 +5035,7 @@
  {
   "number": "4722",
   "word": "diplomático",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "diplomat",
   "example": "el presidente, los ministros y los diplomáticos extranjeros"
  },
@@ -5539,7 +5539,7 @@
  {
   "number": "4794",
   "word": "agricultor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "farmer",
   "example": "comenzó como una sociedad rural de agricultores independientes"
  },
@@ -6176,7 +6176,7 @@
  {
   "number": "4885",
   "word": "guerrero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "warrior, soldier",
   "example": "los asesinos y los guerreros sólo pueden morir en la guerra"
  },
@@ -6624,7 +6624,7 @@
  {
   "number": "4949",
   "word": "marinero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "sailor",
   "example": "los marineros podían salir del barco utilizando una maroma"
  },

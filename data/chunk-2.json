@@ -1521,7 +1521,7 @@
  {
   "number": "2218",
   "word": "pintor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "painter",
   "example": "el pintor practica también el arte plástico"
  },
@@ -1696,7 +1696,7 @@
  {
   "number": "2243",
   "word": "obrero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "worker, laborer",
   "example": "la selección de los obreros para determinados trabajos"
  },
@@ -1857,7 +1857,7 @@
  {
   "number": "2266",
   "word": "vendedor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "salesperson",
   "example": "es el vendedor de pescado que va de casa en casa"
  },
@@ -3621,7 +3621,7 @@
  {
   "number": "2518",
   "word": "músico",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "musician",
   "example": "una marcha de Souza, el músico favorito del pueblo americano"
  },
@@ -4132,7 +4132,7 @@
  {
   "number": "2591",
   "word": "corredor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "broker, corridor, runner",
   "example": "el empleo más detestable del orbe: corredor de propiedades"
  },
@@ -5203,7 +5203,7 @@
  {
   "number": "2745",
   "word": "científico",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "scientist",
   "example": "los científicos acometerán importantes investigaciones sobre biología"
  },
@@ -5644,7 +5644,7 @@
  {
   "number": "2808",
   "word": "arquitecto",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "architect",
   "example": "la «dimensión humana» conseguida por el arquitecto para el nuevo museo"
  },
@@ -6855,14 +6855,14 @@
  {
   "number": "2981",
   "word": "investigador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "researcher, investigator",
   "example": "casi ningún investigador apuesta ya por la monoterapia contra el sida"
  },
  {
   "number": "2982",
   "word": "técnico",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "technician",
   "example": "por el trabajo de los técnicos que dan asistencia técnica a los campesinos"
  },

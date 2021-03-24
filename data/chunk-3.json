@@ -100,7 +100,7 @@
  {
   "number": "3016",
   "word": "conductor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "driver, conductor",
   "example": "yo defendí al chofer, al conductor del vehículo"
  },
@@ -842,7 +842,7 @@
  {
   "number": "3122",
   "word": "enfermero",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "nurse",
   "example": "tal vez allí encuentre algún médico o enfermero español"
  },
@@ -1101,7 +1101,7 @@
  {
   "number": "3159",
   "word": "historiador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "historian",
   "example": "el historiador es un científico social"
  },
@@ -2620,7 +2620,7 @@
  {
   "number": "3376",
   "word": "cazador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "hunter",
   "example": "el animal acosado huye y el cazador lo asesina"
  },
@@ -3306,7 +3306,7 @@
  {
   "number": "3474",
   "word": "pastor",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "shepherd, pastor",
   "example": "yo trabajaba de pastor con un rebaño pequeño"
  },
@@ -3677,7 +3677,7 @@
  {
   "number": "3527",
   "word": "administrador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "administrator, manager",
   "example": "se contratea los servicios de un administrador profesional"
  },
@@ -5749,7 +5749,7 @@
  {
   "number": "3824",
   "word": "pescador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "fisherman",
   "example": "Cristo buscó a 12 pescadores que no sabían leer ni escribir"
  },
@@ -6057,7 +6057,7 @@
  {
   "number": "3868",
   "word": "físico",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "physicist",
   "example": "los físicos emplean también reactores de fisión o aceleradores"
  },
@@ -6890,7 +6890,7 @@
  {
   "number": "3987",
   "word": "embajador",
-  "part": "nm/f",
+  "part": "nm+f",
   "translation": "ambassador",
   "example": "es nuestro embajador en las Naciones  Unidas"
  },
