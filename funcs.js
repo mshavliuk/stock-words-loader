@@ -77,6 +77,7 @@ const _getGoogleImages = async (term, page, language) => {
         key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE',
         cx: '39f4e4b553cd22a08',
         searchType: 'image',
+        fileType: 'jpg',
         num: '10',
         start: String(1 + 10 * (page - 1))
     }
@@ -110,7 +111,11 @@ const getImages = async (term, page, lang, provider) => {
 }
 
 const setImage = async ({term, url, part}) => {
-    const ext = url.replace(/.*\.(\w+)$/, '$1')
+    const extRegEx = /.*\.(\w{3,4})$/
+    let ext = 'jpg'
+    if(extRegEx.test(url)) {
+        ext = url.match(extRegEx)[1]
+    }
     await download(url, `${dir}/${term}[${part}].${ext}`)
 }
 
