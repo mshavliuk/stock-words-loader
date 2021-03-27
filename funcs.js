@@ -1,7 +1,11 @@
 const fs = require('fs-extra')
 const glob = require("glob");
 const axios = require('axios');
+const sstk = require("shutterstock-api");
 
+
+sstk.setAccessToken('v2/eVVrM2ptZXowOFBBd2JFbE02V3d1TXp3bnRVZTVDRmsvMjk0MzEzMDg3L2N1c3RvbWVyLzMva0dmTUpaTXBvUjdzZ3l1WFExdkI5RDhWNzFjeE1pMG5yM1pqS3p6ZFdWSHAyd2FadG9tUEprMTF1bmJUc2N3LXlMOENRcnp0M1Y4SVo2emk3QzFDcVNtYWI1N3FjU2JVTWdPc2dYckg5SjFOMXRKRk5lWG1XU3ZTS3VZVk1aZUJZR0RHS0tRcjI4cExoc1czVGpKMDc1R0t4a2lva1pvS1JtNnh1clhVWXZEYlJpMVpLT2duNTl5MURNb20tbWJwc0VjTjEyV3ZNU2ltWWktcElhWXNJQQ');
+const imagesApi = new sstk.ImagesApi();
 const chunkNum = 0;
 
 
@@ -47,6 +51,27 @@ const _getPixabayImages = async (term, page, language) => {
     }
 }
 
+const _getShutterstockImages = async (term, page, language) => {
+    const queryParams = {
+        "query": "QUERY",
+        "page": 1,
+        "language": "es",
+        "aspect_ratio_max": 1.7,
+        "aspect_ratio_min": 1.3,
+        "per_page": 10,
+        "sort": "random",
+        "view": "minimal"
+    };
+
+    const query = {...queryParams, "query": term, page, language}
+    const response = await imagesApi.searchImages(query);
+    if (response.data && response.data.length > 0) {
+        return response.data.map(item => item.assets.huge_thumb.url)
+    } else {
+        return [];
+    }
+}
+
 const _getGoogleImages = async (term, page, language) => {
     const queryParams = {
         key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE',
@@ -77,6 +102,8 @@ const getImages = async (term, page, lang, provider) => {
     switch (provider) {
         case 'pixabay':
             return _getPixabayImages(term, page, lang)
+        case 'shutterstock':
+            return _getShutterstockImages(term, page, lang)
         case 'google':
             return _getGoogleImages(term, page, lang)
     }

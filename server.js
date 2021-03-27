@@ -22,7 +22,7 @@ app.get('/:term/:part', async (req, res) => {
     const page = req.query.page || 1;
 
 
-    const providers = ['pixabay', 'google']
+    const providers = ['pixabay', 'shutterstock', 'google']
     const providerIndex = (page - 1) % providers.length
     const provider = providers[providerIndex]
     const providersPage = page / (providerIndex + 1)
