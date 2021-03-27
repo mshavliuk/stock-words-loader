@@ -20,12 +20,19 @@ app.get('/:term/:part', async (req, res) => {
     const term = req.params.term;
     const part = req.params.part;
     const page = req.query.page || 1;
+
+
+    const providers = ['pixabay', 'google']
+    const providerIndex = (page - 1) % providers.length
+    const provider = providers[providerIndex]
+    const providersPage = page / (providerIndex + 1)
+
     const translation = req.query.translation
     const word = app.locals.words.find(word => word.word === term && word.part === part)
     if (word) {
         const lang = translation ? 'en' : 'es';
         const termToSearch = translation ? translation : term;
-        const images = await funcs.getImages(termToSearch, page, lang)
+        const images = await funcs.getImages(termToSearch, providersPage, lang, provider)
         res.render("term", {images, ...word, ...app.locals})
     } else {
         res.send('not found')
