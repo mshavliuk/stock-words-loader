@@ -6,7 +6,7 @@ const sstk = require("shutterstock-api");
 
 sstk.setAccessToken('v2/eVVrM2ptZXowOFBBd2JFbE02V3d1TXp3bnRVZTVDRmsvMjk0MzEzMDg3L2N1c3RvbWVyLzMva0dmTUpaTXBvUjdzZ3l1WFExdkI5RDhWNzFjeE1pMG5yM1pqS3p6ZFdWSHAyd2FadG9tUEprMTF1bmJUc2N3LXlMOENRcnp0M1Y4SVo2emk3QzFDcVNtYWI1N3FjU2JVTWdPc2dYckg5SjFOMXRKRk5lWG1XU3ZTS3VZVk1aZUJZR0RHS0tRcjI4cExoc1czVGpKMDc1R0t4a2lva1pvS1JtNnh1clhVWXZEYlJpMVpLT2duNTl5MURNb20tbWJwc0VjTjEyV3ZNU2ltWWktcElhWXNJQQ');
 const imagesApi = new sstk.ImagesApi();
-const chunkNum = 0;
+const chunkNum = process.env.CHUNK_NUM;
 
 
 const googleKeyPairs = [

@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const funcs = require('./funcs')
 const express = require('express')
 const path = require('path');
