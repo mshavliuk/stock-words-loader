@@ -4,9 +4,17 @@ const path = require('path');
 const app = express()
 const port = 3000
 const bodyParser = require("body-parser");
+const Sentry = require("@sentry/node");
+
+
+Sentry.init({
+    dsn: "https://968ecbdf3c254624916112a402b5b5c3@o121277.ingest.sentry.io/5695432",
+});
 
 app.set("view engine", "pug");
 app.set("views", path.join(__dirname, "views"));
+app.use(Sentry.Handlers.requestHandler());
+app.use(Sentry.Handlers.errorHandler());
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
@@ -16,7 +24,7 @@ app.get('/', (req, res) => {
     res.redirect(`/${next.word}/${next.part}`)
 })
 
-app.get('/:term/:part', async (req, res) => {
+app.get('/:term/:part', async (req, res, next) => {
     const term = req.params.term;
     const part = req.params.part;
     const page = req.query.page || 1;
@@ -32,17 +40,21 @@ app.get('/:term/:part', async (req, res) => {
     if (word) {
         const lang = translation ? 'en' : 'es';
         const termToSearch = translation ? translation : term;
-        const images = await funcs.getImages(termToSearch, providersPage, lang, provider)
-        res.render("term", {images, ...word, ...app.locals})
+        try {
+            const images = await funcs.getImages(termToSearch, providersPage, lang, provider)
+            res.render("term", {images, ...word, ...app.locals})
+        } catch (error) {
+            return next(error)
+        }
     } else {
         res.send('not found')
     }
 })
 
 app.post('/:term/:part', (req, res) => {
-    const {term, url, part, skip } = req.body;
+    const {term, url, part, skip} = req.body;
 
-    if(skip) {
+    if (skip) {
         funcs.skipWord(term, part);
     } else {
         funcs.setImage({term, url, part});
@@ -51,21 +63,30 @@ app.post('/:term/:part', (req, res) => {
     res.send({next})
 });
 
+app.use(function (err, req, res, next) {
+    console.error(err.stack)
+    res.status(500).render("error", {stack: err.stack})
+})
+
 app.listen(port, async () => {
     console.log(`Example app listening at http://localhost:${port}`)
-    const words = await funcs.getAllWords();
-    app.locals['total'] = words.length;
-    app.locals['index'] = 0;
-    app.locals['nextWord'] = (function* () {
-        for (let word of words.reverse()) {
-            app.locals['index']++;
-            if(word.skip || funcs.isLoaded(word.word, word.part)) {
-                continue;
+    try {
+        const words = await funcs.getAllWords();
+        app.locals['total'] = words.length;
+        app.locals['index'] = 0;
+        app.locals['nextWord'] = (function* () {
+            for (let word of words.reverse()) {
+                app.locals['index']++;
+                if (word.skip || funcs.isLoaded(word.word, word.part)) {
+                    continue;
+                }
+                yield word
             }
-            yield word
-        }
-        return null;
-    })();
-    app.locals['words'] = words;
+            return null;
+        })();
+        app.locals['words'] = words;
+    } catch (e) {
+        Sentry.captureException(e)
+    }
 })
 

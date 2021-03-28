@@ -45,10 +45,7 @@ const _getPixabayImages = async (term, page, language) => {
     const response = await axios({
         method: 'get',
         url: url,
-    }).catch(error => {
-        console.log(error)
-    });
-
+    })
 
     if (response && response.data && response.data.hits && response.data.hits.length > 0) {
         return response.data.hits.map(item => item.webformatURL)
@@ -93,9 +90,7 @@ const _getGoogleImages = async (term, page, language) => {
     const response = await axios({
         method: 'get',
         url: url,
-    }).catch(error => {
-        console.log(error)
-    });
+    })
 
     if (response && response.data && response.data.items) {
         return response.data.items.map(item => item.link)
