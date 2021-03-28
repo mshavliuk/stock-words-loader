@@ -25,7 +25,7 @@ app.get('/:term/:part', async (req, res) => {
     const providers = ['pixabay', 'shutterstock', 'google']
     const providerIndex = (page - 1) % providers.length
     const provider = providers[providerIndex]
-    const providersPage = page / (providerIndex + 1)
+    const providersPage = Math.ceil(page / providers.length)
 
     const translation = req.query.translation
     const word = app.locals.words.find(word => word.word === term && word.part === part)
