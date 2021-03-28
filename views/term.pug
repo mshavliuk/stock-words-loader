@@ -16,5 +16,7 @@ html
         h3="Part of speech: " + part
         h3="Example: " + example
         h4=`(${index} / ${total})`
+        if images.length === 0
+            span(class="no-image-placeholder") No images were found. Try the next page!
         for image in images
             img(src=image onclick=`selectImage("${word}",  "${part}", "${image}")`)

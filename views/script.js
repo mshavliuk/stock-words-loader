@@ -53,7 +53,7 @@ function loadPageByTranslation(e) {
 function addQueryParam(param) {
     let params = getQueryParams();
     params = {...params, ...param};
-    document.location.search = '?' + Object.entries(params).map(([k, v]) => `${k}=${v}`).join('&')
+    document.location.search = '?' + new URLSearchParams(params).toString()
 }
 
 function getQueryParams() {

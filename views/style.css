@@ -13,3 +13,9 @@ img {
 form {
     margin: 10px 0;
 }
+
+.no-image-placeholder {
+    font-size: 30px;
+    display: block;
+    margin: 30px auto;
+}
