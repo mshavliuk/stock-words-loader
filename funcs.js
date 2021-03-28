@@ -9,6 +9,12 @@ const imagesApi = new sstk.ImagesApi();
 const chunkNum = 0;
 
 
+const googleKeyPairs = [
+    {key: 'AIzaSyB7-hlob9p0ak1TK3VhHq-K36L9kfa_Uws', cx: '97db1c92acc9da786'},
+    // {key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE', cx: '39f4e4b553cd22a08'}
+]
+
+
 const dir = './words-images'
 
 const download = async (fileUrl, outputLocationPath) => {
@@ -44,7 +50,7 @@ const _getPixabayImages = async (term, page, language) => {
     });
 
 
-    if (response.data && response.data.hits && response.data.hits.length > 0) {
+    if (response && response.data && response.data.hits && response.data.hits.length > 0) {
         return response.data.hits.map(item => item.webformatURL)
     } else {
         return [];
@@ -65,7 +71,7 @@ const _getShutterstockImages = async (term, page, language) => {
 
     const query = {...queryParams, "query": term, page, language}
     const response = await imagesApi.searchImages(query);
-    if (response.data && response.data.length > 0) {
+    if (response && response.data && response.data.length > 0) {
         return response.data.map(item => item.assets.huge_thumb.url)
     } else {
         return [];
@@ -73,9 +79,9 @@ const _getShutterstockImages = async (term, page, language) => {
 }
 
 const _getGoogleImages = async (term, page, language) => {
+    const keyPair = googleKeyPairs[Math.round(Math.random() * 100) % googleKeyPairs.length];
     const queryParams = {
-        key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE',
-        cx: '39f4e4b553cd22a08',
+        ...keyPair,
         searchType: 'image',
         fileType: 'jpg',
         num: '10',
@@ -91,7 +97,7 @@ const _getGoogleImages = async (term, page, language) => {
         console.log(error)
     });
 
-    if (response.data && response.data.items) {
+    if (response && response.data && response.data.items) {
         return response.data.items.map(item => item.link)
     } else {
         return [];
@@ -113,7 +119,7 @@ const getImages = async (term, page, lang, provider) => {
 const setImage = async ({term, url, part}) => {
     const extRegEx = /.*\.(\w{3,4})$/
     let ext = 'jpg'
-    if(extRegEx.test(url)) {
+    if (extRegEx.test(url)) {
         ext = url.match(extRegEx)[1]
     }
     await download(url, `${dir}/${term}[${part}].${ext}`)
