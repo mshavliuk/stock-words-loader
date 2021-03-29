@@ -11,7 +11,7 @@ const chunkNum = process.env.CHUNK_NUM;
 
 const googleKeyPairs = [
     {key: 'AIzaSyB7-hlob9p0ak1TK3VhHq-K36L9kfa_Uws', cx: '97db1c92acc9da786'},
-    // {key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE', cx: '39f4e4b553cd22a08'}
+    {key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE', cx: '39f4e4b553cd22a08'}
 ]
 
 
