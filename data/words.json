@@ -1858,7 +1858,7 @@
   "number": "266",
   "word": "acabar",
   "part": "v",
-  "translation": "acabar de V: to have just Ved",
+  "translation": "to have just, finished",
   "example": "la que ahora se acaba de traducir al castellano"
  },
  {
@@ -1900,7 +1900,7 @@
   "number": "272",
   "word": "gracia",
   "part": "nf",
-  "translation": "(pl)",
+  "translation": "thank you, grace, favor",
   "example": "bueno, gracias por tu tiempo, ¿eh?"
  },
  {
@@ -5148,7 +5148,7 @@
   "number": "736",
   "word": "pared",
   "part": "nf",
-  "translation": "(interior)",
+  "translation": "wall",
   "example": "en la pared se ve colgada una pintura"
  },
  {
@@ -6163,7 +6163,7 @@
   "number": "881",
   "word": "banco",
   "part": "nm",
-  "translation": "(financial)",
+  "translation": "bank, bench",
   "example": "el Banco de México garantiza una parte del crédito"
  },
  {
@@ -6191,7 +6191,7 @@
   "number": "885",
   "word": "delante",
   "part": "adv",
-  "translation": "(in)",
+  "translation": "in front of, ahead",
   "example": "el caballo marchaba delante y a la derecha"
  },
  {
@@ -7185,7 +7185,7 @@
   "number": "1027",
   "word": "idioma",
   "part": "nm",
-  "translation": "(specific)",
+  "translation": "language",
   "example": "habla en un idioma extraño"
  },
  {
@@ -7297,7 +7297,7 @@
   "number": "1043",
   "word": "total",
   "part": "nm",
-  "translation": "(sum)",
+  "translation": "total",
   "example": "el Estado tiene un total de 2.00 kilómetros  de autopistas de peaje"
  },
  {
@@ -7507,7 +7507,7 @@
   "number": "1073",
   "word": "colegio",
   "part": "nm",
-  "translation": "(high)",
+  "translation": "high school, college",
   "example": "no no, yo tengo una educación del colegio religioso"
  },
  {
@@ -10202,7 +10202,7 @@
   "number": "1458",
   "word": "organismo",
   "part": "nm",
-  "translation": "organization, organism,(human)",
+  "translation": "organization, organism, human body",
   "example": "¿han recibido alguna ayuda de un organismo privado?"
  },
  {
@@ -10629,7 +10629,7 @@
   "number": "1519",
   "word": "ministro",
   "part": "nm+f",
-  "translation": "(government)",
+  "translation": "secretary, minister",
   "example": "el Ministro de Hacienda dice que no hay mucho que negociar"
  },
  {
@@ -11231,7 +11231,7 @@
   "number": "1605",
   "word": "interesado",
   "part": "adj",
-  "translation": "(self-)",
+  "translation": "self-interested",
   "example": "tú estabas muy interesada en las ruinas de Tiahuanacu"
  },
  {
@@ -13590,7 +13590,7 @@
   "number": "1942",
   "word": "muro",
   "part": "nm",
-  "translation": "(outer)",
+  "translation": "wall, rampart",
   "example": "ya se cayó el muro de Berlín; Gorbachov vende Pizza Hut en la Plaza Roja"
  },
  {
@@ -13660,7 +13660,7 @@
   "number": "1952",
   "word": "mueble",
   "part": "nm",
-  "translation": "(piece of)",
+  "translation": "furniture",
   "example": "puro mueble roto, sillas sin sus patas"
  },
  {
@@ -14045,7 +14045,7 @@
   "number": "2007",
   "word": "jornada",
   "part": "nf",
-  "translation": "(working)",
+  "translation": "working day, shift",
   "example": "entró en casa después de una jornada laboral especialmente agotadora"
  },
  {
@@ -14171,7 +14171,7 @@
   "number": "2025",
   "word": "banda",
   "part": "nf",
-  "translation": "(musical)",
+  "translation": "musical band, sash",
   "example": "toco el clarinete y la guitarra en la banda del pueblo"
  },
  {
@@ -14745,7 +14745,7 @@
   "number": "2107",
   "word": "vaso",
   "part": "nm",
-  "translation": "(drinking)",
+  "translation": "glass, vase",
   "example": "entonces levanta el vaso y brinda con el licenciado"
  },
  {
@@ -16509,7 +16509,7 @@
   "number": "2359",
   "word": "bar",
   "part": "nm",
-  "translation": "(snack)",
+  "translation": "bar, cafe",
   "example": "se acomodó en el bar y encendió su primer cigarrillo"
  },
  {
@@ -16978,7 +16978,7 @@
   "number": "2426",
   "word": "pez",
   "part": "nm",
-  "translation": "(alive)",
+  "translation": "fish",
   "example": "en las costas de Maine, pescaban el pez espada"
  },
  {
@@ -17447,7 +17447,7 @@
   "number": "2493",
   "word": "lata",
   "part": "nf",
-  "translation": "(tin)",
+  "translation": "tin can",
   "example": "es que al abrir la lata de sopa Campbells"
  },
  {
@@ -17566,7 +17566,7 @@
   "number": "2510",
   "word": "misa",
   "part": "nf",
-  "translation": "(religious)",
+  "translation": "religious mass)",
   "example": "me lo pongo para la misa del domingo"
  },
  {
@@ -18959,7 +18959,7 @@
   "number": "2709",
   "word": "sentencia",
   "part": "nf",
-  "translation": "(legal)",
+  "translation": "legal sentence, judgment",
   "example": "el juez confirma una sentencia de  culpabilidad"
  },
  {
@@ -21514,7 +21514,7 @@
   "number": "3075",
   "word": "cauce",
   "part": "nm",
-  "translation": "(river)",
+  "translation": "bed, ditch",
   "example": "el río siempre irá por ese cauce, por ese valle"
  },
  {
@@ -22039,7 +22039,7 @@
   "number": "3150",
   "word": "anillo",
   "part": "nm",
-  "translation": "(finger)",
+  "translation": "finger ring",
   "example": "lleva un solo anillo de plata vieja en el  índice"
  },
  {
@@ -23152,7 +23152,7 @@
   "number": "3309",
   "word": "filo",
   "part": "nm",
-  "translation": "(cutting)",
+  "translation": "cutting edge",
   "example": "coloca el filo del cuchillo en la redondez herida y presiona fuerte"
  },
  {
@@ -25532,7 +25532,7 @@
   "number": "3649",
   "word": "parada",
   "part": "nf",
-  "translation": "(transportation)",
+  "translation": "stop",
   "example": "lo encontré frente a la parada de colectivos  de la plaza Pereira"
  },
  {
@@ -25693,7 +25693,7 @@
   "number": "3672",
   "word": "pila",
   "part": "nf",
-  "translation": "(baptismal)",
+  "translation": "font, battery, heap",
   "example": "pone los dedos en la pila de agua bendita"
  },
  {
@@ -26113,7 +26113,7 @@
   "number": "3732",
   "word": "lecho",
   "part": "nm",
-  "translation": "(river)",
+  "translation": "bed, couch",
   "example": "es el lecho donde yo fui concebido, donde yo nací"
  },
  {
@@ -26995,7 +26995,7 @@
   "number": "3859",
   "word": "sábana",
   "part": "nf",
-  "translation": "(bed)",
+  "translation": "sheet",
   "example": "mi cuerpo reposó exhausto sobre la sábana limpia"
  },
  {
@@ -27429,7 +27429,7 @@
   "number": "3921",
   "word": "negociar",
   "part": "v",
-  "translation": "to negotiate, deal (with/in)",
+  "translation": "to negotiate, deal with",
   "example": "me dedico a negociar nulidades  matrimoniales"
  },
  {
@@ -28234,7 +28234,7 @@
   "number": "4036",
   "word": "sendero",
   "part": "nm",
-  "translation": "(foot)",
+  "translation": "foot path",
   "example": "un sendero de piedra conduce a la residencia"
  },
  {
@@ -28493,7 +28493,7 @@
   "number": "4073",
   "word": "plancha",
   "part": "nf",
-  "translation": "(electric)",
+  "translation": "electric iron, plate, sheet",
   "example": "una manchita que después, con la plancha caliente, ensucia toda la ropa"
  },
  {
@@ -31160,7 +31160,7 @@
   "number": "4454",
   "word": "bastón",
   "part": "nm",
-  "translation": "(walking)",
+  "translation": "walking cane",
   "example": "un viejo con bastón que se nos acercó lentamente"
  },
  {
@@ -32826,7 +32826,7 @@
   "number": "4692",
   "word": "atentado",
   "part": "nm",
-  "translation": "(terrorist)",
+  "translation": "attack, offense",
   "example": "está perpetrando un atentado contra los intereses de los consumidores"
  },
  {
@@ -33008,7 +33008,7 @@
   "number": "4718",
   "word": "facción",
   "part": "nf",
-  "translation": "(face)",
+  "translation": "feature, faction",
   "example": "la palidez ha afilado sus facciones"
  },
  {
@@ -33834,7 +33834,7 @@
   "number": "4836",
   "word": "ventanilla",
   "part": "nf",
-  "translation": "(vehicle)",
+  "translation": "window",
   "example": "la carita pegada a la ventanilla del tren"
  },
  {
@@ -34443,7 +34443,7 @@
   "number": "4923",
   "word": "fiera",
   "part": "nf",
-  "translation": "(wild)",
+  "translation": "beast",
   "example": "deambula de un lado a otro como fiera enjaulada"
  },
  {
