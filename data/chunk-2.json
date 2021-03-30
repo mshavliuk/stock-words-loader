@@ -45,7 +45,7 @@
   "number": "2007",
   "word": "jornada",
   "part": "nf",
-  "translation": "(working)",
+  "translation": "working day, shift",
   "example": "entró en casa después de una jornada laboral especialmente agotadora"
  },
  {
@@ -171,7 +171,7 @@
   "number": "2025",
   "word": "banda",
   "part": "nf",
-  "translation": "(musical)",
+  "translation": "musical band, sash",
   "example": "toco el clarinete y la guitarra en la banda del pueblo"
  },
  {
@@ -745,7 +745,7 @@
   "number": "2107",
   "word": "vaso",
   "part": "nm",
-  "translation": "(drinking)",
+  "translation": "glass, vase",
   "example": "entonces levanta el vaso y brinda con el licenciado"
  },
  {
@@ -1816,7 +1816,7 @@
   "number": "2260",
   "word": "ala",
   "part": "nf",
-  "translation": "(",
+  "translation": "wing, flank",
   "example": "a este pájaro habrá que cortarle las alas"
  },
  {
@@ -2509,7 +2509,7 @@
   "number": "2359",
   "word": "bar",
   "part": "nm",
-  "translation": "(snack)",
+  "translation": "bar, cafe",
   "example": "se acomodó en el bar y encendió su primer cigarrillo"
  },
  {
@@ -2978,7 +2978,7 @@
   "number": "2426",
   "word": "pez",
   "part": "nm",
-  "translation": "(alive)",
+  "translation": "fish",
   "example": "en las costas de Maine, pescaban el pez espada"
  },
  {
@@ -3447,7 +3447,7 @@
   "number": "2493",
   "word": "lata",
   "part": "nf",
-  "translation": "(tin)",
+  "translation": "tin can",
   "example": "es que al abrir la lata de sopa Campbells"
  },
  {
@@ -3566,7 +3566,7 @@
   "number": "2510",
   "word": "misa",
   "part": "nf",
-  "translation": "(religious)",
+  "translation": "religious mass)",
   "example": "me lo pongo para la misa del domingo"
  },
  {
@@ -4959,7 +4959,7 @@
   "number": "2709",
   "word": "sentencia",
   "part": "nf",
-  "translation": "(legal)",
+  "translation": "legal sentence, judgment",
   "example": "el juez confirma una sentencia de  culpabilidad"
  },
  {
@@ -5092,7 +5092,7 @@
   "number": "2729",
   "word": "habla",
   "part": "nf",
-  "translation": "(",
+  "translation": "speech, talking",
   "example": "Borges estudió muy profundamente el habla de Buenos Aires"
  },
  {

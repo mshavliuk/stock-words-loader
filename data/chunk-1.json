@@ -185,7 +185,7 @@
   "number": "1027",
   "word": "idioma",
   "part": "nm",
-  "translation": "(specific)",
+  "translation": "language",
   "example": "habla en un idioma extraño"
  },
  {
@@ -297,7 +297,7 @@
   "number": "1043",
   "word": "total",
   "part": "nm",
-  "translation": "(sum)",
+  "translation": "total",
   "example": "el Estado tiene un total de 2.00 kilómetros  de autopistas de peaje"
  },
  {
@@ -507,7 +507,7 @@
   "number": "1073",
   "word": "colegio",
   "part": "nm",
-  "translation": "(high)",
+  "translation": "high school, college",
   "example": "no no, yo tengo una educación del colegio religioso"
  },
  {
@@ -1424,7 +1424,7 @@
   "number": "1204",
   "word": "hambre",
   "part": "nf",
-  "translation": "(",
+  "translation": "hunger, starvation",
   "example": "a veces cuando tengo hambre, como demasiado"
  },
  {
@@ -3202,7 +3202,7 @@
   "number": "1458",
   "word": "organismo",
   "part": "nm",
-  "translation": "organization, organism,(human)",
+  "translation": "organization, organism, human body",
   "example": "¿han recibido alguna ayuda de un organismo privado?"
  },
  {
@@ -3629,7 +3629,7 @@
   "number": "1519",
   "word": "ministro",
   "part": "nm+f",
-  "translation": "(government)",
+  "translation": "secretary, minister",
   "example": "el Ministro de Hacienda dice que no hay mucho que negociar"
  },
  {
@@ -4210,7 +4210,7 @@
   "number": "1602",
   "word": "área",
   "part": "nf",
-  "translation": "(",
+  "translation": "area, zone",
   "example": "encerrando un área circular de unos treinta metros de diámetro"
  },
  {
@@ -4231,7 +4231,7 @@
   "number": "1605",
   "word": "interesado",
   "part": "adj",
-  "translation": "(self-)",
+  "translation": "self-interested",
   "example": "tú estabas muy interesada en las ruinas de Tiahuanacu"
  },
  {
@@ -6590,7 +6590,7 @@
   "number": "1942",
   "word": "muro",
   "part": "nm",
-  "translation": "(outer)",
+  "translation": "wall, rampart",
   "example": "ya se cayó el muro de Berlín; Gorbachov vende Pizza Hut en la Plaza Roja"
  },
  {
@@ -6660,7 +6660,7 @@
   "number": "1952",
   "word": "mueble",
   "part": "nm",
-  "translation": "(piece of)",
+  "translation": "furniture",
   "example": "puro mueble roto, sillas sin sus patas"
  },
  {

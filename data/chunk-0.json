@@ -1354,7 +1354,7 @@
   "number": "194",
   "word": "agua",
   "part": "nf",
-  "translation": "(",
+  "translation": "water",
   "example": "Déme usted un vaso de agua, que tengo mucha sed"
  },
  {
@@ -1858,7 +1858,7 @@
   "number": "266",
   "word": "acabar",
   "part": "v",
-  "translation": "acabar de V: to have just Ved",
+  "translation": "to have just, finished",
   "example": "la que ahora se acaba de traducir al castellano"
  },
  {
@@ -1900,7 +1900,7 @@
   "number": "272",
   "word": "gracia",
   "part": "nf",
-  "translation": "(pl)",
+  "translation": "thank you, grace, favor",
   "example": "bueno, gracias por tu tiempo, ¿eh?"
  },
  {
@@ -5148,7 +5148,7 @@
   "number": "736",
   "word": "pared",
   "part": "nf",
-  "translation": "(interior)",
+  "translation": "wall",
   "example": "en la pared se ve colgada una pintura"
  },
  {
@@ -5820,7 +5820,7 @@
   "number": "832",
   "word": "arma",
   "part": "nf",
-  "translation": "(",
+  "translation": "weapon",
   "example": "después de decir esto, sacó un arma y  disparó"
  },
  {
@@ -6163,7 +6163,7 @@
   "number": "881",
   "word": "banco",
   "part": "nm",
-  "translation": "(financial)",
+  "translation": "bank, bench",
   "example": "el Banco de México garantiza una parte del crédito"
  },
  {
@@ -6191,7 +6191,7 @@
   "number": "885",
   "word": "delante",
   "part": "adv",
-  "translation": "(in)",
+  "translation": "in front of, ahead",
   "example": "el caballo marchaba delante y a la derecha"
  },
  {
@@ -6884,7 +6884,7 @@
   "number": "984",
   "word": "alma",
   "part": "nf",
-  "translation": "(",
+  "translation": "soul",
   "example": "en el fondo de su alma se encendió una llamarada de rebelión"
  },
  {

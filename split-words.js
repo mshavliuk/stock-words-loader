@@ -1,9 +1,8 @@
-const funcs = require('./funcs')
 const fs = require('fs-extra')
 
 
 const splitWords = async () => {
-    const words = await funcs.getAllWords();
+    const words = await fs.readJson(`./data/words.json`);
     let chunk = [];
     let chunkNum = 0;
     for(const word of words) {

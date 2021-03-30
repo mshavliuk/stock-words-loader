@@ -234,7 +234,7 @@
   "number": "4036",
   "word": "sendero",
   "part": "nm",
-  "translation": "(foot)",
+  "translation": "foot path",
   "example": "un sendero de piedra conduce a la residencia"
  },
  {
@@ -493,7 +493,7 @@
   "number": "4073",
   "word": "plancha",
   "part": "nf",
-  "translation": "(electric)",
+  "translation": "electric iron, plate, sheet",
   "example": "una manchita que después, con la plancha caliente, ensucia toda la ropa"
  },
  {
@@ -3160,7 +3160,7 @@
   "number": "4454",
   "word": "bastón",
   "part": "nm",
-  "translation": "(walking)",
+  "translation": "walking cane",
   "example": "un viejo con bastón que se nos acercó lentamente"
  },
  {
@@ -4126,7 +4126,7 @@
   "number": "4592",
   "word": "acta",
   "part": "nf",
-  "translation": "(",
+  "translation": "proceedings, minutes",
   "example": "parecían actas de reuniones del Partido"
  },
  {
@@ -4826,7 +4826,7 @@
   "number": "4692",
   "word": "atentado",
   "part": "nm",
-  "translation": "(terrorist)",
+  "translation": "attack, offense",
   "example": "está perpetrando un atentado contra los intereses de los consumidores"
  },
  {
@@ -5008,7 +5008,7 @@
   "number": "4718",
   "word": "facción",
   "part": "nf",
-  "translation": "(face)",
+  "translation": "feature, faction",
   "example": "la palidez ha afilado sus facciones"
  },
  {
@@ -5834,7 +5834,7 @@
   "number": "4836",
   "word": "ventanilla",
   "part": "nf",
-  "translation": "(vehicle)",
+  "translation": "window",
   "example": "la carita pegada a la ventanilla del tren"
  },
  {
@@ -6443,7 +6443,7 @@
   "number": "4923",
   "word": "fiera",
   "part": "nf",
-  "translation": "(wild)",
+  "translation": "beast",
   "example": "deambula de un lado a otro como fiera enjaulada"
  },
  {
