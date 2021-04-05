@@ -137,11 +137,21 @@ const skipWord = async (term, part) => {
     fs.writeFile(`./data/chunk-${chunkNum}.json`, JSON.stringify(words, null, ' '))
 }
 
+const nextOrRedirect = (req, res) => {
+    const next = req.app.locals.nextWord.next().value;
+    if (next == null) {
+        return res.redirect(`/no-more-results`)
+    } else {
+        return res.redirect(`/${encodeURIComponent(next.word)}/${encodeURIComponent(next.part)}`)
+    }
+}
+
 module.exports = {
     download,
-    getImages,
     getAllWords,
+    getImages,
     isLoaded,
+    nextOrRedirect,
     setImage,
-    skipWord
+    skipWord,
 }

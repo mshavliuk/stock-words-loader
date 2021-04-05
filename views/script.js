@@ -1,38 +1,30 @@
+function follow() {
+    if (this.status !== 200) {
+        alert(`Error ${this.status}: ${this.statusText}`);
+    } else {
+        const nextUrl = new URL(this.responseURL)
+        window.location = nextUrl.pathname;
+    }
+}
+
 function selectImage(term, part, url) {
     console.log(url)
     const xhr = new XMLHttpRequest();
-    xhr.onload = () => {
-        if (xhr.status !== 200) {
-            alert(`Error ${xhr.status}: ${xhr.statusText}`);
-        } else {
-            const nextUrl = new URL(xhr.responseURL)
-            window.location = nextUrl.pathname;
-        }
-    };
-    xhr.open("POST", `/${term}/${part}`);
+    xhr.onload = follow
+    xhr.open("POST", `/select`);
     xhr.responseType = 'json';
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.send(JSON.stringify({url, term, part}));
+    xhr.send(JSON.stringify({term, part}));
 }
 
 function skip(term, part) {
     const xhr = new XMLHttpRequest();
-    xhr.onload = () => {
-        if (xhr.status !== 200) {
-            alert(`Error ${xhr.status}: ${xhr.statusText}`);
-        } else {
-            const part = encodeURIComponent(xhr.response.next.part)
-            const term = encodeURIComponent(xhr.response.next.word)
-            window.location = `/${term}/${part}`;
-        }
-    };
+    xhr.onload = follow
 
-    part = encodeURIComponent(xhr.response.next.part)
-    term = encodeURIComponent(xhr.response.next.word)
-    xhr.open("POST", `/${term}/${part}`,);
+    xhr.open("POST", `/skip`);
     xhr.responseType = 'json';
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.send(JSON.stringify({term, part, skip: true}));
+    xhr.send(JSON.stringify({term, part}));
 }
 
 function nextPage() {

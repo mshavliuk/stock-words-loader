@@ -22,14 +22,8 @@ app.use(bodyParser.json());
 
 
 app.get('/', (req, res) => {
-    const next = app.locals.nextWord.next().value;
-    if (next == null) {
-        res.redirect(`/no-more-results`)
-    } else {
-        res.redirect(`/${encodeURIComponent(next.word)}/${encodeURIComponent(next.part)}`)
-    }
+    return funcs.nextOrRedirect(req, res)
 })
-
 
 app.get('/no-more-results', (req, res) => {
     res.render("no-more-results")
@@ -62,20 +56,19 @@ app.get('/:term/:part', async (req, res, next) => {
     }
 })
 
-app.post('/:term/:part', (req, res) => {
-    const {term, url, part, skip} = req.body;
+app.post('/select', (req, res) => {
+    const {term, url, part} = req.body;
+    funcs.setImage({term, url, part});
 
-    if (skip) {
-        funcs.skipWord(term, part);
-    } else {
-        funcs.setImage({term, url, part});
-    }
-    const next = app.locals.nextWord.next().value
-    if (next == null) {
-        res.redirect(`/no-more-results`)
-    } else {
-        res.redirect(`/${encodeURIComponent(next.word)}/${encodeURIComponent(next.part)}`)
-    }
+    return funcs.nextOrRedirect(req, res)
+});
+
+
+app.post('/skip', (req, res) => {
+    const {term, part} = req.body;
+    funcs.skipWord(term, part);
+
+    return funcs.nextOrRedirect(req, res)
 });
 
 app.use(function (err, req, res, next) {
