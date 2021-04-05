@@ -1,5 +1,8 @@
 html
     body
         div="Something goes wrong!"
-        div="The error details was sent to dev team 👍"
-        div=stack
+        if stack
+            div=stack
+            div="The error details was sent to dev team 👍"
+        if message
+            div=message

@@ -14,6 +14,9 @@ const googleKeyPairs = [
     {key: 'AIzaSyDme1vYIZgbCOgvVtZunIaixptrseKY6KE', cx: '39f4e4b553cd22a08'}
 ]
 
+class GoogleApiTooManyRequestsException {
+    status = 429
+}
 
 const dir = './words-images'
 
@@ -90,6 +93,12 @@ const _getGoogleImages = async (term, page, language) => {
     const response = await axios({
         method: 'get',
         url: url,
+    }).catch((err) => {
+        if(err.response.status === 429) {
+            throw new GoogleApiTooManyRequestsException();
+        } else {
+            throw err
+        }
     })
 
     if (response && response.data && response.data.items) {
@@ -147,6 +156,7 @@ const nextOrRedirect = (req, res) => {
 }
 
 module.exports = {
+    GoogleApiTooManyRequestsException,
     download,
     getAllWords,
     getImages,

@@ -72,6 +72,13 @@ app.post('/skip', (req, res) => {
 
 app.use(function (err, req, res, next) {
     console.error(err.stack)
+
+    if (err instanceof funcs.GoogleApiTooManyRequestsException) {
+        res.status(err.status).render("error", {message: 'Too many requests to Google API 😭'})
+    } else {
+        res.status(500).render("error", {stack: err.stack})
+    }
+
     res.status(500).render("error", {stack: err.stack})
 })
 
