@@ -360,7 +360,7 @@
   "number": "52",
   "word": "yo",
   "part": "pron",
-  "translation": "I",
+  "translation": "i, me",
   "example": "¡Yo soy el padre!"
  },
  {
@@ -780,7 +780,7 @@
   "number": "112",
   "word": "volver",
   "part": "v",
-  "translation": "to return, to V again",
+  "translation": "to return, to do again",
   "example": "los habitantes afectados puedan volver a sus casas"
  },
  {
@@ -1676,7 +1676,7 @@
   "number": "240",
   "word": "señor",
   "part": "nm",
-  "translation": "sir, Mr, lord",
+  "translation": "sir, mr, lord",
   "example": "¿puedo pagar con dólares? Sí señor"
  },
  {
@@ -1991,7 +1991,7 @@
   "number": "285",
   "word": "español",
   "part": "adj",
-  "translation": "Spanish",
+  "translation": "spanish",
   "example": "la lengua española de hoy es el castellano"
  },
  {
@@ -4252,7 +4252,7 @@
   "number": "608",
   "word": "inglés",
   "part": "adj",
-  "translation": "English",
+  "translation": "english",
   "example": "y no tardó en dominar la lengua inglesa"
  },
  {
@@ -4518,7 +4518,7 @@
   "number": "646",
   "word": "francés",
   "part": "adj",
-  "translation": "French",
+  "translation": "french",
   "example": "era una auténtica madame francesa"
  },
  {
@@ -6667,7 +6667,7 @@
   "number": "953",
   "word": "italiano",
   "part": "adj",
-  "translation": "Italian",
+  "translation": "italian",
   "example": "tantas ciudades italianas que son casi como un museo"
  },
  {
@@ -6737,7 +6737,7 @@
   "number": "963",
   "word": "alemán",
   "part": "adj",
-  "translation": "German",
+  "translation": "german",
   "example": "la firma de electricidad alemana AEG, en Berlín"
  },
  {
@@ -6828,7 +6828,7 @@
   "number": "976",
   "word": "señora",
   "part": "nf",
-  "translation": "Mrs., lady, madam",
+  "translation": "mrs., lady, madam",
   "example": "Señora Shoemaker, ¿cuándo descubrió  este cometa?"
  },
  {
@@ -7542,7 +7542,7 @@
   "number": "1078",
   "word": "televisión",
   "part": "nf",
-  "translation": "TV, television",
+  "translation": "tv, television",
   "example": "habrá transmisiones de televisión y radio"
  },
  {
@@ -7640,7 +7640,7 @@
   "number": "1092",
   "word": "europeo",
   "part": "adj",
-  "translation": "European",
+  "translation": "european",
   "example": "como proyección de lo europeo sobre América Latina"
  },
  {
@@ -7794,7 +7794,7 @@
   "number": "1114",
   "word": "cristiano",
   "part": "adj",
-  "translation": "Christian",
+  "translation": "christian",
   "example": "el mandamiento cristiano de sepultar a los muertos"
  },
  {
@@ -7843,7 +7843,7 @@
   "number": "1121",
   "word": "domingo",
   "part": "nm",
-  "translation": "Sunday",
+  "translation": "sunday",
   "example": "asistía a la Iglesia los domingos"
  },
  {
@@ -8109,7 +8109,7 @@
   "number": "1159",
   "word": "cine",
   "part": "nm",
-  "translation": "cinema, US movie theater",
+  "translation": "cinema, movie theater",
   "example": "la foto, el cine y la televisión iban a barrer al libro"
  },
  {
@@ -8704,7 +8704,7 @@
   "number": "1244",
   "word": "agosto",
   "part": "nm",
-  "translation": "August",
+  "translation": "august",
   "example": "tengo que comer el 24 de agosto con el  nuevo ministro"
  },
  {
@@ -8718,7 +8718,7 @@
   "number": "1246",
   "word": "norteamericano",
   "part": "adj",
-  "translation": "North American",
+  "translation": "north american",
   "example": "escucharon el discurso del presidente norteamericano"
  },
  {
@@ -8823,7 +8823,7 @@
   "number": "1261",
   "word": "americano",
   "part": "adj",
-  "translation": "American",
+  "translation": "american",
   "example": "¿viste las series americanas que dan por televisión?"
  },
  {
@@ -9383,7 +9383,7 @@
   "number": "1341",
   "word": "diciembre",
   "part": "nm",
-  "translation": "December",
+  "translation": "december",
   "example": "se apagó un mediodía de diciembre, diez días antes de Navidad"
  },
  {
@@ -9873,7 +9873,7 @@
   "number": "1411",
   "word": "indio",
   "part": "nm",
-  "translation": "Indian",
+  "translation": "indian",
   "example": "me da miedo de que hagan como los españoles con los indios en América"
  },
  {
@@ -9950,7 +9950,7 @@
   "number": "1422",
   "word": "mayo",
   "part": "nm",
-  "translation": "May",
+  "translation": "may",
   "example": "estoy hablando del mes de mayo de 1996"
  },
  {
@@ -10104,7 +10104,7 @@
   "number": "1444",
   "word": "chino",
   "part": "adj",
-  "translation": "Chinese",
+  "translation": "chinese",
   "example": "una escaramuza entre las tropas japonesas  y chinas"
  },
  {
@@ -10139,7 +10139,7 @@
   "number": "1449",
   "word": "enero",
   "part": "nm",
-  "translation": "January",
+  "translation": "january",
   "example": "¿te acuerdas que se daba en enero y luego  en julio?"
  },
  {
@@ -10265,7 +10265,7 @@
   "number": "1467",
   "word": "griego",
   "part": "adj",
-  "translation": "Greek",
+  "translation": "greek",
   "example": "un gran poeta griego de la antigüedad"
  },
  {
@@ -10909,7 +10909,7 @@
   "number": "1559",
   "word": "julio",
   "part": "nm",
-  "translation": "July",
+  "translation": "july",
   "example": "que vamos a tener el cuatro de julio, el día  de la independencia"
  },
  {
@@ -11378,7 +11378,7 @@
   "number": "1626",
   "word": "argentino",
   "part": "adj",
-  "translation": "Argentine",
+  "translation": "argentine",
   "example": "no se puede hablar del dialecto argentino, sino del dialecto porteño"
  },
  {
@@ -11616,7 +11616,7 @@
   "number": "1660",
   "word": "castellano",
   "part": "adj",
-  "translation": "Castilian, Spanish",
+  "translation": "castilian, spanish",
   "example": "en edición bilingüe: castellano e inglés"
  },
  {
@@ -11812,7 +11812,7 @@
   "number": "1688",
   "word": "octubre",
   "part": "nm",
-  "translation": "October",
+  "translation": "october",
   "example": "la primera tierra que pisó Cristóbal Colón el 12 de octubre de 1492"
  },
  {
@@ -12050,7 +12050,7 @@
   "number": "1722",
   "word": "febrero",
   "part": "nm",
-  "translation": "February",
+  "translation": "february",
   "example": "creo que viene otra vez en enero o en febrero"
  },
  {
@@ -12414,7 +12414,7 @@
   "number": "1774",
   "word": "romano",
   "part": "adj",
-  "translation": "Roman",
+  "translation": "roman",
   "example": "la regulación de la lengua latina en el Imperio romano"
  },
  {
@@ -12708,7 +12708,7 @@
   "number": "1816",
   "word": "sábado",
   "part": "nm",
-  "translation": "Saturday",
+  "translation": "saturday",
   "example": "porque ya no tenía descanso los sábados y los domingos"
  },
  {
@@ -13030,7 +13030,7 @@
   "number": "1862",
   "word": "latino",
   "part": "adj",
-  "translation": "Latin",
+  "translation": "latin",
   "example": "congregaciones latinas y congregaciones americanas"
  },
  {
@@ -13450,7 +13450,7 @@
   "number": "1922",
   "word": "abril",
   "part": "nm",
-  "translation": "April",
+  "translation": "april",
   "example": "eso fue el diez de abril como a la una de la tarde"
  },
  {
@@ -14010,7 +14010,7 @@
   "number": "2002",
   "word": "marzo",
   "part": "nm",
-  "translation": "March",
+  "translation": "march",
   "example": "esto ocurrió desde principios de marzo o  un poco después"
  },
  {
@@ -14955,7 +14955,7 @@
   "number": "2137",
   "word": "católico",
   "part": "adj",
-  "translation": "Catholic",
+  "translation": "catholic",
   "example": "en oposición a la Iglesia católica y al luteranismo"
  },
  {
@@ -15032,7 +15032,7 @@
   "number": "2148",
   "word": "noviembre",
   "part": "nm",
-  "translation": "November",
+  "translation": "november",
   "example": "la época de primavera y verano, o sea, desde el mes de noviembre a marzo"
  },
  {
@@ -15179,7 +15179,7 @@
   "number": "2169",
   "word": "japonés",
   "part": "adj",
-  "translation": "Japanese",
+  "translation": "japanese",
   "example": "una grabadora ultramoderna, diminuta, japonesa"
  },
  {
@@ -15305,7 +15305,7 @@
   "number": "2187",
   "word": "lunes",
   "part": "nm",
-  "translation": "Monday",
+  "translation": "monday",
   "example": "dijo que volvería el lunes o martes de la semana próxima"
  },
  {
@@ -16145,7 +16145,7 @@
   "number": "2307",
   "word": "ruso",
   "part": "adj",
-  "translation": "Russian",
+  "translation": "russian",
   "example": "el pueblo ruso tiene que seguir haciendo cola para comprar pan"
  },
  {
@@ -16201,7 +16201,7 @@
   "number": "2315",
   "word": "comunista",
   "part": "adj",
-  "translation": "Communist",
+  "translation": "communist",
   "example": "el partido comunista de la ex Unión  Soviética"
  },
  {
@@ -16229,7 +16229,7 @@
   "number": "2319",
   "word": "judío",
   "part": "adj",
-  "translation": "Jewish",
+  "translation": "jewish",
   "example": "arrojan luz sobre la historia judía, y la lengua hebrea"
  },
  {
@@ -16439,7 +16439,7 @@
   "number": "2349",
   "word": "junio",
   "part": "nm",
-  "translation": "June",
+  "translation": "june",
   "example": "bueno, el mes de junio estuve un poco fastidiado"
  },
  {
@@ -16887,7 +16887,7 @@
   "number": "2413",
   "word": "oriente",
   "part": "nm",
-  "translation": "East",
+  "translation": "east",
   "example": "Fernando de Magallanes buscaba una ruta al Oriente"
  },
  {
@@ -17027,7 +17027,7 @@
   "number": "2433",
   "word": "árabe",
   "part": "adj",
-  "translation": "Arab",
+  "translation": "arab",
   "example": "en la encrucijada de tres mundos: el árabe, el judío y el cristiano"
  },
  {
@@ -17377,7 +17377,7 @@
   "number": "2483",
   "word": "viernes",
   "part": "nm",
-  "translation": "Friday",
+  "translation": "friday",
   "example": "trabajé toda la semana y el viernes cambié  un mísero cheque en el banco"
  },
  {
@@ -18014,7 +18014,7 @@
   "number": "2574",
   "word": "septiembre",
   "part": "nm",
-  "translation": "September",
+  "translation": "september",
   "example": "antes de empezar en septiembre las clases"
  },
  {
@@ -18238,7 +18238,7 @@
   "number": "2606",
   "word": "jueves",
   "part": "nm",
-  "translation": "Thursday",
+  "translation": "thursday",
   "example": "aquí el jueves es el día de moda, el domingo no se trabaja"
  },
  {
@@ -19190,7 +19190,7 @@
   "number": "2743",
   "word": "este",
   "part": "nm",
-  "translation": "East",
+  "translation": "east",
   "example": "es igual en el este como en el oeste"
  },
  {
@@ -21269,7 +21269,7 @@
   "number": "3040",
   "word": "latín",
   "part": "nm",
-  "translation": "Latin",
+  "translation": "latin",
   "example": "conocía solamente las lenguas clásicas -latín y griego -"
  },
  {
@@ -21458,7 +21458,7 @@
   "number": "3067",
   "word": "ojalá",
   "part": "adv",
-  "translation": "I hope that",
+  "translation": "i hope that",
   "example": "ojalá que así sea"
  },
  {
@@ -22137,7 +22137,7 @@
   "number": "3164",
   "word": "chileno",
   "part": "adj",
-  "translation": "Chilean",
+  "translation": "chilean",
   "example": "tomas un argentino, un chileno y un colombiano, un venezolano . . ."
  },
  {
@@ -22844,7 +22844,7 @@
   "number": "3265",
   "word": "británico",
   "part": "adj",
-  "translation": "British",
+  "translation": "british",
   "example": "el imperio británico envió sus soldados a conquistar"
  },
  {
@@ -24006,7 +24006,7 @@
   "number": "3431",
   "word": "miércoles",
   "part": "nm",
-  "translation": "Wednesday",
+  "translation": "wednesday",
   "example": "vendría solamente los lunes, los miércoles y los viernes"
  },
  {
@@ -24419,7 +24419,7 @@
   "number": "3490",
   "word": "martes",
   "part": "nm",
-  "translation": "Tuesday",
+  "translation": "tuesday",
   "example": "todos los martes y jueves voy a mi terapia  con el psicoanalista"
  },
  {
@@ -25567,7 +25567,7 @@
   "number": "3654",
   "word": "africano",
   "part": "adj",
-  "translation": "African",
+  "translation": "african",
   "example": "la exportación de animales salvajes de las junglas africanas"
  },
  {
@@ -25826,7 +25826,7 @@
   "number": "3691",
   "word": "turco",
   "part": "adj",
-  "translation": "Turkish",
+  "translation": "turkish",
   "example": "se refiere al constante peligro turco, vencido en Lepanto"
  },
  {
@@ -26729,7 +26729,7 @@
   "number": "3821",
   "word": "oeste",
   "part": "nm",
-  "translation": "West",
+  "translation": "west",
   "example": "con el pionerismo norteamericano sobre el Oeste"
  },
  {
@@ -27226,7 +27226,7 @@
   "number": "3892",
   "word": "mexicano",
   "part": "adj",
-  "translation": "Mexican",
+  "translation": "mexican",
   "example": "recibe su nombre del actual estado mexicano de Veracruz"
  },
  {
@@ -27317,7 +27317,7 @@
   "number": "3905",
   "word": "cubano",
   "part": "adj",
-  "translation": "Cuban",
+  "translation": "cuban",
   "example": "yo aproveché para encender un buen tabaco cubano"
  },
  {
@@ -27373,7 +27373,7 @@
   "number": "3913",
   "word": "portugués",
   "part": "adj",
-  "translation": "Portuguese",
+  "translation": "portuguese",
   "example": "para que Portugal abandonase Goa y el resto de la India portuguesa"
  },
  {
@@ -27604,7 +27604,7 @@
   "number": "3946",
   "word": "vasco",
   "part": "adj",
-  "translation": "Basque",
+  "translation": "basque",
   "example": "incorporando La Rioja y las tierras vascas occidentales"
  },
  {
@@ -27779,7 +27779,7 @@
   "number": "3971",
   "word": "latinoamericano",
   "part": "adj",
-  "translation": "Latin American",
+  "translation": "latin american",
   "example": "situación común a todo el cine  latinoamericano y español"
  },
  {
@@ -28661,7 +28661,7 @@
   "number": "4097",
   "word": "catalán",
   "part": "adj",
-  "translation": "Catalan",
+  "translation": "catalan",
   "example": "tenían un marcado acento catalán al hablar"
  },
  {
@@ -29424,7 +29424,7 @@
   "number": "4206",
   "word": "holandés",
   "part": "adj",
-  "translation": "Dutch",
+  "translation": "dutch",
   "example": "conservador jefe de pintura flamenca y holandesa"
  },
  {
@@ -30495,7 +30495,7 @@
   "number": "4359",
   "word": "peruano",
   "part": "adj",
-  "translation": "Peruvian",
+  "translation": "peruvian",
   "example": "la cerámica maya, la moche y la peruana de Nazca"
  },
  {
@@ -30719,7 +30719,7 @@
   "number": "4391",
   "word": "brasileño",
   "part": "adj",
-  "translation": "Brazilian",
+  "translation": "brazilian",
   "example": "he terminado en la ciudad brasileña de Manaos"
  },
  {
@@ -30971,7 +30971,7 @@
   "number": "4427",
   "word": "camiseta",
   "part": "nf",
-  "translation": "T-shirt",
+  "translation": "t-shirt",
   "example": "viste pantalón vaquero y camiseta"
  },
  {
@@ -31048,7 +31048,7 @@
   "number": "4438",
   "word": "soviético",
   "part": "adj",
-  "translation": "Soviet",
+  "translation": "soviet",
   "example": "la intervención del Ejército soviético en Afganistán"
  },
  {
@@ -31482,7 +31482,7 @@
   "number": "4500",
   "word": "suizo",
   "part": "adj",
-  "translation": "Swiss",
+  "translation": "swiss",
   "example": "el paisaje suizo de los Alpes"
  },
  {
@@ -32119,7 +32119,7 @@
   "number": "4591",
   "word": "andaluz",
   "part": "adj",
-  "translation": "Andalusian",
+  "translation": "andalusian",
   "example": "las provincias andaluzas - Málaga, Granada, Córdoba…"
  },
  {
@@ -32847,7 +32847,7 @@
   "number": "4695",
   "word": "colombiano",
   "part": "adj",
-  "translation": "Colombian",
+  "translation": "colombian",
   "example": "en los ríos que parecen mares de la frontera colombiana"
  },
  {
@@ -34863,7 +34863,7 @@
   "number": "4983",
   "word": "hispano",
   "part": "adj",
-  "translation": "Hispanic",
+  "translation": "hispanic",
   "example": "los calificativos ‘hispano’ o ‘blanco’ obedecen a definiciones sociales"
  },
  {

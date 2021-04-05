@@ -360,7 +360,7 @@
   "number": "52",
   "word": "yo",
   "part": "pron",
-  "translation": "I",
+  "translation": "i, me",
   "example": "¡Yo soy el padre!"
  },
  {
@@ -780,7 +780,7 @@
   "number": "112",
   "word": "volver",
   "part": "v",
-  "translation": "to return, to V again",
+  "translation": "to return, to do again",
   "example": "los habitantes afectados puedan volver a sus casas"
  },
  {
@@ -1676,7 +1676,7 @@
   "number": "240",
   "word": "señor",
   "part": "nm",
-  "translation": "sir, Mr, lord",
+  "translation": "sir, mr, lord",
   "example": "¿puedo pagar con dólares? Sí señor"
  },
  {
@@ -1991,7 +1991,7 @@
   "number": "285",
   "word": "español",
   "part": "adj",
-  "translation": "Spanish",
+  "translation": "spanish",
   "example": "la lengua española de hoy es el castellano"
  },
  {
@@ -4252,7 +4252,7 @@
   "number": "608",
   "word": "inglés",
   "part": "adj",
-  "translation": "English",
+  "translation": "english",
   "example": "y no tardó en dominar la lengua inglesa"
  },
  {
@@ -4518,7 +4518,7 @@
   "number": "646",
   "word": "francés",
   "part": "adj",
-  "translation": "French",
+  "translation": "french",
   "example": "era una auténtica madame francesa"
  },
  {
@@ -6667,7 +6667,7 @@
   "number": "953",
   "word": "italiano",
   "part": "adj",
-  "translation": "Italian",
+  "translation": "italian",
   "example": "tantas ciudades italianas que son casi como un museo"
  },
  {
@@ -6737,7 +6737,7 @@
   "number": "963",
   "word": "alemán",
   "part": "adj",
-  "translation": "German",
+  "translation": "german",
   "example": "la firma de electricidad alemana AEG, en Berlín"
  },
  {
@@ -6828,7 +6828,7 @@
   "number": "976",
   "word": "señora",
   "part": "nf",
-  "translation": "Mrs., lady, madam",
+  "translation": "mrs., lady, madam",
   "example": "Señora Shoemaker, ¿cuándo descubrió  este cometa?"
  },
  {

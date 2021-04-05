@@ -542,7 +542,7 @@
   "number": "1078",
   "word": "televisión",
   "part": "nf",
-  "translation": "TV, television",
+  "translation": "tv, television",
   "example": "habrá transmisiones de televisión y radio"
  },
  {
@@ -640,7 +640,7 @@
   "number": "1092",
   "word": "europeo",
   "part": "adj",
-  "translation": "European",
+  "translation": "european",
   "example": "como proyección de lo europeo sobre América Latina"
  },
  {
@@ -794,7 +794,7 @@
   "number": "1114",
   "word": "cristiano",
   "part": "adj",
-  "translation": "Christian",
+  "translation": "christian",
   "example": "el mandamiento cristiano de sepultar a los muertos"
  },
  {
@@ -843,7 +843,7 @@
   "number": "1121",
   "word": "domingo",
   "part": "nm",
-  "translation": "Sunday",
+  "translation": "sunday",
   "example": "asistía a la Iglesia los domingos"
  },
  {
@@ -1109,7 +1109,7 @@
   "number": "1159",
   "word": "cine",
   "part": "nm",
-  "translation": "cinema, US movie theater",
+  "translation": "cinema, movie theater",
   "example": "la foto, el cine y la televisión iban a barrer al libro"
  },
  {
@@ -1704,7 +1704,7 @@
   "number": "1244",
   "word": "agosto",
   "part": "nm",
-  "translation": "August",
+  "translation": "august",
   "example": "tengo que comer el 24 de agosto con el  nuevo ministro"
  },
  {
@@ -1718,7 +1718,7 @@
   "number": "1246",
   "word": "norteamericano",
   "part": "adj",
-  "translation": "North American",
+  "translation": "north american",
   "example": "escucharon el discurso del presidente norteamericano"
  },
  {
@@ -1823,7 +1823,7 @@
   "number": "1261",
   "word": "americano",
   "part": "adj",
-  "translation": "American",
+  "translation": "american",
   "example": "¿viste las series americanas que dan por televisión?"
  },
  {
@@ -2383,7 +2383,7 @@
   "number": "1341",
   "word": "diciembre",
   "part": "nm",
-  "translation": "December",
+  "translation": "december",
   "example": "se apagó un mediodía de diciembre, diez días antes de Navidad"
  },
  {
@@ -2873,7 +2873,7 @@
   "number": "1411",
   "word": "indio",
   "part": "nm",
-  "translation": "Indian",
+  "translation": "indian",
   "example": "me da miedo de que hagan como los españoles con los indios en América"
  },
  {
@@ -2950,7 +2950,7 @@
   "number": "1422",
   "word": "mayo",
   "part": "nm",
-  "translation": "May",
+  "translation": "may",
   "example": "estoy hablando del mes de mayo de 1996"
  },
  {
@@ -3104,7 +3104,7 @@
   "number": "1444",
   "word": "chino",
   "part": "adj",
-  "translation": "Chinese",
+  "translation": "chinese",
   "example": "una escaramuza entre las tropas japonesas  y chinas"
  },
  {
@@ -3139,7 +3139,7 @@
   "number": "1449",
   "word": "enero",
   "part": "nm",
-  "translation": "January",
+  "translation": "january",
   "example": "¿te acuerdas que se daba en enero y luego  en julio?"
  },
  {
@@ -3265,7 +3265,7 @@
   "number": "1467",
   "word": "griego",
   "part": "adj",
-  "translation": "Greek",
+  "translation": "greek",
   "example": "un gran poeta griego de la antigüedad"
  },
  {
@@ -3909,7 +3909,7 @@
   "number": "1559",
   "word": "julio",
   "part": "nm",
-  "translation": "July",
+  "translation": "july",
   "example": "que vamos a tener el cuatro de julio, el día  de la independencia"
  },
  {
@@ -4378,7 +4378,7 @@
   "number": "1626",
   "word": "argentino",
   "part": "adj",
-  "translation": "Argentine",
+  "translation": "argentine",
   "example": "no se puede hablar del dialecto argentino, sino del dialecto porteño"
  },
  {
@@ -4616,7 +4616,7 @@
   "number": "1660",
   "word": "castellano",
   "part": "adj",
-  "translation": "Castilian, Spanish",
+  "translation": "castilian, spanish",
   "example": "en edición bilingüe: castellano e inglés"
  },
  {
@@ -4812,7 +4812,7 @@
   "number": "1688",
   "word": "octubre",
   "part": "nm",
-  "translation": "October",
+  "translation": "october",
   "example": "la primera tierra que pisó Cristóbal Colón el 12 de octubre de 1492"
  },
  {
@@ -5050,7 +5050,7 @@
   "number": "1722",
   "word": "febrero",
   "part": "nm",
-  "translation": "February",
+  "translation": "february",
   "example": "creo que viene otra vez en enero o en febrero"
  },
  {
@@ -5414,7 +5414,7 @@
   "number": "1774",
   "word": "romano",
   "part": "adj",
-  "translation": "Roman",
+  "translation": "roman",
   "example": "la regulación de la lengua latina en el Imperio romano"
  },
  {
@@ -5708,7 +5708,7 @@
   "number": "1816",
   "word": "sábado",
   "part": "nm",
-  "translation": "Saturday",
+  "translation": "saturday",
   "example": "porque ya no tenía descanso los sábados y los domingos"
  },
  {
@@ -6030,7 +6030,7 @@
   "number": "1862",
   "word": "latino",
   "part": "adj",
-  "translation": "Latin",
+  "translation": "latin",
   "example": "congregaciones latinas y congregaciones americanas"
  },
  {
@@ -6450,7 +6450,7 @@
   "number": "1922",
   "word": "abril",
   "part": "nm",
-  "translation": "April",
+  "translation": "april",
   "example": "eso fue el diez de abril como a la una de la tarde"
  },
  {
