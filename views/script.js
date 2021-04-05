@@ -5,9 +5,8 @@ function selectImage(term, part, url) {
         if (xhr.status !== 200) {
             alert(`Error ${xhr.status}: ${xhr.statusText}`);
         } else {
-            const part = xhr.response.next.part
-            const term = xhr.response.next.word
-            window.location = `/${term}/${part}`;
+            const nextUrl = new URL(xhr.responseURL)
+            window.location = nextUrl.pathname;
         }
     };
     xhr.open("POST", `/${term}/${part}`);
@@ -22,11 +21,14 @@ function skip(term, part) {
         if (xhr.status !== 200) {
             alert(`Error ${xhr.status}: ${xhr.statusText}`);
         } else {
-            const part = xhr.response.next.part
-            const term = xhr.response.next.word
+            const part = encodeURIComponent(xhr.response.next.part)
+            const term = encodeURIComponent(xhr.response.next.word)
             window.location = `/${term}/${part}`;
         }
     };
+
+    part = encodeURIComponent(xhr.response.next.part)
+    term = encodeURIComponent(xhr.response.next.word)
     xhr.open("POST", `/${term}/${part}`,);
     xhr.responseType = 'json';
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
@@ -40,7 +42,7 @@ function nextPage() {
 }
 
 function loadPageByTranslation(e) {
-    if(e) {
+    if (e) {
         e.preventDefault();
     }
 
@@ -60,7 +62,7 @@ function getQueryParams() {
     const params = document.location.search.substr(1).split('&');
     const paramObj = {};
     for (let param of params) {
-        if(!param) {
+        if (!param) {
             continue;
         }
         const [key, value] = param.split('=')

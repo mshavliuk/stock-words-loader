@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
     const next = app.locals.nextWord.next().value;
-    res.redirect(`/${next.word}/${next.part}`)
+    res.redirect(`/${encodeURIComponent(next)}`)
 })
 
 app.get('/:term/:part', async (req, res, next) => {
