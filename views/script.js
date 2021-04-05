@@ -14,7 +14,7 @@ function selectImage(term, part, url) {
     xhr.open("POST", `/select`);
     xhr.responseType = 'json';
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.send(JSON.stringify({term, part}));
+    xhr.send(JSON.stringify({term, part, url}));
 }
 
 function skip(term, part) {

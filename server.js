@@ -34,7 +34,6 @@ app.get('/:term/:part', async (req, res, next) => {
     const part = req.params.part;
     const page = req.query.page || 1;
 
-
     const providers = ['pixabay', 'shutterstock', 'google']
     const providerIndex = (page - 1) % providers.length
     const provider = providers[providerIndex]
