@@ -7,24 +7,24 @@ function follow() {
     }
 }
 
-function selectImage(term, part, url) {
+function selectImage(term, url) {
     console.log(url)
     const xhr = new XMLHttpRequest();
     xhr.onload = follow
     xhr.open("POST", `/select`);
     xhr.responseType = 'json';
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.send(JSON.stringify({term, part, url}));
+    xhr.send(JSON.stringify({term, url}));
 }
 
-function skip(term, part) {
+function skip(term) {
     const xhr = new XMLHttpRequest();
     xhr.onload = follow
 
     xhr.open("POST", `/skip`);
     xhr.responseType = 'json';
     xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.send(JSON.stringify({term, part}));
+    xhr.send(JSON.stringify({term }));
 }
 
 function nextPage() {
@@ -33,13 +33,13 @@ function nextPage() {
     addQueryParam({page: currentPage + 1})
 }
 
-function loadPageByTranslation(e) {
+function loadPageBySearch(e) {
     if (e) {
         e.preventDefault();
     }
 
-    const translation = document.querySelector('input[name="termInput"]').value
-    addQueryParam({translation})
+    const search = document.querySelector('input[name="termInput"]').value
+    addQueryParam({search, page: 1})
 
     return false;
 }

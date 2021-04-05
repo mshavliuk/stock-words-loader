@@ -6,7 +6,6 @@ const sstk = require("shutterstock-api");
 
 sstk.setAccessToken('v2/eVVrM2ptZXowOFBBd2JFbE02V3d1TXp3bnRVZTVDRmsvMjk0MzEzMDg3L2N1c3RvbWVyLzMva0dmTUpaTXBvUjdzZ3l1WFExdkI5RDhWNzFjeE1pMG5yM1pqS3p6ZFdWSHAyd2FadG9tUEprMTF1bmJUc2N3LXlMOENRcnp0M1Y4SVo2emk3QzFDcVNtYWI1N3FjU2JVTWdPc2dYckg5SjFOMXRKRk5lWG1XU3ZTS3VZVk1aZUJZR0RHS0tRcjI4cExoc1czVGpKMDc1R0t4a2lva1pvS1JtNnh1clhVWXZEYlJpMVpLT2duNTl5MURNb20tbWJwc0VjTjEyV3ZNU2ltWWktcElhWXNJQQ');
 const imagesApi = new sstk.ImagesApi();
-const chunkNum = process.env.CHUNK_NUM;
 
 
 const googleKeyPairs = [
@@ -37,7 +36,7 @@ const _getPixabayImages = async (term, page, language) => {
     const queryParams = {
         "q": "QUERY",
         "page": "1",
-        "lang": "es",
+        "lang": "en",
         "orientation": "horizontal",
         "per_page": "10",
         "key": "20509761-69eba55d7f7743bd91cf9ae54"
@@ -61,7 +60,7 @@ const _getShutterstockImages = async (term, page, language) => {
     const queryParams = {
         "query": "QUERY",
         "page": 1,
-        "language": "es",
+        "language": "en",
         "aspect_ratio_max": 1.7,
         "aspect_ratio_min": 1.3,
         "per_page": 10,
@@ -120,30 +119,21 @@ const getImages = async (term, page, lang, provider) => {
     }
 }
 
-const setImage = async ({term, url, part}) => {
+const setImage = async ({term, url }) => {
     const extRegEx = /.*\.(\w{3,4})$/
     let ext = 'jpg'
     if (extRegEx.test(url)) {
         ext = url.match(extRegEx)[1]
     }
-    await download(url, `${dir}/${term}[${part}].${ext}`)
+    await download(url, `${dir}/${term}.${ext}`)
 }
 
 const getAllWords = () => {
-    return fs.readJson(`./data/chunk-${chunkNum}.json`);
+    return fs.readJson(`./data/groups.json`);
 }
 
-const isLoaded = (term, part) => {
-    return glob.sync(`${dir}/*.*`)
-        .map(filename => filename.replace(/.*\/(.*)\.\w+/, "$1"))
-        .some(filename => filename === `${term}[${part}]`);
-}
-
-const skipWord = async (term, part) => {
-    const words = await getAllWords();
-    const index = words.findIndex(word => word.word === term && word.part === part)
-    words[index].skip = true;
-    fs.writeFile(`./data/chunk-${chunkNum}.json`, JSON.stringify(words, null, ' '))
+const isLoaded = (term) => {
+    return glob.sync(`${dir}/${term}.*`).length > 0
 }
 
 const nextOrRedirect = (req, res) => {
@@ -151,7 +141,7 @@ const nextOrRedirect = (req, res) => {
     if (next == null) {
         return res.redirect(`/no-more-results`)
     } else {
-        return res.redirect(`/${encodeURIComponent(next.word)}/${encodeURIComponent(next.part)}`)
+        return res.redirect(`/${encodeURIComponent(next)}`)
     }
 }
 
@@ -163,5 +153,4 @@ module.exports = {
     isLoaded,
     nextOrRedirect,
     setImage,
-    skipWord,
 }

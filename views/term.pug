@@ -7,16 +7,13 @@ html
         title Render HTML using PUG
     body
         h1="Spanish: " + word
-            button(onclick=`skip("${word}",  "${part}")`)="skip"
+            button(onclick=`skip("${word}")`)="skip"
             button(onclick=`nextPage()`)="load next page"
-            form(onsubmit="return loadPageByTranslation(event)")
+            form(onsubmit="return loadPageBySearch(event)")
                 input(name="termInput")
-                button(onclick=`return loadPageByTranslation(event)`)="load by translation"
-        h2="English: " + translation
-        h3="Part of speech: " + part
-        h3="Example: " + example
+                button(onclick=`return loadPageBySearch(event)`)="search by word"
         h4=`(${index} / ${total})`
         if images.length === 0
             span(class="no-image-placeholder") No images were found. Try the next page!
         for image in images
-            img(src=image onclick=`selectImage("${word}",  "${part}", "${image}")`)
+            img(src=image onclick=`selectImage("${word}", "${image}")`)

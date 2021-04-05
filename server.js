@@ -29,24 +29,21 @@ app.get('/no-more-results', (req, res) => {
     res.render("no-more-results")
 })
 
-app.get('/:term/:part', async (req, res, next) => {
+app.get('/:term', async (req, res, next) => {
     const term = req.params.term;
-    const part = req.params.part;
     const page = req.query.page || 1;
 
     const providers = ['pixabay', 'shutterstock', 'google']
     const providerIndex = (page - 1) % providers.length
     const provider = providers[providerIndex]
     const providersPage = Math.ceil(page / providers.length)
-
-    const translation = req.query.translation
-    const word = app.locals.words.find(word => word.word === term && word.part === part)
-    if (word) {
-        const lang = translation ? 'en' : 'es';
-        const termToSearch = translation ? translation : term;
+    const search = req.query.search
+    const termToSearch = search ? search : term;
+    if (termToSearch) {
+        const lang = 'en';
         try {
             const images = await funcs.getImages(termToSearch, providersPage, lang, provider)
-            res.render("term", {images, ...word, ...app.locals})
+            res.render("term", {images, word: term, ...app.locals})
         } catch (error) {
             return next(error)
         }
@@ -56,17 +53,14 @@ app.get('/:term/:part', async (req, res, next) => {
 })
 
 app.post('/select', (req, res) => {
-    const {term, url, part} = req.body;
-    funcs.setImage({term, url, part});
+    const {term, url} = req.body;
+    funcs.setImage({term, url});
 
     return funcs.nextOrRedirect(req, res)
 });
 
 
 app.post('/skip', (req, res) => {
-    const {term, part} = req.body;
-    funcs.skipWord(term, part);
-
     return funcs.nextOrRedirect(req, res)
 });
 
@@ -91,7 +85,7 @@ app.listen(port, async () => {
         app.locals['nextWord'] = (function* () {
             for (let word of words.reverse()) {
                 app.locals['index']++;
-                if (word.skip || funcs.isLoaded(word.word, word.part)) {
+                if (funcs.isLoaded(word)) {
                     continue;
                 }
                 yield word
