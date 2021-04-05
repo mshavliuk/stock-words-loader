@@ -1333,7 +1333,7 @@
   "number": "4193",
   "word": "lente",
   "part": "nmf",
-  "translation": "lens",
+  "translation": "lens, glasses",
   "example": "le instaló un lente óptica para conseguir una imagen más clara"
  },
  {
@@ -4777,12 +4777,12 @@
   "number": "4685",
   "word": "editorial",
   "part": "nmf",
-  "translation": "publisher",
+  "translation": "publisher (f), editorial article (m)",
   "example": "este será publicado por la editorial Oxford University Press"
  },
  {
   "number": "4686",
-  "word": "móvil",
+  "word": "ordenador",
   "part": "adj",
   "translation": "mobile",
   "example": "los ejecutivos disponen de coche, teléfono móvil, chalet . . ."
@@ -5288,7 +5288,7 @@
   "number": "4758",
   "word": "cólera",
   "part": "nmf",
-  "translation": "rage",
+  "translation": "rage (f), cholera (m)",
   "example": "grandes progresos en erradicar el cólera, la viruela y la malaria"
  },
  {
@@ -5981,7 +5981,7 @@
   "number": "4857",
   "word": "cometa",
   "part": "nmf",
-  "translation": "comet",
+  "translation": "comet (m), kite (f)a",
   "example": "el cometa Halley regresa al Sistema Solar  cada 75 años"
  },
  {
@@ -6899,8 +6899,7 @@
   "word": "expulsión",
   "part": "nf",
   "translation": "expulsion, ejection",
-  "example": "desde la expulsión de judíos y moriscos en 1492",
-  "skip": true
+  "example": "desde la expulsión de judíos y moriscos en 1492"
  },
  {
   "number": "4989",

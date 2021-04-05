@@ -1816,7 +1816,7 @@
   "number": "260",
   "word": "frente",
   "part": "nmf",
-  "translation": "al frente: facing",
+  "translation": "facing, across from",
   "example": "lo Uno frente a lo Otro, el Bien frente al Mal"
  },
  {
@@ -4553,7 +4553,7 @@
   "number": "651",
   "word": "capital",
   "part": "nmf",
-  "translation": "capital",
+  "translation": "city (f), money (m)",
   "example": "Praga es la capital de la República Checa"
  },
  {
@@ -6870,7 +6870,7 @@
   "number": "982",
   "word": "vía",
   "part": "nf",
-  "translation": "por vía: by means",
+  "translation": "by means, road, way",
   "example": "esa información que ha venido a esta Cámara por vía periodística"
  },
  {
@@ -7283,7 +7283,7 @@
   "number": "1041",
   "word": "corte",
   "part": "nmf",
-  "translation": "court",
+  "translation": "court (f), cut (m)",
   "example": "en audiencia especial por el pleno de la Corte Suprema de Justicia"
  },
  {
@@ -10734,7 +10734,7 @@
   "number": "1534",
   "word": "rendir",
   "part": "v",
-  "translation": "[se]",
+  "translation": "to give in, to render",
   "example": "habría caído de rodillas para rendir tributo a la obra"
  },
  {
@@ -10867,7 +10867,7 @@
   "number": "1553",
   "word": "pico",
   "part": "nm",
-  "translation": "y pico: and a bit",
+  "translation": "a bit, beak, peak",
   "example": "a través de estos cuarenta y pico años"
  },
  {
@@ -11476,7 +11476,7 @@
   "number": "1640",
   "word": "largo",
   "part": "nm",
-  "translation": "a lo largo: throughout",
+  "translation": "throughout, length",
   "example": "los peces crecen a lo largo de sus vidas"
  },
  {
@@ -13982,7 +13982,7 @@
   "number": "1998",
   "word": "empeñar",
   "part": "v",
-  "translation": "[se]",
+  "translation": "to insist on",
   "example": "un oficial de policía que se empeñaba en prender al chino"
  },
  {
@@ -14717,7 +14717,7 @@
   "number": "2103 ",
   "word": "cura",
   "part": "nmf",
-  "translation": "priest",
+  "translation": "priest (m), cure (f)",
   "example": "en cambio - dijo - los curas y la iglesia son amigos de los ricos"
  },
  {
@@ -18679,7 +18679,7 @@
   "number": "2669",
   "word": "papa",
   "part": "nmf",
-  "translation": "Pope",
+  "translation": "pope (m), potato (f)",
   "example": "el papa Juan Pablo II presidió la ceremonia en la basílica"
  },
  {
@@ -29333,7 +29333,7 @@
   "number": "4193",
   "word": "lente",
   "part": "nmf",
-  "translation": "lens",
+  "translation": "lens, glasses",
   "example": "le instaló un lente óptica para conseguir una imagen más clara"
  },
  {
@@ -32777,12 +32777,12 @@
   "number": "4685",
   "word": "editorial",
   "part": "nmf",
-  "translation": "publisher",
+  "translation": "publisher (f), editorial article (m)",
   "example": "este será publicado por la editorial Oxford University Press"
  },
  {
   "number": "4686",
-  "word": "móvil",
+  "word": "ordenador",
   "part": "adj",
   "translation": "mobile",
   "example": "los ejecutivos disponen de coche, teléfono móvil, chalet . . ."
@@ -33288,7 +33288,7 @@
   "number": "4758",
   "word": "cólera",
   "part": "nmf",
-  "translation": "rage",
+  "translation": "rage (f), cholera (m)",
   "example": "grandes progresos en erradicar el cólera, la viruela y la malaria"
  },
  {
@@ -33981,7 +33981,7 @@
   "number": "4857",
   "word": "cometa",
   "part": "nmf",
-  "translation": "comet",
+  "translation": "comet (m), kite (f)a",
   "example": "el cometa Halley regresa al Sistema Solar  cada 75 años"
  },
  {
@@ -34899,8 +34899,7 @@
   "word": "expulsión",
   "part": "nf",
   "translation": "expulsion, ejection",
-  "example": "desde la expulsión de judíos y moriscos en 1492",
-  "skip": true
+  "example": "desde la expulsión de judíos y moriscos en 1492"
  },
  {
   "number": "4989",
