@@ -23,7 +23,16 @@ app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
     const next = app.locals.nextWord.next().value;
-    res.redirect(`/${encodeURIComponent(next)}`)
+    if (next == null) {
+        res.redirect(`/no-more-results`)
+    } else {
+        res.redirect(`/${encodeURIComponent(next.word)}/${encodeURIComponent(next.part)}`)
+    }
+})
+
+
+app.get('/no-more-results', (req, res) => {
+    res.render("no-more-results")
 })
 
 app.get('/:term/:part', async (req, res, next) => {
@@ -62,7 +71,11 @@ app.post('/:term/:part', (req, res) => {
         funcs.setImage({term, url, part});
     }
     const next = app.locals.nextWord.next().value
-    res.send({next})
+    if (next == null) {
+        res.redirect(`/no-more-results`)
+    } else {
+        res.redirect(`/${encodeURIComponent(next.word)}/${encodeURIComponent(next.part)}`)
+    }
 });
 
 app.use(function (err, req, res, next) {
