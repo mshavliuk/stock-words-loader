@@ -6990,13 +6990,19 @@
   "word": "campana",
   "part": "nf",
   "translation": "bell",
-  "example": "sonó la campana para ir a comer"
+  "example": "sonó la campana para ir a comer",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/bell.jpg"
+  ]
  },
  {
   "number": "3001",
   "word": "destacado",
   "part": "adj",
   "translation": "outstanding, leading",
-  "example": "una de las más destacadas figuras de la ópera actual"
+  "example": "una de las más destacadas figuras de la ópera actual",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/84991ab3-38e0-431b-8d70-d9f266ffeab9.jpg"
+  ]
  }
 ]

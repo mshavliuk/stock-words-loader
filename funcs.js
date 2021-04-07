@@ -33,13 +33,13 @@ const download = async (fileUrl, outputLocationPath) => {
 };
 
 
-const _getPixabayImages = async (term, page, language) => {
+const _getPixabayImages = async (term, page, language, perPage) => {
     const queryParams = {
         "q": "QUERY",
         "page": "1",
         "lang": "es",
         "orientation": "horizontal",
-        "per_page": "10",
+        "per_page": perPage,
         "key": "20509761-69eba55d7f7743bd91cf9ae54"
     };
     const query = new URLSearchParams({...queryParams, "q": term, page, language})
@@ -57,14 +57,14 @@ const _getPixabayImages = async (term, page, language) => {
     }
 }
 
-const _getShutterstockImages = async (term, page, language) => {
+const _getShutterstockImages = async (term, page, language, perPage) => {
     const queryParams = {
         "query": "QUERY",
         "page": 1,
         "language": "es",
         "aspect_ratio_max": 1.7,
         "aspect_ratio_min": 1.3,
-        "per_page": 10,
+        "per_page": perPage,
         "sort": "random",
         "view": "minimal"
     };
@@ -78,14 +78,14 @@ const _getShutterstockImages = async (term, page, language) => {
     }
 }
 
-const _getGoogleImages = async (term, page, language) => {
+const _getGoogleImages = async (term, page, language, perPage) => {
     const keyPair = googleKeyPairs[Math.round(Math.random() * 100) % googleKeyPairs.length];
     const queryParams = {
         ...keyPair,
         searchType: 'image',
         fileType: 'jpg',
-        num: '10',
-        start: String(1 + 10 * (page - 1))
+        num: perPage,
+        start: String(1 + perPage * (page - 1))
     }
     const query = new URLSearchParams({...queryParams, "q": term, page, lr: `lang_${language}`})
     const url = `https://www.googleapis.com/customsearch/v1?${query.toString()}`
@@ -109,14 +109,14 @@ const _getGoogleImages = async (term, page, language) => {
 }
 
 
-const getImages = async (term, page, lang, provider) => {
+const getImages = async ({term, page, lang, provider, perPage = 10}) => {
     switch (provider) {
         case 'pixabay':
-            return _getPixabayImages(term, page, lang)
+            return _getPixabayImages(term, page, lang, perPage)
         case 'shutterstock':
-            return _getShutterstockImages(term, page, lang)
+            return _getShutterstockImages(term, page, lang, perPage)
         case 'google':
-            return _getGoogleImages(term, page, lang)
+            return _getGoogleImages(term, page, lang, perPage)
     }
 }
 

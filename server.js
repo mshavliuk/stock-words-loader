@@ -32,7 +32,7 @@ app.get('/no-more-results', (req, res) => {
 app.get('/:term/:part', async (req, res, next) => {
     const term = req.params.term;
     const part = req.params.part;
-    const page = req.query.page || 1;
+    const page = Number(req.query.page || 1);
 
     const providers = ['pixabay', 'shutterstock', 'google']
     const providerIndex = (page - 1) % providers.length
@@ -40,13 +40,31 @@ app.get('/:term/:part', async (req, res, next) => {
     const providersPage = Math.ceil(page / providers.length)
 
     const translation = req.query.translation
-    const word = app.locals.words.find(word => word.word === term && word.part === part)
+    const word = app.locals.words[`${term}[${part}]`]
     if (word) {
         const lang = translation ? 'en' : 'es';
         const termToSearch = translation ? translation : term;
         try {
-            const images = await funcs.getImages(termToSearch, providersPage, lang, provider)
-            res.render("term", {images, ...word, ...app.locals})
+            let images = [];
+            if (page === 1) {
+                const suggestedImages = word.images
+                const perPage = 10 - suggestedImages.length
+                const stockImages = await funcs.getImages({
+                    term: termToSearch,
+                    page: providersPage,
+                    lang,
+                    provider,
+                    perPage
+                })
+                images = [...suggestedImages, ...stockImages]
+                    .map((value) => ({sort: Math.random(), value}))
+                    .sort((a, b) => a.sort - b.sort)
+                    .map((a) => a.value)
+            } else {
+                images = await funcs.getImages({termToSearch, providersPage, lang, provider})
+            }
+
+            res.render("term", {...word, images, ...app.locals})
         } catch (error) {
             return next(error)
         }
@@ -98,7 +116,7 @@ app.listen(port, async () => {
             }
             return null;
         })();
-        app.locals['words'] = words;
+        app.locals['words'] = Object.fromEntries(words.map((word) => [`${word.word}[${word.part}]`, word]));
     } catch (e) {
         Sentry.captureException(e)
     }

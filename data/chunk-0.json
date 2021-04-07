@@ -4,357 +4,495 @@
   "word": "el, la",
   "part": "art",
   "translation": "the",
-  "example": "esa mujer era la mujer que yo quería ser"
+  "example": "esa mujer era la mujer que yo quería ser",
+  "images": []
  },
  {
   "number": "2",
   "word": "de",
   "part": "prep",
   "translation": "of, from",
-  "example": "el hijo de un hermano mío"
+  "example": "el hijo de un hermano mío",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/92f8f6ba-5956-4464-bf57-4d89592c40a0.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/ab4c3e6a-6359-4e46-95ef-9dd01d2145c8.jpg"
+  ]
  },
  {
   "number": "3",
   "word": "que",
   "part": "conj",
   "translation": "that, which",
-  "example": "dice que no"
+  "example": "dice que no",
+  "images": []
  },
  {
   "number": "4",
   "word": "y",
   "part": "conj",
   "translation": "and",
-  "example": "él y ella sabían leer y escribir"
+  "example": "él y ella sabían leer y escribir",
+  "images": []
  },
  {
   "number": "5",
   "word": "a",
   "part": "prep",
   "translation": "to, at",
-  "example": "se fue a la cama"
+  "example": "se fue a la cama",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4388913f-f4c1-436e-9de4-5978437a9e30.jpg"
+  ]
  },
  {
   "number": "6",
   "word": "en",
   "part": "prep",
   "translation": "in, on",
-  "example": "no está en la casa"
+  "example": "no está en la casa",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/db445883-aaef-409e-a9fd-026ed78a07ff.jpg"
+  ]
  },
  {
   "number": "7",
   "word": "un",
   "part": "art",
   "translation": "a, an",
-  "example": "era un hombre simpático"
+  "example": "era un hombre simpático",
+  "images": []
  },
  {
   "number": "8",
   "word": "ser",
   "part": "v",
   "translation": "to be",
-  "example": "es nuevo, es bueno"
+  "example": "es nuevo, es bueno",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/e25159cb-4d90-409a-81b4-96d12ba231d8.jpg"
+  ]
  },
  {
   "number": "9",
   "word": "se",
   "part": "pron",
   "translation": "[“reflexive” marker]",
-  "example": "la abuela se acostó tranquila"
+  "example": "la abuela se acostó tranquila",
+  "images": []
  },
  {
   "number": "10",
   "word": "no",
   "part": "adv",
   "translation": "no",
-  "example": "no hay modo de negar nada"
+  "example": "no hay modo de negar nada",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4ff1d8c8-8248-42a6-84dd-6dc2f22b70e6.jpg"
+  ]
  },
  {
   "number": "11",
   "word": "haber",
   "part": "v",
   "translation": "to have",
-  "example": "no ha dicho nada"
+  "example": "no ha dicho nada",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/ff8e1225-68dc-4a1f-8d75-913799d8d950.jpg"
+  ]
  },
  {
   "number": "12",
   "word": "por",
   "part": "prep",
   "translation": "by, for, through",
-  "example": "así fue por mucho tiempo"
+  "example": "así fue por mucho tiempo",
+  "images": []
  },
  {
   "number": "13",
   "word": "con",
   "part": "prep",
   "translation": "with",
-  "example": "hay un hombre con ella"
+  "example": "hay un hombre con ella",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/51376dd1-53a6-479e-a387-66910e1ea532.jpg"
+  ]
  },
  {
   "number": "14",
   "word": "su",
   "part": "adj",
   "translation": "his/her/their/your",
-  "example": "¿quién era? ¿Su hermana? ¿Su amiga?"
+  "example": "¿quién era? ¿Su hermana? ¿Su amiga?",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c2615957-0867-4359-b9eb-d5259fe8504d.jpg"
+  ]
  },
  {
   "number": "15",
   "word": "para",
   "part": "prep",
   "translation": "for, to, in order to",
-  "example": "¡tengo una sorpresa sensacional para ti!"
+  "example": "¡tengo una sorpresa sensacional para ti!",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4e86e3e8-2f80-4dff-9038-343ba62d0919.jpg"
+  ]
  },
  {
   "number": "16",
   "word": "como",
   "part": "conj",
   "translation": "like, as",
-  "example": "ser compositor en España es como ser torero en Finlandia"
+  "example": "ser compositor en España es como ser torero en Finlandia",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520scold.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/17bbbaa5-0d9c-4645-84c5-a67cd29b2140.jpg"
+  ]
  },
  {
   "number": "17",
   "word": "estar",
   "part": "v",
   "translation": "to be",
-  "example": "él está en el trabajo"
+  "example": "él está en el trabajo",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/f5347d76-c728-4667-b4a9-3369cd4150ae.jpg"
+  ]
  },
  {
   "number": "18",
   "word": "tener",
   "part": "v",
   "translation": "to have",
-  "example": "estaba seguro de tener buena memoria"
+  "example": "estaba seguro de tener buena memoria",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/430d7c15-db89-4190-b18c-6e134a11f995.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/Interesting%2520-%2520friends%2520at%2520a%2520birthday%2520party.jpg"
+  ]
  },
  {
   "number": "19",
   "word": "le",
   "part": "pron",
   "translation": "[3rd person] (indir obj)",
-  "example": "nunca le dijo la verdad"
+  "example": "nunca le dijo la verdad",
+  "images": []
  },
  {
   "number": "20",
   "word": "lo",
   "part": "art",
   "translation": "the",
-  "example": "lo mejor es estudiar mucho"
+  "example": "lo mejor es estudiar mucho",
+  "images": []
  },
  {
   "number": "21",
   "word": "lo",
   "part": "pron",
   "translation": "[3rd person] (dir obj-m)",
-  "example": "lo compré en la tienda"
+  "example": "lo compré en la tienda",
+  "images": []
  },
  {
   "number": "22",
   "word": "todo",
   "part": "adj",
   "translation": "all, every",
-  "example": "todos los hombres son iguales"
+  "example": "todos los hombres son iguales",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/all.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/all.jpg"
+  ]
  },
  {
   "number": "23",
   "word": "pero",
   "part": "conj",
   "translation": "but, yet, except",
-  "example": "no significa nada para mí, pero no puedo olvidarla"
+  "example": "no significa nada para mí, pero no puedo olvidarla",
+  "images": []
  },
  {
   "number": "24",
   "word": "más",
   "part": "adj",
   "translation": "more",
-  "example": "él necesitaba más dinero"
+  "example": "él necesitaba más dinero",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/513c57d6-5bdb-40c9-ae48-9f9236842d46.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/expensive.jpg"
+  ]
  },
  {
   "number": "25",
   "word": "hacer",
   "part": "v",
   "translation": "to do, make",
-  "example": "he podido hacer lo que me gusta"
+  "example": "he podido hacer lo que me gusta",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/b888a7a5-f368-469a-94d2-53691e1d577d.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/74f045e7-4b5f-45d8-802f-23ec3fec6212.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/sewing.jpg"
+  ]
  },
  {
   "number": "26",
   "word": "o",
   "part": "conj",
   "translation": "or",
-  "example": "sí esperaba uno o dos muertos"
+  "example": "sí esperaba uno o dos muertos",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5de99624-6c3d-4ca1-88b7-fe4d5b77ff26.jpg"
+  ]
  },
  {
   "number": "27",
   "word": "poder",
   "part": "v",
   "translation": "to be able to",
-  "example": "¡se hace lo que se puede!"
+  "example": "¡se hace lo que se puede!",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5dfc15fc-a7a1-4fe0-8348-8d946b09acca.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5bddc0be-f6e5-4c82-b179-e2c024ccc7a7.jpg"
+  ]
  },
  {
   "number": "28",
   "word": "decir",
   "part": "v",
   "translation": "to tell, say",
-  "example": "parece que dice la verdad"
+  "example": "parece que dice la verdad",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520say.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/f29048a7-b1b2-48af-933a-280ca243be29.jpg"
+  ]
  },
  {
   "number": "29",
   "word": "este",
   "part": "adj",
   "translation": "this",
-  "example": "y entendía estas cosas muy bien"
+  "example": "y entendía estas cosas muy bien",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/east.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/72d69f9a-53dd-4070-bce2-fe2900320474.jpg"
+  ]
  },
  {
   "number": "30",
   "word": "ir",
   "part": "v",
   "translation": "to go",
-  "example": "me habían invitado a ir a su casa"
+  "example": "me habían invitado a ir a su casa",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/577e50d9-c504-433c-9542-f6a5458aaebe.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/917bf845-0aa8-481a-9246-aeecc1e4fe03.jpg"
+  ]
  },
  {
   "number": "31",
   "word": "otro",
   "part": "adj",
   "translation": "other, another",
-  "example": "¿por qué no podía ser otra cosa?"
+  "example": "¿por qué no podía ser otra cosa?",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/87709efd-0e25-4959-a620-9079baa15ca6.jpg"
+  ]
  },
  {
   "number": "32",
   "word": "ese",
   "part": "adj",
   "translation": "that",
-  "example": "¿dónde viven esas mujeres?"
+  "example": "¿dónde viven esas mujeres?",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/dc97d296-b1a4-4ec8-9b97-ec6ebfdbe1be.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5bbde504-78ca-41a9-8dfa-55d0c733bcaa.jpg"
+  ]
  },
  {
   "number": "33",
   "word": "la",
   "part": "pron",
   "translation": "[3rd person] (dir obj-f)",
-  "example": "la puso en su bolsillo"
+  "example": "la puso en su bolsillo",
+  "images": []
  },
  {
   "number": "34",
   "word": "si",
   "part": "conj",
   "translation": "if, whether",
-  "example": "si quiere cazar, vamos a cazar"
+  "example": "si quiere cazar, vamos a cazar",
+  "images": []
  },
  {
   "number": "35",
   "word": "me",
   "part": "pron",
   "translation": "me",
-  "example": "¿cuando me va a llamar?"
+  "example": "¿cuando me va a llamar?",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/a18a75be-0968-48d3-9cef-7af8582bcabd.jpg"
+  ]
  },
  {
   "number": "36",
   "word": "ya",
   "part": "adv",
   "translation": "already, still",
-  "example": "su marido ya ha dicho todo"
+  "example": "su marido ya ha dicho todo",
+  "images": []
  },
  {
   "number": "37",
   "word": "ver",
   "part": "v",
   "translation": "to see",
-  "example": "había que subir para ver las ruinas"
+  "example": "había que subir para ver las ruinas",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c8fe8911-b037-4b7b-b344-bf2641263a3b.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520reflect.jpg"
+  ]
  },
  {
   "number": "38",
   "word": "porque",
   "part": "conj",
   "translation": "because",
-  "example": "lo vendo sólo porque tengo un apuro muy grande"
+  "example": "lo vendo sólo porque tengo un apuro muy grande",
+  "images": []
  },
  {
   "number": "39",
   "word": "dar",
   "part": "v",
   "translation": "to give",
-  "example": "me dio esta carta para Ud."
+  "example": "me dio esta carta para Ud.",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/1b836126-3241-4c09-9231-3c8b40fff428.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/vegetable%2520garden.jpg"
+  ]
  },
  {
   "number": "40",
   "word": "cuando",
   "part": "conj",
   "translation": "when",
-  "example": "aquella es de mis nietos, cuando eran bebés"
+  "example": "aquella es de mis nietos, cuando eran bebés",
+  "images": []
  },
  {
   "number": "41",
   "word": "él",
   "part": "pron",
   "translation": "he",
-  "example": "él es bastante simpático"
+  "example": "él es bastante simpático",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/he.jpg"
+  ]
  },
  {
   "number": "42",
   "word": "muy",
   "part": "adv",
   "translation": "very, really",
-  "example": "está muy contento con mi trabajo"
+  "example": "está muy contento con mi trabajo",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/52b0e3fb-e91a-42c4-b65d-d64112e74722.jpg"
+  ]
  },
  {
   "number": "43",
   "word": "sin",
   "part": "prep",
   "translation": "without",
-  "example": "se habían quedado sin dinero"
+  "example": "se habían quedado sin dinero",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5998d0f4-b1c0-44c8-a2e1-c8ff19a41048.jpg"
+  ]
  },
  {
   "number": "44",
   "word": "vez",
   "part": "nf",
   "translation": "time",
-  "example": "es la primera vez que estoy junto al mar"
+  "example": "es la primera vez que estoy junto al mar",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5b9af483-8dfe-4d48-a4c0-65bec1155278.jpg"
+  ]
  },
  {
   "number": "45",
   "word": "mucho",
   "part": "adj",
   "translation": "much, many, a lot",
-  "example": "por lo visto tienen mucho dinero"
+  "example": "por lo visto tienen mucho dinero",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/56cd5cb9-1af3-47f6-b82b-101eab49468b.jpg"
+  ]
  },
  {
   "number": "46",
   "word": "saber",
   "part": "v",
   "translation": "to know",
-  "example": "ellos lo saben y lo reconocen"
+  "example": "ellos lo saben y lo reconocen",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/981fd755-6e98-480a-bc4a-5919b1ba3d43.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/dd53cd18-f567-4b11-8342-3400364b0f8d.jpg"
+  ]
  },
  {
   "number": "47",
   "word": "qué",
   "part": "pron",
   "translation": "what?, which?, how",
-  "example": "no sé qué voy a hacer"
+  "example": "no sé qué voy a hacer",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/8e77a199-d723-476a-91e0-1462fb6e6bf5.jpg"
+  ]
  },
  {
   "number": "48",
   "word": "sobre",
   "part": "prep",
   "translation": "on top of, over, about",
-  "example": "dejó el papel sobre la mesa y se fue"
+  "example": "dejó el papel sobre la mesa y se fue",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4c241368-0766-4501-950e-02ae388e7baa.jpg"
+  ]
  },
  {
   "number": "49",
   "word": "mi",
   "part": "adj",
   "translation": "my",
-  "example": "mi casa es su casa"
+  "example": "mi casa es su casa",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/cd444578-f552-4113-bd80-f7880537cefd.jpg"
+  ]
  },
  {
   "number": "50",
   "word": "alguno",
   "part": "adj",
   "translation": "some, someone",
-  "example": "habló algunas palabras con el agente de negocios"
+  "example": "habló algunas palabras con el agente de negocios",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/61f894f4-e88e-4c6d-8117-8630edde6fba.jpg"
+  ]
  },
  {
   "number": "51",
   "word": "mismo",
   "part": "adj",
   "translation": "same",
-  "example": "pronunciando el mismo discurso en siete idiomas"
+  "example": "pronunciando el mismo discurso en siete idiomas",
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/56ef3611-5f2a-4b63-a980-5c805eb854dd.jpg"
+  ]
  },
  {
   "number": "52",
