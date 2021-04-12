@@ -39,7 +39,7 @@ function loadPageByTranslation(e) {
     }
 
     const translation = document.querySelector('input[name="termInput"]').value
-    addQueryParam({translation})
+    addQueryParam({translation, page: 1})
 
     return false;
 }
