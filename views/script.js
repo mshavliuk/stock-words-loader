@@ -64,7 +64,7 @@ function getQueryParams() {
 }
 
 function handleKeyPress(e) {
-    if (e.code === "Space") {
+    if (e.code === "Space" && e.target.tagName.toLowerCase() !== 'input') {
         nextPage();
         document.removeEventListener('keydown', handleKeyPress);
         e.preventDefault();
