@@ -62,3 +62,14 @@ function getQueryParams() {
     }
     return paramObj
 }
+
+function handleKeyPress(e) {
+    if (e.code === "Space") {
+        nextPage();
+        document.removeEventListener('keydown', handleKeyPress);
+        e.preventDefault();
+        return false;
+    }
+}
+
+document.addEventListener('keydown', handleKeyPress);
