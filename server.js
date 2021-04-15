@@ -61,7 +61,12 @@ app.get('/:term/:part', async (req, res, next) => {
                     .sort((a, b) => a.sort - b.sort)
                     .map((a) => a.value)
             } else {
-                images = await funcs.getImages({termToSearch, providersPage, lang, provider})
+                images = await funcs.getImages({
+                    term: termToSearch,
+                    page: providersPage,
+                    lang,
+                    provider
+                })
             }
 
             res.render("term", {...word, images, ...app.locals})
