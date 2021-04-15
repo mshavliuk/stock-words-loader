@@ -1,500 +1,501 @@
 [
  {
+  "images": [],
   "number": "1",
   "word": "el, la",
   "part": "art",
   "translation": "the",
-  "example": "esa mujer era la mujer que yo quería ser",
-  "images": []
+  "example": "esa mujer era la mujer que yo quería ser"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/92f8f6ba-5956-4464-bf57-4d89592c40a0.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/ab4c3e6a-6359-4e46-95ef-9dd01d2145c8.jpg"
+  ],
   "number": "2",
   "word": "de",
   "part": "prep",
   "translation": "of, from",
-  "example": "el hijo de un hermano mío",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/92f8f6ba-5956-4464-bf57-4d89592c40a0.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/ab4c3e6a-6359-4e46-95ef-9dd01d2145c8.jpg"
-  ]
+  "example": "el hijo de un hermano mío"
  },
  {
+  "images": [],
   "number": "3",
   "word": "que",
   "part": "conj",
   "translation": "that, which",
-  "example": "dice que no",
-  "images": []
+  "example": "dice que no"
  },
  {
+  "images": [],
   "number": "4",
   "word": "y",
   "part": "conj",
   "translation": "and",
-  "example": "él y ella sabían leer y escribir",
-  "images": []
+  "example": "él y ella sabían leer y escribir"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4388913f-f4c1-436e-9de4-5978437a9e30.jpg"
+  ],
   "number": "5",
   "word": "a",
   "part": "prep",
   "translation": "to, at",
-  "example": "se fue a la cama",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4388913f-f4c1-436e-9de4-5978437a9e30.jpg"
-  ]
+  "example": "se fue a la cama"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/db445883-aaef-409e-a9fd-026ed78a07ff.jpg"
+  ],
   "number": "6",
   "word": "en",
   "part": "prep",
   "translation": "in, on",
-  "example": "no está en la casa",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/db445883-aaef-409e-a9fd-026ed78a07ff.jpg"
-  ]
+  "example": "no está en la casa"
  },
  {
+  "images": [],
   "number": "7",
   "word": "un",
   "part": "art",
   "translation": "a, an",
-  "example": "era un hombre simpático",
-  "images": []
+  "example": "era un hombre simpático"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/e25159cb-4d90-409a-81b4-96d12ba231d8.jpg"
+  ],
   "number": "8",
   "word": "ser",
   "part": "v",
   "translation": "to be",
-  "example": "es nuevo, es bueno",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/e25159cb-4d90-409a-81b4-96d12ba231d8.jpg"
-  ]
+  "example": "es nuevo, es bueno"
  },
  {
+  "images": [],
   "number": "9",
   "word": "se",
   "part": "pron",
   "translation": "reflexive marker",
-  "example": "la abuela se acostó tranquila",
-  "images": []
+  "example": "la abuela se acostó tranquila"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4ff1d8c8-8248-42a6-84dd-6dc2f22b70e6.jpg"
+  ],
   "number": "10",
   "word": "no",
   "part": "adv",
   "translation": "no",
-  "example": "no hay modo de negar nada",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4ff1d8c8-8248-42a6-84dd-6dc2f22b70e6.jpg"
-  ]
+  "example": "no hay modo de negar nada"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/ff8e1225-68dc-4a1f-8d75-913799d8d950.jpg"
+  ],
   "number": "11",
   "word": "haber",
   "part": "v",
   "translation": "to have",
-  "example": "no ha dicho nada",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/ff8e1225-68dc-4a1f-8d75-913799d8d950.jpg"
-  ]
+  "example": "no ha dicho nada"
  },
  {
+  "images": [],
   "number": "12",
   "word": "por",
   "part": "prep",
   "translation": "by, for, through",
-  "example": "así fue por mucho tiempo",
-  "images": []
+  "example": "así fue por mucho tiempo"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/51376dd1-53a6-479e-a387-66910e1ea532.jpg"
+  ],
   "number": "13",
   "word": "con",
   "part": "prep",
   "translation": "with",
-  "example": "hay un hombre con ella",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/51376dd1-53a6-479e-a387-66910e1ea532.jpg"
-  ]
+  "example": "hay un hombre con ella"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c2615957-0867-4359-b9eb-d5259fe8504d.jpg"
+  ],
   "number": "14",
   "word": "su",
   "part": "adj",
   "translation": "his, her, their, your",
-  "example": "¿quién era? ¿Su hermana? ¿Su amiga?",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c2615957-0867-4359-b9eb-d5259fe8504d.jpg"
-  ]
+  "example": "¿quién era? ¿Su hermana? ¿Su amiga?"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4e86e3e8-2f80-4dff-9038-343ba62d0919.jpg"
+  ],
   "number": "15",
   "word": "para",
   "part": "prep",
   "translation": "for, to, in order to",
-  "example": "¡tengo una sorpresa sensacional para ti!",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4e86e3e8-2f80-4dff-9038-343ba62d0919.jpg"
-  ]
+  "example": "¡tengo una sorpresa sensacional para ti!"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520scold.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/17bbbaa5-0d9c-4645-84c5-a67cd29b2140.jpg"
+  ],
   "number": "16",
   "word": "como",
   "part": "conj",
   "translation": "like, as",
-  "example": "ser compositor en España es como ser torero en Finlandia",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520scold.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/17bbbaa5-0d9c-4645-84c5-a67cd29b2140.jpg"
-  ]
+  "example": "ser compositor en España es como ser torero en Finlandia"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/f5347d76-c728-4667-b4a9-3369cd4150ae.jpg"
+  ],
   "number": "17",
   "word": "estar",
   "part": "v",
   "translation": "to be",
-  "example": "él está en el trabajo",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/f5347d76-c728-4667-b4a9-3369cd4150ae.jpg"
-  ]
+  "example": "él está en el trabajo"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/430d7c15-db89-4190-b18c-6e134a11f995.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/Interesting%2520-%2520friends%2520at%2520a%2520birthday%2520party.jpg"
+  ],
   "number": "18",
   "word": "tener",
   "part": "v",
   "translation": "to have",
-  "example": "estaba seguro de tener buena memoria",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/430d7c15-db89-4190-b18c-6e134a11f995.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/Interesting%2520-%2520friends%2520at%2520a%2520birthday%2520party.jpg"
-  ]
+  "example": "estaba seguro de tener buena memoria"
  },
  {
+  "images": [],
   "number": "19",
   "word": "le",
   "part": "pron",
   "translation": "3rd person (indir obj)",
-  "example": "nunca le dijo la verdad",
-  "images": []
+  "example": "nunca le dijo la verdad"
  },
  {
+  "images": [],
   "number": "20",
   "word": "lo",
   "part": "art",
   "translation": "the",
-  "example": "lo mejor es estudiar mucho",
-  "images": []
+  "example": "lo mejor es estudiar mucho"
  },
  {
+  "images": [],
   "number": "21",
   "word": "lo",
   "part": "pron",
   "translation": "3rd person (dir obj-m)",
-  "example": "lo compré en la tienda",
-  "images": []
+  "example": "lo compré en la tienda"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/all.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/all.jpg"
+  ],
   "number": "22",
   "word": "todo",
   "part": "adj",
   "translation": "all, every",
-  "example": "todos los hombres son iguales",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/all.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/all.jpg"
-  ]
+  "example": "todos los hombres son iguales"
  },
  {
+  "images": [],
   "number": "23",
   "word": "pero",
   "part": "conj",
   "translation": "but, yet, except",
-  "example": "no significa nada para mí, pero no puedo olvidarla",
-  "images": []
+  "example": "no significa nada para mí, pero no puedo olvidarla"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/513c57d6-5bdb-40c9-ae48-9f9236842d46.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/expensive.jpg"
+  ],
   "number": "24",
   "word": "más",
   "part": "adj",
   "translation": "more",
-  "example": "él necesitaba más dinero",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/513c57d6-5bdb-40c9-ae48-9f9236842d46.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/expensive.jpg"
-  ]
+  "example": "él necesitaba más dinero"
  },
  {
-  "number": "25",
-  "word": "hacer",
-  "part": "v",
-  "translation": "to do, make",
-  "example": "he podido hacer lo que me gusta",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/b888a7a5-f368-469a-94d2-53691e1d577d.jpg",
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/74f045e7-4b5f-45d8-802f-23ec3fec6212.jpg",
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/sewing.jpg"
-  ]
+  ],
+  "number": "25",
+  "word": "hacer",
+  "part": "v",
+  "translation": "to do, make",
+  "example": "he podido hacer lo que me gusta"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5de99624-6c3d-4ca1-88b7-fe4d5b77ff26.jpg"
+  ],
   "number": "26",
   "word": "o",
   "part": "conj",
   "translation": "or",
-  "example": "sí esperaba uno o dos muertos",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5de99624-6c3d-4ca1-88b7-fe4d5b77ff26.jpg"
-  ]
+  "example": "sí esperaba uno o dos muertos"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5dfc15fc-a7a1-4fe0-8348-8d946b09acca.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5bddc0be-f6e5-4c82-b179-e2c024ccc7a7.jpg"
+  ],
   "number": "27",
   "word": "poder",
   "part": "v",
   "translation": "to be able to",
-  "example": "¡se hace lo que se puede!",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5dfc15fc-a7a1-4fe0-8348-8d946b09acca.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5bddc0be-f6e5-4c82-b179-e2c024ccc7a7.jpg"
-  ]
+  "example": "¡se hace lo que se puede!"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520say.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/f29048a7-b1b2-48af-933a-280ca243be29.jpg"
+  ],
   "number": "28",
   "word": "decir",
   "part": "v",
   "translation": "to tell, say",
-  "example": "parece que dice la verdad",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520say.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/f29048a7-b1b2-48af-933a-280ca243be29.jpg"
-  ]
+  "example": "parece que dice la verdad"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/east.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/72d69f9a-53dd-4070-bce2-fe2900320474.jpg"
+  ],
   "number": "29",
   "word": "este",
   "part": "adj",
   "translation": "this",
-  "example": "y entendía estas cosas muy bien",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/east.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/72d69f9a-53dd-4070-bce2-fe2900320474.jpg"
-  ]
+  "example": "y entendía estas cosas muy bien"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/577e50d9-c504-433c-9542-f6a5458aaebe.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/917bf845-0aa8-481a-9246-aeecc1e4fe03.jpg"
+  ],
   "number": "30",
   "word": "ir",
   "part": "v",
   "translation": "to go",
-  "example": "me habían invitado a ir a su casa",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/577e50d9-c504-433c-9542-f6a5458aaebe.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/917bf845-0aa8-481a-9246-aeecc1e4fe03.jpg"
-  ]
+  "example": "me habían invitado a ir a su casa"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/87709efd-0e25-4959-a620-9079baa15ca6.jpg"
+  ],
   "number": "31",
   "word": "otro",
   "part": "adj",
   "translation": "other, another",
-  "example": "¿por qué no podía ser otra cosa?",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/87709efd-0e25-4959-a620-9079baa15ca6.jpg"
-  ]
+  "example": "¿por qué no podía ser otra cosa?"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/dc97d296-b1a4-4ec8-9b97-ec6ebfdbe1be.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5bbde504-78ca-41a9-8dfa-55d0c733bcaa.jpg"
+  ],
   "number": "32",
   "word": "ese",
   "part": "adj",
   "translation": "that",
-  "example": "¿dónde viven esas mujeres?",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/dc97d296-b1a4-4ec8-9b97-ec6ebfdbe1be.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5bbde504-78ca-41a9-8dfa-55d0c733bcaa.jpg"
-  ]
+  "example": "¿dónde viven esas mujeres?"
  },
  {
+  "images": [],
   "number": "33",
   "word": "la",
   "part": "pron",
   "translation": "[3rd person] (dir obj-f)",
-  "example": "la puso en su bolsillo",
-  "images": []
+  "example": "la puso en su bolsillo"
  },
  {
+  "images": [],
   "number": "34",
   "word": "si",
   "part": "conj",
   "translation": "if, whether",
-  "example": "si quiere cazar, vamos a cazar",
-  "images": []
+  "example": "si quiere cazar, vamos a cazar"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/a18a75be-0968-48d3-9cef-7af8582bcabd.jpg"
+  ],
   "number": "35",
   "word": "me",
   "part": "pron",
   "translation": "me",
-  "example": "¿cuando me va a llamar?",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/a18a75be-0968-48d3-9cef-7af8582bcabd.jpg"
-  ]
+  "example": "¿cuando me va a llamar?"
  },
  {
+  "images": [],
   "number": "36",
   "word": "ya",
   "part": "adv",
   "translation": "already, still",
-  "example": "su marido ya ha dicho todo",
-  "images": []
+  "example": "su marido ya ha dicho todo"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c8fe8911-b037-4b7b-b344-bf2641263a3b.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520reflect.jpg"
+  ],
   "number": "37",
   "word": "ver",
   "part": "v",
   "translation": "to see",
-  "example": "había que subir para ver las ruinas",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c8fe8911-b037-4b7b-b344-bf2641263a3b.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520reflect.jpg"
-  ]
+  "example": "había que subir para ver las ruinas"
  },
  {
+  "images": [],
   "number": "38",
   "word": "porque",
   "part": "conj",
   "translation": "because",
-  "example": "lo vendo sólo porque tengo un apuro muy grande",
-  "images": []
+  "example": "lo vendo sólo porque tengo un apuro muy grande"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/1b836126-3241-4c09-9231-3c8b40fff428.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/vegetable%2520garden.jpg"
+  ],
   "number": "39",
   "word": "dar",
   "part": "v",
   "translation": "to give",
-  "example": "me dio esta carta para Ud.",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/1b836126-3241-4c09-9231-3c8b40fff428.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/vegetable%2520garden.jpg"
-  ]
+  "example": "me dio esta carta para Ud."
  },
  {
+  "images": [],
   "number": "40",
   "word": "cuando",
   "part": "conj",
   "translation": "when",
-  "example": "aquella es de mis nietos, cuando eran bebés",
-  "images": []
+  "example": "aquella es de mis nietos, cuando eran bebés"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/he.jpg"
+  ],
   "number": "41",
   "word": "él",
   "part": "pron",
   "translation": "he",
-  "example": "él es bastante simpático",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/he.jpg"
-  ]
+  "example": "él es bastante simpático"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/52b0e3fb-e91a-42c4-b65d-d64112e74722.jpg"
+  ],
   "number": "42",
   "word": "muy",
   "part": "adv",
   "translation": "very, really",
-  "example": "está muy contento con mi trabajo",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/52b0e3fb-e91a-42c4-b65d-d64112e74722.jpg"
-  ]
+  "example": "está muy contento con mi trabajo"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5998d0f4-b1c0-44c8-a2e1-c8ff19a41048.jpg"
+  ],
   "number": "43",
   "word": "sin",
   "part": "prep",
   "translation": "without",
-  "example": "se habían quedado sin dinero",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5998d0f4-b1c0-44c8-a2e1-c8ff19a41048.jpg"
-  ]
+  "example": "se habían quedado sin dinero"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5b9af483-8dfe-4d48-a4c0-65bec1155278.jpg"
+  ],
   "number": "44",
   "word": "vez",
   "part": "nf",
   "translation": "time",
-  "example": "es la primera vez que estoy junto al mar",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/5b9af483-8dfe-4d48-a4c0-65bec1155278.jpg"
-  ]
+  "example": "es la primera vez que estoy junto al mar"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/56cd5cb9-1af3-47f6-b82b-101eab49468b.jpg"
+  ],
   "number": "45",
   "word": "mucho",
   "part": "adj",
   "translation": "much, many, a lot",
-  "example": "por lo visto tienen mucho dinero",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/56cd5cb9-1af3-47f6-b82b-101eab49468b.jpg"
-  ]
+  "example": "por lo visto tienen mucho dinero"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/981fd755-6e98-480a-bc4a-5919b1ba3d43.jpg",
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/dd53cd18-f567-4b11-8342-3400364b0f8d.jpg"
+  ],
   "number": "46",
   "word": "saber",
   "part": "v",
   "translation": "to know",
-  "example": "ellos lo saben y lo reconocen",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/981fd755-6e98-480a-bc4a-5919b1ba3d43.jpg",
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/dd53cd18-f567-4b11-8342-3400364b0f8d.jpg"
-  ]
+  "example": "ellos lo saben y lo reconocen"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/8e77a199-d723-476a-91e0-1462fb6e6bf5.jpg"
+  ],
   "number": "47",
   "word": "qué",
   "part": "pron",
   "translation": "what, which, how",
-  "example": "no sé qué voy a hacer",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/8e77a199-d723-476a-91e0-1462fb6e6bf5.jpg"
-  ]
+  "example": "no sé qué voy a hacer"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4c241368-0766-4501-950e-02ae388e7baa.jpg"
+  ],
   "number": "48",
   "word": "sobre",
   "part": "prep",
   "translation": "on top of, over, about",
-  "example": "dejó el papel sobre la mesa y se fue",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/4c241368-0766-4501-950e-02ae388e7baa.jpg"
-  ]
+  "example": "dejó el papel sobre la mesa y se fue"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/cd444578-f552-4113-bd80-f7880537cefd.jpg"
+  ],
   "number": "49",
   "word": "mi",
   "part": "adj",
   "translation": "my",
-  "example": "mi casa es su casa",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/cd444578-f552-4113-bd80-f7880537cefd.jpg"
-  ]
+  "example": "mi casa es su casa"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/61f894f4-e88e-4c6d-8117-8630edde6fba.jpg"
+  ],
   "number": "50",
   "word": "alguno",
   "part": "adj",
   "translation": "some, someone",
-  "example": "habló algunas palabras con el agente de negocios",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/61f894f4-e88e-4c6d-8117-8630edde6fba.jpg"
-  ]
+  "example": "habló algunas palabras con el agente de negocios"
  },
  {
+  "images": [
+   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/56ef3611-5f2a-4b63-a980-5c805eb854dd.jpg"
+  ],
   "number": "51",
   "word": "mismo",
   "part": "adj",
   "translation": "same",
-  "example": "pronunciando el mismo discurso en siete idiomas",
-  "images": [
-   "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/56ef3611-5f2a-4b63-a980-5c805eb854dd.jpg"
-  ]
+  "example": "pronunciando el mismo discurso en siete idiomas"
  },
  {
+  "images": [],
   "number": "52",
   "word": "yo",
   "part": "pron",
@@ -502,6 +503,7 @@
   "example": "¡Yo soy el padre!"
  },
  {
+  "images": [],
   "number": "53",
   "word": "también",
   "part": "adv",
@@ -509,6 +511,7 @@
   "example": "y también van a estar los otros"
  },
  {
+  "images": [],
   "number": "54",
   "word": "hasta",
   "part": "prep",
@@ -516,6 +519,7 @@
   "example": "toda la noche, hasta las tres de la mañana"
  },
  {
+  "images": [],
   "number": "55",
   "word": "año",
   "part": "nm",
@@ -523,6 +527,7 @@
   "example": "no lo supo hasta casi un año después"
  },
  {
+  "images": [],
   "number": "56",
   "word": "dos",
   "part": "num",
@@ -530,6 +535,7 @@
   "example": "de allí salieron dos hermanas solteras"
  },
  {
+  "images": [],
   "number": "57",
   "word": "querer",
   "part": "v",
@@ -537,6 +543,7 @@
   "example": "quiero que este proceso salga con limpieza"
  },
  {
+  "images": [],
   "number": "58",
   "word": "entre",
   "part": "prep",
@@ -544,6 +551,7 @@
   "example": "la cosa es entre tú y yo"
  },
  {
+  "images": [],
   "number": "59",
   "word": "así",
   "part": "adv",
@@ -551,6 +559,7 @@
   "example": "la vida es así"
  },
  {
+  "images": [],
   "number": "60",
   "word": "primero",
   "part": "adj",
@@ -558,6 +567,7 @@
   "example": "las primeras palabras que nos enseñan a leer y escribir"
  },
  {
+  "images": [],
   "number": "61",
   "word": "desde",
   "part": "prep",
@@ -565,6 +575,7 @@
   "example": "lo había pensado desde el primer momento"
  },
  {
+  "images": [],
   "number": "62",
   "word": "grande",
   "part": "adj",
@@ -572,6 +583,7 @@
   "example": "lo ha mirado a los grandes ojos negros"
  },
  {
+  "images": [],
   "number": "63",
   "word": "eso",
   "part": "pron",
@@ -579,6 +591,7 @@
   "example": "y eso no es todo"
  },
  {
+  "images": [],
   "number": "64",
   "word": "ni",
   "part": "conj",
@@ -586,6 +599,7 @@
   "example": "pero ni eso me tranquilizó"
  },
  {
+  "images": [],
   "number": "65",
   "word": "nos",
   "part": "pron",
@@ -593,6 +607,7 @@
   "example": "nos vio en la calle"
  },
  {
+  "images": [],
   "number": "66",
   "word": "llegar",
   "part": "v",
@@ -600,6 +615,7 @@
   "example": "como para llegar hasta el fondo de las almas"
  },
  {
+  "images": [],
   "number": "67",
   "word": "pasar",
   "part": "v",
@@ -607,6 +623,7 @@
   "example": "tras la ventana lo veo pasar una y otra vez"
  },
  {
+  "images": [],
   "number": "68",
   "word": "tiempo",
   "part": "nm",
@@ -614,6 +631,7 @@
   "example": "he estado mucho tiempo con ella"
  },
  {
+  "images": [],
   "number": "69",
   "word": "ella",
   "part": "pron",
@@ -621,6 +639,7 @@
   "example": "ella es muy estudiosa"
  },
  {
+  "images": [],
   "number": "70",
   "word": "sí",
   "part": "adv",
@@ -628,6 +647,7 @@
   "example": "quiero una respuesta concreta: sí o no"
  },
  {
+  "images": [],
   "number": "71",
   "word": "día",
   "part": "nm",
@@ -635,6 +655,7 @@
   "example": "cada día hay más problemas"
  },
  {
+  "images": [],
   "number": "72",
   "word": "uno",
   "part": "num",
@@ -642,6 +663,7 @@
   "example": "hay uno que ya lo está haciendo"
  },
  {
+  "images": [],
   "number": "73",
   "word": "bien",
   "part": "adv",
@@ -649,6 +671,7 @@
   "example": "y entonces hice bien en quedarme"
  },
  {
+  "images": [],
   "number": "74",
   "word": "poco",
   "part": "adj",
@@ -656,6 +679,7 @@
   "example": "trabajó poco tiempo con él"
  },
  {
+  "images": [],
   "number": "75",
   "word": "deber",
   "part": "v",
@@ -663,6 +687,7 @@
   "example": "te debes calmar, le aconsejó T."
  },
  {
+  "images": [],
   "number": "76",
   "word": "entonces",
   "part": "adv",
@@ -670,6 +695,7 @@
   "example": "vamos entonces a cambiarlo"
  },
  {
+  "images": [],
   "number": "77",
   "word": "poner",
   "part": "v",
@@ -677,6 +703,7 @@
   "example": "puso el cuchillo en manos de M."
  },
  {
+  "images": [],
   "number": "78",
   "word": "cosa",
   "part": "nf",
@@ -684,6 +711,7 @@
   "example": "estoy ya interesado en otra cosa"
  },
  {
+  "images": [],
   "number": "79",
   "word": "tanto",
   "part": "adj",
@@ -691,6 +719,7 @@
   "example": "no podía creer que haya tanta gente junta"
  },
  {
+  "images": [],
   "number": "80",
   "word": "hombre",
   "part": "nm",
@@ -698,6 +727,7 @@
   "example": "yo soy un hombre de pocas necesidades"
  },
  {
+  "images": [],
   "number": "81",
   "word": "parecer",
   "part": "v",
@@ -705,6 +735,7 @@
   "example": "parecía dormir, tan inmóvil estaba"
  },
  {
+  "images": [],
   "number": "82",
   "word": "nuestro",
   "part": "adj",
@@ -712,6 +743,7 @@
   "example": "no servía para nuestro país porque somos diferentes"
  },
  {
+  "images": [],
   "number": "83",
   "word": "tan",
   "part": "adv",
@@ -719,6 +751,7 @@
   "example": "en esa mujer está todo; y por eso es tan maravillosa"
  },
  {
+  "images": [],
   "number": "84",
   "word": "donde",
   "part": "conj",
@@ -726,6 +759,7 @@
   "example": "yo sé donde está la llave"
  },
  {
+  "images": [],
   "number": "85",
   "word": "ahora",
   "part": "adv",
@@ -733,6 +767,7 @@
   "example": "lo importante ahora es contarte lo que le pasó"
  },
  {
+  "images": [],
   "number": "86",
   "word": "parte",
   "part": "nf",
@@ -740,6 +775,7 @@
   "example": "el arte es una parte tan importante de la cultura"
  },
  {
+  "images": [],
   "number": "87",
   "word": "después",
   "part": "adv",
@@ -747,6 +783,7 @@
   "example": "vamos a dar un paseo después de comer"
  },
  {
+  "images": [],
   "number": "88",
   "word": "vida",
   "part": "nf",
@@ -754,6 +791,7 @@
   "example": "ha dedicado toda la vida a la música"
  },
  {
+  "images": [],
   "number": "89",
   "word": "quedar",
   "part": "v",
@@ -761,6 +799,7 @@
   "example": "el aire empezó a quedarse quieto"
  },
  {
+  "images": [],
   "number": "90",
   "word": "siempre",
   "part": "adv",
@@ -768,6 +807,7 @@
   "example": "siempre ha sido así"
  },
  {
+  "images": [],
   "number": "91",
   "word": "creer",
   "part": "v",
@@ -775,6 +815,7 @@
   "example": "creo en la justicia de Dios"
  },
  {
+  "images": [],
   "number": "92",
   "word": "hablar",
   "part": "v",
@@ -782,6 +823,7 @@
   "example": "algunos hablan el idioma romaní"
  },
  {
+  "images": [],
   "number": "93",
   "word": "llevar",
   "part": "v",
@@ -789,6 +831,7 @@
   "example": "colgado al hombro llevaba un bolso"
  },
  {
+  "images": [],
   "number": "94",
   "word": "dejar",
   "part": "v",
@@ -796,6 +839,7 @@
   "example": "ella no dejó que yo lo olvidara"
  },
  {
+  "images": [],
   "number": "95",
   "word": "nada",
   "part": "pron",
@@ -803,6 +847,7 @@
   "example": "no hay nada que hacer"
  },
  {
+  "images": [],
   "number": "96",
   "word": "cada",
   "part": "adj",
@@ -810,6 +855,7 @@
   "example": "de aprender cada día un poco más"
  },
  {
+  "images": [],
   "number": "97",
   "word": "seguir",
   "part": "v",
@@ -817,6 +863,7 @@
   "example": "el calor sofocante que sigue al mediodía"
  },
  {
+  "images": [],
   "number": "98",
   "word": "menos",
   "part": "adj",
@@ -824,6 +871,7 @@
   "example": "no vale más ni menos que la anterior"
  },
  {
+  "images": [],
   "number": "99",
   "word": "nuevo",
   "part": "adj",
@@ -831,6 +879,7 @@
   "example": "marcaba el comienzo de una nueva vida para mí"
  },
  {
+  "images": [],
   "number": "100",
   "word": "encontrar",
   "part": "v",
@@ -838,6 +887,7 @@
   "example": "encontró un lugar apropiado para instalar la sucursal"
  },
  {
+  "images": [],
   "number": "101",
   "word": "algo",
   "part": "pron",
@@ -845,6 +895,7 @@
   "example": "tengo algo que decirte"
  },
  {
+  "images": [],
   "number": "102",
   "word": "sólo",
   "part": "adv",
@@ -852,6 +903,7 @@
   "example": "no siempre vestía ropa de mujer; sólo en carnaval"
  },
  {
+  "images": [],
   "number": "103",
   "word": "pues",
   "part": "conj",
@@ -859,6 +911,7 @@
   "example": "pues venga usted cuando quiera"
  },
  {
+  "images": [],
   "number": "104",
   "word": "llamar",
   "part": "v",
@@ -866,6 +919,7 @@
   "example": "el juez se llamaba Pedro Barreda"
  },
  {
+  "images": [],
   "number": "105",
   "word": "venir",
   "part": "v",
@@ -873,6 +927,7 @@
   "example": "unos afirman que el jazz viene de África"
  },
  {
+  "images": [],
   "number": "106",
   "word": "pensar",
   "part": "v",
@@ -880,6 +935,7 @@
   "example": "trataba de pensar de dónde podría sacar el dinero"
  },
  {
+  "images": [],
   "number": "107",
   "word": "aquel",
   "part": "adj",
@@ -887,6 +943,7 @@
   "example": "unos veinte millones de pesetas  época)"
  },
  {
+  "images": [],
   "number": "108",
   "word": "momento",
   "part": "nm",
@@ -894,6 +951,7 @@
   "example": "estaba pasando uno de los peores momentos de mi vida"
  },
  {
+  "images": [],
   "number": "109",
   "word": "sino",
   "part": "conj",
@@ -901,6 +959,7 @@
   "example": "no somos nosotros el centro sino ella"
  },
  {
+  "images": [],
   "number": "110",
   "word": "esto",
   "part": "pron",
@@ -908,6 +967,7 @@
   "example": "quiero esto o aquello"
  },
  {
+  "images": [],
   "number": "111",
   "word": "salir",
   "part": "v",
@@ -915,6 +975,7 @@
   "example": "para que le abriese la reja para salir al bosque"
  },
  {
+  "images": [],
   "number": "112",
   "word": "volver",
   "part": "v",
@@ -922,6 +983,7 @@
   "example": "los habitantes afectados puedan volver a sus casas"
  },
  {
+  "images": [],
   "number": "113",
   "word": "forma",
   "part": "nf",
@@ -929,6 +991,7 @@
   "example": "necesito estar en buena forma física"
  },
  {
+  "images": [],
   "number": "114",
   "word": "antes",
   "part": "adv",
@@ -936,6 +999,7 @@
   "example": "quería verla antes de salir"
  },
  {
+  "images": [],
   "number": "115",
   "word": "bueno",
   "part": "adj",
@@ -943,6 +1007,7 @@
   "example": "si estaba de buen humor, nos besábamos sin ruido"
  },
  {
+  "images": [],
   "number": "116",
   "word": "casa",
   "part": "nf",
@@ -950,6 +1015,7 @@
   "example": "hoy la gente vive en la calle; no vive en su casa"
  },
  {
+  "images": [],
   "number": "117",
   "word": "aunque",
   "part": "conj",
@@ -957,6 +1023,7 @@
   "example": "aunque hay problemas, muchos se pueden evitar"
  },
  {
+  "images": [],
   "number": "118",
   "word": "mundo",
   "part": "nm",
@@ -964,6 +1031,7 @@
   "example": "no se parecía a ninguna ciudad del mundo"
  },
  {
+  "images": [],
   "number": "119",
   "word": "tres",
   "part": "num",
@@ -971,6 +1039,7 @@
   "example": "tres direcciones: diagonal, horizontal y vertical"
  },
  {
+  "images": [],
   "number": "120",
   "word": "tal",
   "part": "adj",
@@ -978,6 +1047,7 @@
   "example": "bien sabía que tal cosa era imposible"
  },
  {
+  "images": [],
   "number": "121",
   "word": "mejor",
   "part": "adj",
@@ -985,6 +1055,7 @@
   "example": "yo, al fin y al cabo, soy el mejor amigo"
  },
  {
+  "images": [],
   "number": "122",
   "word": "tomar",
   "part": "v",
@@ -992,6 +1063,7 @@
   "example": "mi padre tomó un sorbo de agua y continuó hablando"
  },
  {
+  "images": [],
   "number": "123",
   "word": "cierto",
   "part": "adj",
@@ -999,6 +1071,7 @@
   "example": "no sé si esto es cierto o no"
  },
  {
+  "images": [],
   "number": "124",
   "word": "conocer",
   "part": "v",
@@ -1006,6 +1079,7 @@
   "example": "ella conoce muy bien a Nicolás"
  },
  {
+  "images": [],
   "number": "125",
   "word": "hacia",
   "part": "prep",
@@ -1013,6 +1087,7 @@
   "example": "sus sentimientos hacia él son todavía tan firmes"
  },
  {
+  "images": [],
   "number": "126",
   "word": "cómo",
   "part": "adv",
@@ -1020,6 +1095,7 @@
   "example": "mamá, ¿cómo puedo vivir?"
  },
  {
+  "images": [],
   "number": "127",
   "word": "mujer",
   "part": "nf",
@@ -1027,6 +1103,7 @@
   "example": "su mamá es una mujer muy enferma y no puede trabajar"
  },
  {
+  "images": [],
   "number": "128",
   "word": "vivir",
   "part": "v",
@@ -1034,6 +1111,7 @@
   "example": "vamos a Buenos Aires, a vivir en la miseria"
  },
  {
+  "images": [],
   "number": "129",
   "word": "aquí",
   "part": "adv",
@@ -1041,6 +1119,7 @@
   "example": "¡Aquí hay dos también!"
  },
  {
+  "images": [],
   "number": "130",
   "word": "caso",
   "part": "nm",
@@ -1048,6 +1127,7 @@
   "example": "luego, en este caso está plenamente justificada"
  },
  {
+  "images": [],
   "number": "131",
   "word": "sentir",
   "part": "v",
@@ -1055,6 +1135,7 @@
   "example": "lloraba de sentirse tan depravado"
  },
  {
+  "images": [],
   "number": "132",
   "word": "luego",
   "part": "adv",
@@ -1062,6 +1143,7 @@
   "example": "luego va con su esposa y la contagia"
  },
  {
+  "images": [],
   "number": "133",
   "word": "país",
   "part": "nm",
@@ -1069,6 +1151,7 @@
   "example": "de todos los países de las Américas"
  },
  {
+  "images": [],
   "number": "134",
   "word": "tratar",
   "part": "v",
@@ -1076,6 +1159,7 @@
   "example": "eso es precisamente lo que tratamos de evitar"
  },
  {
+  "images": [],
   "number": "135",
   "word": "lugar",
   "part": "nm",
@@ -1083,6 +1167,7 @@
   "example": "es el lugar más lindo de la costa"
  },
  {
+  "images": [],
   "number": "136",
   "word": "te",
   "part": "pron",
@@ -1090,6 +1175,7 @@
   "example": "¿no te han hablado?"
  },
  {
+  "images": [],
   "number": "137",
   "word": "persona",
   "part": "nf",
@@ -1097,6 +1183,7 @@
   "example": "era una persona de mucho talento"
  },
  {
+  "images": [],
   "number": "138",
   "word": "mayor",
   "part": "adj",
@@ -1104,6 +1191,7 @@
   "example": "yo trabajé la mayor parte del tiempo"
  },
  {
+  "images": [],
   "number": "139",
   "word": "último",
   "part": "adj",
@@ -1111,6 +1199,7 @@
   "example": "se opuso al viaje hasta el último momento"
  },
  {
+  "images": [],
   "number": "140",
   "word": "propio",
   "part": "adj",
@@ -1118,6 +1207,7 @@
   "example": "le doy dinero de mi propio bolsillo"
  },
  {
+  "images": [],
   "number": "141",
   "word": "quien",
   "part": "pron",
@@ -1125,6 +1215,7 @@
   "example": "ahora o, quién sabe, nunca"
  },
  {
+  "images": [],
   "number": "142",
   "word": "mirar",
   "part": "v",
@@ -1132,6 +1223,7 @@
   "example": "y los ojos mirando al infinito"
  },
  {
+  "images": [],
   "number": "143",
   "word": "hora",
   "part": "nf",
@@ -1139,6 +1231,7 @@
   "example": "deben celebrarse a primera hora de la tarde"
  },
  {
+  "images": [],
   "number": "144",
   "word": "ninguno",
   "part": "adj",
@@ -1146,6 +1239,7 @@
   "example": "ninguno de mis cuatro varones se ha graduado de nada"
  },
  {
+  "images": [],
   "number": "145",
   "word": "trabajo",
   "part": "nm",
@@ -1153,6 +1247,7 @@
   "example": "pasó su vida entera dedicado a su trabajo"
  },
  {
+  "images": [],
   "number": "146",
   "word": "casi",
   "part": "adv",
@@ -1160,6 +1255,7 @@
   "example": "estamos casi siempre solos"
  },
  {
+  "images": [],
   "number": "147",
   "word": "punto",
   "part": "nm",
@@ -1167,6 +1263,7 @@
   "example": "desde mi punto de vista son las más significativas"
  },
  {
+  "images": [],
   "number": "148",
   "word": "durante",
   "part": "adv",
@@ -1174,6 +1271,7 @@
   "example": "durante una semana traté de no verla"
  },
  {
+  "images": [],
   "number": "149",
   "word": "cualquier",
   "part": "adj",
@@ -1181,6 +1279,7 @@
   "example": "en cualquier caso, necesitamos soledad"
  },
  {
+  "images": [],
   "number": "150",
   "word": "mano",
   "part": "nf",
@@ -1188,6 +1287,7 @@
   "example": "se pueden contar con los dedos de una mano"
  },
  {
+  "images": [],
   "number": "151",
   "word": "nunca",
   "part": "adv",
@@ -1195,6 +1295,7 @@
   "example": "se aprecia ahora más que nunca la libertad"
  },
  {
+  "images": [],
   "number": "152",
   "word": "manera",
   "part": "nf",
@@ -1202,6 +1303,7 @@
   "example": "lo hizo de manera muy informal"
  },
  {
+  "images": [],
   "number": "153",
   "word": "cual",
   "part": "pron",
@@ -1209,6 +1311,7 @@
   "example": "el pañuelo con el cual me limpié"
  },
  {
+  "images": [],
   "number": "154",
   "word": "mientras",
   "part": "conj",
@@ -1216,6 +1319,7 @@
   "example": "nos miró mientras comía un gran trozo de pan"
  },
  {
+  "images": [],
   "number": "155",
   "word": "contar",
   "part": "v",
@@ -1223,6 +1327,7 @@
   "example": "me contó una larga y estúpida historia"
  },
  {
+  "images": [],
   "number": "156",
   "word": "fin",
   "part": "nm",
@@ -1230,6 +1335,7 @@
   "example": "se habrá terminado la humanidad y ése será el fin de la Historia"
  },
  {
+  "images": [],
   "number": "157",
   "word": "tipo",
   "part": "nm",
@@ -1237,6 +1343,7 @@
   "example": "reconozco tu oposición a este tipo de ideología"
  },
  {
+  "images": [],
   "number": "158",
   "word": "gente",
   "part": "nf",
@@ -1244,6 +1351,7 @@
   "example": "la gente tiene miedo de perder su identidad"
  },
  {
+  "images": [],
   "number": "159",
   "word": "además",
   "part": "adv",
@@ -1251,6 +1359,7 @@
   "example": "además de español, ¿hablas algún otro idioma?"
  },
  {
+  "images": [],
   "number": "160",
   "word": "solo",
   "part": "adj",
@@ -1258,6 +1367,7 @@
   "example": "se sentía solo, espantosamente solo"
  },
  {
+  "images": [],
   "number": "161",
   "word": "empezar",
   "part": "v",
@@ -1265,6 +1375,7 @@
   "example": "lentamente su auto empieza a avanzar"
  },
  {
+  "images": [],
   "number": "162",
   "word": "ejemplo",
   "part": "nm",
@@ -1272,6 +1383,7 @@
   "example": "hay otras, por ejemplo las guerras"
  },
  {
+  "images": [],
   "number": "163",
   "word": "esperar",
   "part": "v",
@@ -1279,6 +1391,7 @@
   "example": "los astrónomos llevaban siglos esperando a que sucediera"
  },
  {
+  "images": [],
   "number": "164",
   "word": "hoy",
   "part": "adv",
@@ -1286,6 +1399,7 @@
   "example": "ayer estuvo aquí; hoy puede estar allá"
  },
  {
+  "images": [],
   "number": "165",
   "word": "lado",
   "part": "nm",
@@ -1293,6 +1407,7 @@
   "example": "está situada al lado derecho"
  },
  {
+  "images": [],
   "number": "166",
   "word": "hijo",
   "part": "nm",
@@ -1300,6 +1415,7 @@
   "example": "cada padre espera que su hijo sea más que él"
  },
  {
+  "images": [],
   "number": "167",
   "word": "allí",
   "part": "adv",
@@ -1307,6 +1423,7 @@
   "example": "allí están, junto a la playa"
  },
  {
+  "images": [],
   "number": "168",
   "word": "éste",
   "part": "pron",
@@ -1314,6 +1431,7 @@
   "example": "¿qué esperabas de un lugar como éste?"
  },
  {
+  "images": [],
   "number": "169",
   "word": "problema",
   "part": "nm",
@@ -1321,6 +1439,7 @@
   "example": "para resolver un problema tan sencillo"
  },
  {
+  "images": [],
   "number": "170",
   "word": "cuenta",
   "part": "nf",
@@ -1328,6 +1447,7 @@
   "example": "sería bueno sacar la cuenta y calcular gastos"
  },
  {
+  "images": [],
   "number": "171",
   "word": "medio",
   "part": "nm",
@@ -1335,6 +1455,7 @@
   "example": "por medio de la música, se conocen los sentimientos"
  },
  {
+  "images": [],
   "number": "172",
   "word": "contra",
   "part": "prep",
@@ -1342,6 +1463,7 @@
   "example": "hermanos contra hermanos y padres contra hijos"
  },
  {
+  "images": [],
   "number": "173",
   "word": "buscar",
   "part": "v",
@@ -1349,6 +1471,7 @@
   "example": "decidí volver a la calle y buscar un empleo"
  },
  {
+  "images": [],
   "number": "174",
   "word": "dentro",
   "part": "adv",
@@ -1356,6 +1479,7 @@
   "example": "¿o algo quedó dentro del pozo tapiado?"
  },
  {
+  "images": [],
   "number": "175",
   "word": "largo",
   "part": "adj",
@@ -1363,6 +1487,7 @@
   "example": "tenía el pelo largo a la altura de los pechos"
  },
  {
+  "images": [],
   "number": "176",
   "word": "palabra",
   "part": "nf",
@@ -1370,6 +1495,7 @@
   "example": "jamás dijo una palabra en inglés"
  },
  {
+  "images": [],
   "number": "177",
   "word": "existir",
   "part": "v",
@@ -1377,6 +1503,7 @@
   "example": "¿puede existir alguien que sea perfecto?"
  },
  {
+  "images": [],
   "number": "178",
   "word": "niño",
   "part": "nm",
@@ -1384,6 +1511,7 @@
   "example": "he tenido suerte desde que era niño"
  },
  {
+  "images": [],
   "number": "179",
   "word": "entrar",
   "part": "v",
@@ -1391,6 +1519,7 @@
   "example": "¡este maldito no puede entrar en nuestra casa!"
  },
  {
+  "images": [],
   "number": "180",
   "word": "embargo",
   "part": "nm",
@@ -1398,6 +1527,7 @@
   "example": "el concierto tendrá, sin embargo, un significado especial"
  },
  {
+  "images": [],
   "number": "181",
   "word": "único",
   "part": "adj",
@@ -1405,6 +1535,7 @@
   "example": "era el único hijo varón de la familia"
  },
  {
+  "images": [],
   "number": "182",
   "word": "padre",
   "part": "nm",
@@ -1412,6 +1543,7 @@
   "example": "¿es el padre de mi futuro hijo?"
  },
  {
+  "images": [],
   "number": "183",
   "word": "trabajar",
   "part": "v",
@@ -1419,6 +1551,7 @@
   "example": "comenzaban a trabajar de camareros"
  },
  {
+  "images": [],
   "number": "184",
   "word": "pequeño",
   "part": "adj",
@@ -1426,6 +1559,7 @@
   "example": "a pesar de su pequeño tamaño estaba llena de detalles"
  },
  {
+  "images": [],
   "number": "185",
   "word": "alto",
   "part": "adj",
@@ -1433,6 +1567,7 @@
   "example": "desde lo alto de los Alpes"
  },
  {
+  "images": [],
   "number": "186",
   "word": "cambio",
   "part": "nm",
@@ -1440,6 +1575,7 @@
   "example": "podía requerir un cambio de actitud"
  },
  {
+  "images": [],
   "number": "187",
   "word": "escribir",
   "part": "v",
@@ -1447,6 +1583,7 @@
   "example": "mi padre escribe unas cartas tan cortas"
  },
  {
+  "images": [],
   "number": "188",
   "word": "cuatro",
   "part": "num",
@@ -1454,6 +1591,7 @@
   "example": "tienen cuatro patas y cuernos"
  },
  {
+  "images": [],
   "number": "189",
   "word": "ahí",
   "part": "adv",
@@ -1461,6 +1599,7 @@
   "example": "está ahí en la mesa de luz"
  },
  {
+  "images": [],
   "number": "190",
   "word": "perder",
   "part": "v",
@@ -1468,6 +1607,7 @@
   "example": "el golpe me hizo perder el equilibrio"
  },
  {
+  "images": [],
   "number": "191",
   "word": "nosotros",
   "part": "pron",
@@ -1475,6 +1615,7 @@
   "example": "jamás lo hemos hecho nosotros"
  },
  {
+  "images": [],
   "number": "192",
   "word": "historia",
   "part": "nf",
@@ -1482,6 +1623,7 @@
   "example": "los períodos más diversos de la historia del arte"
  },
  {
+  "images": [],
   "number": "193",
   "word": "idea",
   "part": "nf",
@@ -1489,6 +1631,7 @@
   "example": "podemos renunciar a la idea de la igualdad"
  },
  {
+  "images": [],
   "number": "194",
   "word": "agua",
   "part": "nf",
@@ -1496,6 +1639,7 @@
   "example": "Déme usted un vaso de agua, que tengo mucha sed"
  },
  {
+  "images": [],
   "number": "195",
   "word": "producir",
   "part": "v",
@@ -1503,6 +1647,7 @@
   "example": "nunca llegó a producirse el tercer y prometido ataque"
  },
  {
+  "images": [],
   "number": "196",
   "word": "noche",
   "part": "nf",
@@ -1510,6 +1655,7 @@
   "example": "trabaja por la mañana, por la tarde, y por la noche"
  },
  {
+  "images": [],
   "number": "197",
   "word": "ciudad",
   "part": "nf",
@@ -1517,6 +1663,7 @@
   "example": "quieren estar en la ciudad y no salir al  campo"
  },
  {
+  "images": [],
   "number": "198",
   "word": "modo",
   "part": "nm",
@@ -1524,6 +1671,7 @@
   "example": "hay diferencia entre el modo de hablar y el de escribir"
  },
  {
+  "images": [],
   "number": "199",
   "word": "nombre",
   "part": "nm",
@@ -1531,6 +1679,7 @@
   "example": "Susana no es mi nombre verdadero"
  },
  {
+  "images": [],
   "number": "200",
   "word": "ocurrir",
   "part": "v",
@@ -1538,6 +1687,7 @@
   "example": "el miedo a lo que pudiera ocurrir me inmovilizó"
  },
  {
+  "images": [],
   "number": "201",
   "word": "familia",
   "part": "nf",
@@ -1545,6 +1695,7 @@
   "example": "la familia es la unidad social más significativa"
  },
  {
+  "images": [],
   "number": "202",
   "word": "realidad",
   "part": "nf",
@@ -1552,6 +1703,7 @@
   "example": "le habló a Rosabel, que en realidad se llamaba María"
  },
  {
+  "images": [],
   "number": "203",
   "word": "entender",
   "part": "v",
@@ -1559,6 +1711,7 @@
   "example": "todavía no entiendo demasiado bien lo que pasó"
  },
  {
+  "images": [],
   "number": "204",
   "word": "pedir",
   "part": "v",
@@ -1566,6 +1719,7 @@
   "example": "me atreví a pedirle que me diera clases"
  },
  {
+  "images": [],
   "number": "205",
   "word": "recibir",
   "part": "v",
@@ -1573,6 +1727,7 @@
   "example": "Pavlov recibe el Premio Nobel por sus estudios"
  },
  {
+  "images": [],
   "number": "206",
   "word": "obra",
   "part": "nf",
@@ -1580,6 +1735,7 @@
   "example": "la primera obra literaria de Dante fue La Vida Nueva"
  },
  {
+  "images": [],
   "number": "207",
   "word": "importante",
   "part": "adj",
@@ -1587,6 +1743,7 @@
   "example": "el momento más importante de la ceremonia"
  },
  {
+  "images": [],
   "number": "208",
   "word": "medio",
   "part": "adj",
@@ -1594,6 +1751,7 @@
   "example": "la noche sorprendió a los viajeros a medio camino"
  },
  {
+  "images": [],
   "number": "209",
   "word": "verdad",
   "part": "nf",
@@ -1601,6 +1759,7 @@
   "example": "¡diga la verdad! ¡Todo le acusa!"
  },
  {
+  "images": [],
   "number": "210",
   "word": "mes",
   "part": "nm",
@@ -1608,6 +1767,7 @@
   "example": "tendrá lugar el próximo mes de noviembre"
  },
  {
+  "images": [],
   "number": "211",
   "word": "todavía",
   "part": "adv",
@@ -1615,6 +1775,7 @@
   "example": "los animales que todavía están vivos"
  },
  {
+  "images": [],
   "number": "212",
   "word": "razón",
   "part": "nf",
@@ -1622,6 +1783,7 @@
   "example": "es verdad, tienes razón; ella no es de San  Juan"
  },
  {
+  "images": [],
   "number": "213",
   "word": "cuanto",
   "part": "adj",
@@ -1629,6 +1791,7 @@
   "example": "hoy hay más apatía en cuanto a estas cuestiones"
  },
  {
+  "images": [],
   "number": "214",
   "word": "bajo",
   "part": "prep",
@@ -1636,6 +1799,7 @@
   "example": "hacía dos o tres grados bajo cero"
  },
  {
+  "images": [],
   "number": "215",
   "word": "recordar",
   "part": "v",
@@ -1643,6 +1807,7 @@
   "example": "prefiero no recordar esa época de mi vida"
  },
  {
+  "images": [],
   "number": "216",
   "word": "grupo",
   "part": "nm",
@@ -1650,6 +1815,7 @@
   "example": "¿cuál será su papel en ese grupo de trabajo?"
  },
  {
+  "images": [],
   "number": "217",
   "word": "mil",
   "part": "num",
@@ -1657,6 +1823,7 @@
   "example": "unos mil años han pasado desde entonces"
  },
  {
+  "images": [],
   "number": "218",
   "word": "humano",
   "part": "adj",
@@ -1664,6 +1831,7 @@
   "example": "somos seres humanos, y gente normal"
  },
  {
+  "images": [],
   "number": "219",
   "word": "terminar",
   "part": "v",
@@ -1671,6 +1839,7 @@
   "example": "cuelga sin terminar la conversación"
  },
  {
+  "images": [],
   "number": "220",
   "word": "permitir",
   "part": "v",
@@ -1678,6 +1847,7 @@
   "example": "no se me permitió jugar allí por varios días"
  },
  {
+  "images": [],
   "number": "221",
   "word": "aparecer",
   "part": "v",
@@ -1685,6 +1855,7 @@
   "example": "detrás suyo, Teresa apareció por la puerta de la cocina"
  },
  {
+  "images": [],
   "number": "222",
   "word": "conseguir",
   "part": "v",
@@ -1692,6 +1863,7 @@
   "example": "vas a robar, para conseguir plata"
  },
  {
+  "images": [],
   "number": "223",
   "word": "comenzar",
   "part": "v",
@@ -1699,6 +1871,7 @@
   "example": "a los veintidós años comenzó a aprender castellano"
  },
  {
+  "images": [],
   "number": "224",
   "word": "varios",
   "part": "adj",
@@ -1706,6 +1879,7 @@
   "example": "está constituida por varios dialectos"
  },
  {
+  "images": [],
   "number": "225",
   "word": "posible",
   "part": "adj",
@@ -1713,6 +1887,7 @@
   "example": "trató de hacer el menor ruido posible para no despertarla"
  },
  {
+  "images": [],
   "number": "226",
   "word": "servir",
   "part": "v",
@@ -1720,6 +1895,7 @@
   "example": "destapa la botella y sirve unas copas"
  },
  {
+  "images": [],
   "number": "227",
   "word": "general",
   "part": "adj",
@@ -1727,6 +1903,7 @@
   "example": "es decir, algo equivalente a los genes en sentido general"
  },
  {
+  "images": [],
   "number": "228",
   "word": "sacar",
   "part": "v",
@@ -1734,6 +1911,7 @@
   "example": "la Lechuza sacó un revólver y mató a este muchacho"
  },
  {
+  "images": [],
   "number": "229",
   "word": "necesitar",
   "part": "v",
@@ -1741,6 +1919,7 @@
   "example": "vas a necesitar un trabajo nuevo"
  },
  {
+  "images": [],
   "number": "230",
   "word": "relación",
   "part": "nf",
@@ -1748,6 +1927,7 @@
   "example": "he tenido una relación muy estrecha con los compositores"
  },
  {
+  "images": [],
   "number": "231",
   "word": "cinco",
   "part": "num",
@@ -1755,6 +1935,7 @@
   "example": "gozo de tener los cinco sentidos"
  },
  {
+  "images": [],
   "number": "232",
   "word": "cuerpo",
   "part": "nm",
@@ -1762,6 +1943,7 @@
   "example": "el cuerpo humano se compone de millones de células"
  },
  {
+  "images": [],
   "number": "233",
   "word": "nadie",
   "part": "pron",
@@ -1769,6 +1951,7 @@
   "example": "nadie sabe nada"
  },
  {
+  "images": [],
   "number": "234",
   "word": "mantener",
   "part": "v",
@@ -1776,6 +1959,7 @@
   "example": "Luis cruzó los brazos y se mantuvo  sereno"
  },
  {
+  "images": [],
   "number": "235",
   "word": "hecho",
   "part": "nm",
@@ -1783,6 +1967,7 @@
   "example": "le gustó el hecho de que yo estuviese allí"
  },
  {
+  "images": [],
   "number": "236",
   "word": "ante",
   "part": "prep",
@@ -1790,6 +1975,7 @@
   "example": "qué hacer y cómo actuar ante estas circunstancias"
  },
  {
+  "images": [],
   "number": "237",
   "word": "principio",
   "part": "nm",
@@ -1797,6 +1983,7 @@
   "example": "tiene fiebre al principio de la enfermedad"
  },
  {
+  "images": [],
   "number": "238",
   "word": "resultar",
   "part": "v",
@@ -1804,6 +1991,7 @@
   "example": "todo con gran precisión; el viaje resultó perfecto"
  },
  {
+  "images": [],
   "number": "239",
   "word": "igual",
   "part": "adj",
@@ -1811,6 +1999,7 @@
   "example": "los indios son seres humanos iguales que nosotros"
  },
  {
+  "images": [],
   "number": "240",
   "word": "señor",
   "part": "nm",
@@ -1818,6 +2007,7 @@
   "example": "¿puedo pagar con dólares? Sí señor"
  },
  {
+  "images": [],
   "number": "241",
   "word": "pueblo",
   "part": "nm",
@@ -1825,6 +2015,7 @@
   "example": "el libro no representa al pueblo portugués"
  },
  {
+  "images": [],
   "number": "242",
   "word": "tarde",
   "part": "nf",
@@ -1832,6 +2023,7 @@
   "example": "eran las dos de la tarde y yo estaba sin comer nada"
  },
  {
+  "images": [],
   "number": "243",
   "word": "segundo",
   "part": "adj",
@@ -1839,6 +2031,7 @@
   "example": "en la segunda mitad del siglo"
  },
  {
+  "images": [],
   "number": "244",
   "word": "leer",
   "part": "v",
@@ -1846,6 +2039,7 @@
   "example": "prefiero leer a los autores de moda"
  },
  {
+  "images": [],
   "number": "245",
   "word": "caer",
   "part": "v",
@@ -1853,6 +2047,7 @@
   "example": "no quiero caer en mi tumba siendo  joven"
  },
  {
+  "images": [],
   "number": "246",
   "word": "cambiar",
   "part": "v",
@@ -1860,6 +2055,7 @@
   "example": "no van a cambiar las relaciones de  poder"
  },
  {
+  "images": [],
   "number": "247",
   "word": "ojo",
   "part": "nm",
@@ -1867,6 +2063,7 @@
   "example": "los grandes ojos verdes la miraban con ternura"
  },
  {
+  "images": [],
   "number": "248",
   "word": "calle",
   "part": "nf",
@@ -1874,6 +2071,7 @@
   "example": "llegó a la esquina de la calle La Merced y la Huancavelica"
  },
  {
+  "images": [],
   "number": "249",
   "word": "presentar",
   "part": "v",
@@ -1881,6 +2079,7 @@
   "example": "P. me presentó con gravedad a una chica virgen"
  },
  {
+  "images": [],
   "number": "250",
   "word": "blanco",
   "part": "adj",
@@ -1888,6 +2087,7 @@
   "example": "esta foto es en blanco y negro"
  },
  {
+  "images": [],
   "number": "251",
   "word": "crear",
   "part": "v",
@@ -1895,6 +2095,7 @@
   "example": "lo que A. creaba con las manos era un don sobrenatural"
  },
  {
+  "images": [],
   "number": "252",
   "word": "abrir",
   "part": "v",
@@ -1902,6 +2103,7 @@
   "example": "todos quieren abrir la puerta para ir a jugar"
  },
  {
+  "images": [],
   "number": "253",
   "word": "libro",
   "part": "nm",
@@ -1909,6 +2111,7 @@
   "example": "¿está usted escribiendo un libro sobre la política?"
  },
  {
+  "images": [],
   "number": "254",
   "word": "distinto",
   "part": "adj",
@@ -1916,6 +2119,7 @@
   "example": "abrirían las puertas a un futuro distinto para mí"
  },
  {
+  "images": [],
   "number": "255",
   "word": "fuerza",
   "part": "nf",
@@ -1923,6 +2127,7 @@
   "example": "hay artistas excepcionales, con una fuerza increíble"
  },
  {
+  "images": [],
   "number": "256",
   "word": "luz",
   "part": "nf",
@@ -1930,6 +2135,7 @@
   "example": "desaparece la luz hasta el oscuro"
  },
  {
+  "images": [],
   "number": "257",
   "word": "según",
   "part": "prep",
@@ -1937,6 +2143,7 @@
   "example": "según su experiencia, ésa era la pista correcta"
  },
  {
+  "images": [],
   "number": "258",
   "word": "santo",
   "part": "nm",
@@ -1944,6 +2151,7 @@
   "example": "todos iban detrás del Santo Patrono con rezos y cánticos"
  },
  {
+  "images": [],
   "number": "259",
   "word": "claro",
   "part": "adj",
@@ -1951,6 +2159,7 @@
   "example": "esto constituye un claro precedente"
  },
  {
+  "images": [],
   "number": "260",
   "word": "frente",
   "part": "nmf",
@@ -1958,6 +2167,7 @@
   "example": "lo Uno frente a lo Otro, el Bien frente al Mal"
  },
  {
+  "images": [],
   "number": "261",
   "word": "considerar",
   "part": "v",
@@ -1965,6 +2175,7 @@
   "example": "no podía considerar la primera hipótesis con seriedad"
  },
  {
+  "images": [],
   "number": "262",
   "word": "amigo",
   "part": "nm",
@@ -1972,6 +2183,7 @@
   "example": "¿No tienes un amigo a quien me podrías presentar?"
  },
  {
+  "images": [],
   "number": "263",
   "word": "oír",
   "part": "v",
@@ -1979,6 +2191,7 @@
   "example": "no se oía ningún sonido"
  },
  {
+  "images": [],
   "number": "264",
   "word": "cuyo",
   "part": "adj",
@@ -1986,6 +2199,7 @@
   "example": "el oxígeno, cuyo número atómico es 8"
  },
  {
+  "images": [],
   "number": "265",
   "word": "sentido",
   "part": "nm",
@@ -1993,6 +2207,7 @@
   "example": "una cantante-actriz en el sentido actual del término"
  },
  {
+  "images": [],
   "number": "266",
   "word": "acabar",
   "part": "v",
@@ -2000,6 +2215,7 @@
   "example": "la que ahora se acaba de traducir al castellano"
  },
  {
+  "images": [],
   "number": "267",
   "word": "paso",
   "part": "nm",
@@ -2007,6 +2223,7 @@
   "example": "sí, la escritura fue un paso decisivo"
  },
  {
+  "images": [],
   "number": "268",
   "word": "situación",
   "part": "nf",
@@ -2014,6 +2231,7 @@
   "example": "¿cómo es la situación allí actualmente?"
  },
  {
+  "images": [],
   "number": "269",
   "word": "usted",
   "part": "pron",
@@ -2021,6 +2239,7 @@
   "example": "los tiene usted, señor alcalde"
  },
  {
+  "images": [],
   "number": "270",
   "word": "bastante",
   "part": "adj",
@@ -2028,6 +2247,7 @@
   "example": "estoy bastante satisfecho con mi vida"
  },
  {
+  "images": [],
   "number": "271",
   "word": "convertir",
   "part": "v",
@@ -2035,6 +2255,7 @@
   "example": "el café llegó a convertirse en la bebida más popular de Cuba"
  },
  {
+  "images": [],
   "number": "272",
   "word": "gracia",
   "part": "nf",
@@ -2042,6 +2263,7 @@
   "example": "bueno, gracias por tu tiempo, ¿eh?"
  },
  {
+  "images": [],
   "number": "273",
   "word": "siglo",
   "part": "nm",
@@ -2049,6 +2271,7 @@
   "example": "los poetas más populares del siglo XX"
  },
  {
+  "images": [],
   "number": "274",
   "word": "dios",
   "part": "nm",
@@ -2056,6 +2279,7 @@
   "example": "ahora sé que hay un Dios en los cielos"
  },
  {
+  "images": [],
   "number": "275",
   "word": "malo",
   "part": "adj",
@@ -2063,6 +2287,7 @@
   "example": "éste se lamentó de su mala suerte"
  },
  {
+  "images": [],
   "number": "276",
   "word": "tierra",
   "part": "nf",
@@ -2070,6 +2295,7 @@
   "example": "la tierra daba el maíz, el trigo y el arroz"
  },
  {
+  "images": [],
   "number": "277",
   "word": "papel",
   "part": "nm",
@@ -2077,6 +2303,7 @@
   "example": "el poco papel que tenemos lo dedicamos a libros"
  },
  {
+  "images": [],
   "number": "278",
   "word": "madre",
   "part": "nf",
@@ -2084,6 +2311,7 @@
   "example": "ahora está casada, es madre de familia"
  },
  {
+  "images": [],
   "number": "279",
   "word": "tampoco",
   "part": "adv",
@@ -2091,6 +2319,7 @@
   "example": "porque yo no la conozco y él tampoco la conoce"
  },
  {
+  "images": [],
   "number": "280",
   "word": "social",
   "part": "adj",
@@ -2098,6 +2327,7 @@
   "example": "no me gusta la vida social, no voy a ninguna parte"
  },
  {
+  "images": [],
   "number": "281",
   "word": "viejo",
   "part": "adj",
@@ -2105,6 +2335,7 @@
   "example": "el viejo tiene como ochenta años, y está  loco"
  },
  {
+  "images": [],
   "number": "282",
   "word": "aún",
   "part": "adv",
@@ -2112,6 +2343,7 @@
   "example": "se está muriendo; aún está en coma"
  },
  {
+  "images": [],
   "number": "283",
   "word": "tema",
   "part": "nm",
@@ -2119,6 +2351,7 @@
   "example": "entre ellos pues está el tema de la ecología"
  },
  {
+  "images": [],
   "number": "284",
   "word": "político",
   "part": "adj",
@@ -2126,6 +2359,7 @@
   "example": "nos afiliamos a un partido político"
  },
  {
+  "images": [],
   "number": "285",
   "word": "español",
   "part": "adj",
@@ -2133,6 +2367,7 @@
   "example": "la lengua española de hoy es el castellano"
  },
  {
+  "images": [],
   "number": "286",
   "word": "ganar",
   "part": "v",
@@ -2140,6 +2375,7 @@
   "example": "a los diez años ganó el Premio Nobel"
  },
  {
+  "images": [],
   "number": "287",
   "word": "formar",
   "part": "v",
@@ -2147,6 +2383,7 @@
   "example": "sus componentes se marchaban para formar sus propios grupos"
  },
  {
+  "images": [],
   "number": "288",
   "word": "clase",
   "part": "nf",
@@ -2154,6 +2391,7 @@
   "example": "¿qué otra clase de música le interesa?"
  },
  {
+  "images": [],
   "number": "289",
   "word": "traer",
   "part": "v",
@@ -2161,6 +2399,7 @@
   "example": "sí, me trae un zumo de naranjas, por favor"
  },
  {
+  "images": [],
   "number": "290",
   "word": "partir",
   "part": "v",
@@ -2168,6 +2407,7 @@
   "example": "a partir de los cuatro minutos la tarifa es estable"
  },
  {
+  "images": [],
   "number": "291",
   "word": "dinero",
   "part": "nm",
@@ -2175,6 +2415,7 @@
   "example": "¿hay mucho dinero?, ¿es muy rico?"
  },
  {
+  "images": [],
   "number": "292",
   "word": "quién",
   "part": "pron",
@@ -2182,6 +2423,7 @@
   "example": "¿quién es el padre de su hijo?"
  },
  {
+  "images": [],
   "number": "293",
   "word": "morir",
   "part": "v",
@@ -2189,6 +2431,7 @@
   "example": "la pobre murió de pulmonía meses después"
  },
  {
+  "images": [],
   "number": "294",
   "word": "incluso",
   "part": "adv",
@@ -2196,6 +2439,7 @@
   "example": "e incluso puede detectar cuando hay  errores"
  },
  {
+  "images": [],
   "number": "295",
   "word": "campo",
   "part": "nm",
@@ -2203,6 +2447,7 @@
   "example": "mi campo principal es la enfermedad coronaria"
  },
  {
+  "images": [],
   "number": "296",
   "word": "aceptar",
   "part": "v",
@@ -2210,6 +2455,7 @@
   "example": "A. estuvo indecisa en aceptar su petición de matrimonio"
  },
  {
+  "images": [],
   "number": "297",
   "word": "quizás",
   "part": "adv",
@@ -2217,6 +2463,7 @@
   "example": "quizás sí, pero de otra forma"
  },
  {
+  "images": [],
   "number": "298",
   "word": "cabeza",
   "part": "nf",
@@ -2224,6 +2471,7 @@
   "example": "planteaba muchas preguntas en mi  cabeza"
  },
  {
+  "images": [],
   "number": "299",
   "word": "realizar",
   "part": "v",
@@ -2231,6 +2479,7 @@
   "example": "el viaje se realizó en noviembre"
  },
  {
+  "images": [],
   "number": "300",
   "word": "ciento",
   "part": "num",
@@ -2238,6 +2487,7 @@
   "example": "se pueda confiar ciento por ciento"
  },
  {
+  "images": [],
   "number": "301",
   "word": "mal",
   "part": "adv",
@@ -2245,6 +2495,7 @@
   "example": "mucha gente habla mal de él"
  },
  {
+  "images": [],
   "number": "302",
   "word": "orden",
   "part": "nmf",
@@ -2252,6 +2503,7 @@
   "example": "hay que poner todo en orden de prioridad"
  },
  {
+  "images": [],
   "number": "303",
   "word": "don",
   "part": "nm",
@@ -2259,6 +2511,7 @@
   "example": "¿cómo era don Manuel?"
  },
  {
+  "images": [],
   "number": "304",
   "word": "semana",
   "part": "nf",
@@ -2266,6 +2519,7 @@
   "example": "no todos los días, pero varios días de la semana"
  },
  {
+  "images": [],
   "number": "305",
   "word": "suponer",
   "part": "v",
@@ -2273,6 +2527,7 @@
   "example": "era absurdo suponer que la guerrilla cambiara sus planes"
  },
  {
+  "images": [],
   "number": "306",
   "word": "comprender",
   "part": "v",
@@ -2280,6 +2535,7 @@
   "example": "los había leído todos, sin comprender mucho"
  },
  {
+  "images": [],
   "number": "307",
   "word": "final",
   "part": "nmf",
@@ -2287,6 +2543,7 @@
   "example": "pero al final, el resultado es la perfección"
  },
  {
+  "images": [],
   "number": "308",
   "word": "interés",
   "part": "nm",
@@ -2294,6 +2551,7 @@
   "example": "usted, de verdad, sí tiene interés en este tema"
  },
  {
+  "images": [],
   "number": "309",
   "word": "siguiente",
   "part": "adj",
@@ -2301,6 +2559,7 @@
   "example": "al día siguiente se levantó más decidido que nunca"
  },
  {
+  "images": [],
   "number": "310",
   "word": "vista",
   "part": "nf",
@@ -2308,6 +2567,7 @@
   "example": "era un territorio fértil con una hermosa vista hacia la cordillera"
  },
  {
+  "images": [],
   "number": "311",
   "word": "lograr",
   "part": "v",
@@ -2315,6 +2575,7 @@
   "example": "un director no puede lograr buenos resultados sin ayuda"
  },
  {
+  "images": [],
   "number": "312",
   "word": "demás",
   "part": "adj",
@@ -2322,6 +2583,7 @@
   "example": "serán la envidia de los demás colegas latinoamericanos"
  },
  {
+  "images": [],
   "number": "313",
   "word": "acuerdo",
   "part": "nm",
@@ -2329,6 +2591,7 @@
   "example": "estoy de acuerdo con esa interpretación"
  },
  {
+  "images": [],
   "number": "314",
   "word": "difícil",
   "part": "adj",
@@ -2336,6 +2599,7 @@
   "example": "es duro, difícil tomar una decisión como  ésta"
  },
  {
+  "images": [],
   "number": "315",
   "word": "número",
   "part": "nm",
@@ -2343,6 +2607,7 @@
   "example": "ella escribía su número telefónico en un papelito"
  },
  {
+  "images": [],
   "number": "316",
   "word": "explicar",
   "part": "v",
@@ -2350,6 +2615,7 @@
   "example": "¿podría explicar los detalles de este análisis?"
  },
  {
+  "images": [],
   "number": "317",
   "word": "negro",
   "part": "adj",
@@ -2357,6 +2623,7 @@
   "example": "la existencia de un agujero negro en la galaxia M87"
  },
  {
+  "images": [],
   "number": "318",
   "word": "fondo",
   "part": "nm",
@@ -2364,6 +2631,7 @@
   "example": "ese es el sistema, y en el fondo funciona"
  },
  {
+  "images": [],
   "number": "319",
   "word": "camino",
   "part": "nm",
@@ -2371,6 +2639,7 @@
   "example": "es un camino muy largo el que nos queda por recorrer"
  },
  {
+  "images": [],
   "number": "320",
   "word": "voz",
   "part": "nf",
@@ -2378,6 +2647,7 @@
   "example": "un hombre de voz vibrante y rica empezó a cantar"
  },
  {
+  "images": [],
   "number": "321",
   "word": "estudio",
   "part": "nm",
@@ -2385,6 +2655,7 @@
   "example": "he colaborado en un estudio de epidemiología descriptiva"
  },
  {
+  "images": [],
   "number": "322",
   "word": "necesario",
   "part": "adj",
@@ -2392,6 +2663,7 @@
   "example": "ahora es necesario dirigir más oraciones a Dios"
  },
  {
+  "images": [],
   "number": "323",
   "word": "preguntar",
   "part": "v",
@@ -2399,6 +2671,7 @@
   "example": "les voy a preguntar si quieren comer"
  },
  {
+  "images": [],
   "number": "324",
   "word": "allá",
   "part": "adv",
@@ -2406,6 +2679,7 @@
   "example": "miren allá, cerca del puente"
  },
  {
+  "images": [],
   "number": "325",
   "word": "tocar",
   "part": "v",
@@ -2413,6 +2687,7 @@
   "example": "se acercó hasta tocar su rodilla con la  mía"
  },
  {
+  "images": [],
   "number": "326",
   "word": "valor",
   "part": "nm",
@@ -2420,6 +2695,7 @@
   "example": "hay que descubrir el valor artístico de la obra de arte"
  },
  {
+  "images": [],
   "number": "327",
   "word": "reconocer",
   "part": "v",
@@ -2427,6 +2703,7 @@
   "example": "no pudo reconocer quién era"
  },
  {
+  "images": [],
   "number": "328",
   "word": "estudiar",
   "part": "v",
@@ -2434,6 +2711,7 @@
   "example": "Adam quiere estudiar teología y ser sacerdote"
  },
  {
+  "images": [],
   "number": "329",
   "word": "alcanzar",
   "part": "v",
@@ -2441,6 +2719,7 @@
   "example": "la economía tiene posibilidades de alcanzar  la prosperidad"
  },
  {
+  "images": [],
   "number": "330",
   "word": "nacer",
   "part": "v",
@@ -2448,6 +2727,7 @@
   "example": "Picasso nació en Málaga en 1881"
  },
  {
+  "images": [],
   "number": "331",
   "word": "dirigir",
   "part": "v",
@@ -2455,6 +2735,7 @@
   "example": "usted dirigió la Orquesta Nacional en  1954"
  },
  {
+  "images": [],
   "number": "332",
   "word": "correr",
   "part": "v",
@@ -2462,6 +2743,7 @@
   "example": "ahorita corre tres kilómetros y medio"
  },
  {
+  "images": [],
   "number": "333",
   "word": "medida",
   "part": "nf",
@@ -2469,6 +2751,7 @@
   "example": "el artista crece a medida que madura"
  },
  {
+  "images": [],
   "number": "334",
   "word": "menor",
   "part": "adj",
@@ -2476,6 +2759,7 @@
   "example": "E. era el menor de los hermanos"
  },
  {
+  "images": [],
   "number": "335",
   "word": "demasiado",
   "part": "adj",
@@ -2483,6 +2767,7 @@
   "example": "esta casa es demasiado grande para una persona"
  },
  {
+  "images": [],
   "number": "336",
   "word": "solamente",
   "part": "adv",
@@ -2490,6 +2775,7 @@
   "example": "la opinión es solamente una hipótesis"
  },
  {
+  "images": [],
   "number": "337",
   "word": "bueno",
   "part": "adv",
@@ -2497,6 +2783,7 @@
   "example": "bueno, ¿y ahora qué hacemos?"
  },
  {
+  "images": [],
   "number": "338",
   "word": "utilizar",
   "part": "v",
@@ -2504,6 +2791,7 @@
   "example": "sería una buena idea utilizar colores  pálidos"
  },
  {
+  "images": [],
   "number": "339",
   "word": "centro",
   "part": "nm",
@@ -2511,6 +2799,7 @@
   "example": "no necesitan estar solos en el centro del escenario"
  },
  {
+  "images": [],
   "number": "340",
   "word": "necesidad",
   "part": "nf",
@@ -2518,6 +2807,7 @@
   "example": "sentía la necesidad de ser comprendido"
  },
  {
+  "images": [],
   "number": "341",
   "word": "condición",
   "part": "nf",
@@ -2525,6 +2815,7 @@
   "example": "afecta a la condición física de todos los órganos"
  },
  {
+  "images": [],
   "number": "342",
   "word": "pagar",
   "part": "v",
@@ -2532,6 +2823,7 @@
   "example": "estamos tratando de pagar esta deuda"
  },
  {
+  "images": [],
   "number": "343",
   "word": "ello",
   "part": "pron",
@@ -2539,6 +2831,7 @@
   "example": "¿qué se perdía con ello?"
  },
  {
+  "images": [],
   "number": "344",
   "word": "falta",
   "part": "nf",
@@ -2546,6 +2839,7 @@
   "example": "sería una locura, una falta de ese sentido de  la realidad"
  },
  {
+  "images": [],
   "number": "345",
   "word": "ayudar",
   "part": "v",
@@ -2553,6 +2847,7 @@
   "example": "espero ganar dinero para ayudar a mi pobre madre"
  },
  {
+  "images": [],
   "number": "346",
   "word": "diez",
   "part": "num",
@@ -2560,6 +2855,7 @@
   "example": "a mí me bastaban los diez mandamientos"
  },
  {
+  "images": [],
   "number": "347",
   "word": "través",
   "part": "adv",
@@ -2567,6 +2863,7 @@
   "example": "los sentimientos que han llegado a mí a través de la música"
  },
  {
+  "images": [],
   "number": "348 ",
   "word": "antiguo",
   "part": "adj",
@@ -2574,6 +2871,7 @@
   "example": "es una de las obras más antiguas – fines del siglo XIII"
  },
  {
+  "images": [],
   "number": "349",
   "word": "tu",
   "part": "adj",
@@ -2581,6 +2879,7 @@
   "example": "ésta es tu casa y ésta es tu cama"
  },
  {
+  "images": [],
   "number": "350",
   "word": "edad",
   "part": "nf",
@@ -2588,6 +2887,7 @@
   "example": "se acercaba a la edad de encontrar un hombre con quien casarse"
  },
  {
+  "images": [],
   "number": "351",
   "word": "estado",
   "part": "nm",
@@ -2595,6 +2895,7 @@
   "example": "hay un estado de incertidumbre que flota en el ambiente"
  },
  {
+  "images": [],
   "number": "352",
   "word": "ser",
   "part": "nm",
@@ -2602,6 +2903,7 @@
   "example": "se puede ser un ser humano perfecto y un bárbaro en cultura"
  },
  {
+  "images": [],
   "number": "353",
   "word": "gustar",
   "part": "v",
@@ -2609,6 +2911,7 @@
   "example": "¡no me gusta que te acaricie!"
  },
  {
+  "images": [],
   "number": "354",
   "word": "puerta",
   "part": "nf",
@@ -2616,6 +2919,7 @@
   "example": "¿por dónde estará la puerta de salida?"
  },
  {
+  "images": [],
   "number": "355",
   "word": "jugar",
   "part": "v",
@@ -2623,6 +2927,7 @@
   "example": "puede jugar a la pelota"
  },
  {
+  "images": [],
   "number": "356",
   "word": "cara",
   "part": "nf",
@@ -2630,6 +2935,7 @@
   "example": "aparece la cara del hombre con sus bigotes de cepillo"
  },
  {
+  "images": [],
   "number": "357",
   "word": "mí",
   "part": "pron",
@@ -2637,6 +2943,7 @@
   "example": "el regalo era para mí"
  },
  {
+  "images": [],
   "number": "358",
   "word": "época",
   "part": "nf",
@@ -2644,6 +2951,7 @@
   "example": "en la época romana se utilizaba más el bronce"
  },
  {
+  "images": [],
   "number": "359",
   "word": "color",
   "part": "nm",
@@ -2651,6 +2959,7 @@
   "example": "coincide con los colores primarios: rojo, azul y amarillo"
  },
  {
+  "images": [],
   "number": "360",
   "word": "escuchar",
   "part": "v",
@@ -2658,6 +2967,7 @@
   "example": "tuvo oportunidad de escuchar comentarios de viajeros"
  },
  {
+  "images": [],
   "number": "361",
   "word": "experiencia",
   "part": "nf",
@@ -2665,6 +2975,7 @@
   "example": "tengo experiencia de la vida y del amor"
  },
  {
+  "images": [],
   "number": "362",
   "word": "movimiento",
   "part": "nm",
@@ -2672,6 +2983,7 @@
   "example": "estaba encabezando un movimiento de subversión"
  },
  {
+  "images": [],
   "number": "363",
   "word": "cumplir",
   "part": "v",
@@ -2679,6 +2991,7 @@
   "example": "necesita algo más para cumplir su trabajo"
  },
  {
+  "images": [],
   "number": "364",
   "word": "especial",
   "part": "adj",
@@ -2686,6 +2999,7 @@
   "example": "siento también una especial predilección por Stravinski"
  },
  {
+  "images": [],
   "number": "365",
   "word": "diferente",
   "part": "adj",
@@ -2693,6 +3007,7 @@
   "example": "en un entorno urbano el reto, en cambio, es diferente"
  },
  {
+  "images": [],
   "number": "366",
   "word": "pesar",
   "part": "nm",
@@ -2700,6 +3015,7 @@
   "example": "comprendí su decisión a pesar de que me entristeciera mucho"
  },
  {
+  "images": [],
   "number": "367",
   "word": "posibilidad",
   "part": "nf",
@@ -2707,6 +3023,7 @@
   "example": "debes considerar la posibilidad de dar en adopción a tu bebé"
  },
  {
+  "images": [],
   "number": "368",
   "word": "ofrecer",
   "part": "v",
@@ -2714,6 +3031,7 @@
   "example": "el Hotel D. ofrece su menú en francés"
  },
  {
+  "images": [],
   "number": "369",
   "word": "descubrir",
   "part": "v",
@@ -2721,6 +3039,7 @@
   "example": "otro policía descubrió un paquete en el suelo"
  },
  {
+  "images": [],
   "number": "370",
   "word": "anterior",
   "part": "adj",
@@ -2728,6 +3047,7 @@
   "example": "en términos de dólares, el anterior fue un año sobresaliente"
  },
  {
+  "images": [],
   "number": "371",
   "word": "juego",
   "part": "nm",
@@ -2735,6 +3055,7 @@
   "example": "he escrito algunos libros de juego y diversión"
  },
  {
+  "images": [],
   "number": "372",
   "word": "levantar",
   "part": "v",
@@ -2742,6 +3063,7 @@
   "example": "de pronto se levantó y fue hasta su biblioteca"
  },
  {
+  "images": [],
   "number": "373",
   "word": "pobre",
   "part": "adj",
@@ -2749,6 +3071,7 @@
   "example": "el pobre, va a tener que trabajar"
  },
  {
+  "images": [],
   "number": "374",
   "word": "aire",
   "part": "nm",
@@ -2756,6 +3079,7 @@
   "example": "el helicóptero puede estacionarse en el aire"
  },
  {
+  "images": [],
   "number": "375",
   "word": "seis",
   "part": "num",
@@ -2763,6 +3087,7 @@
   "example": "cinco por seis son treinta"
  },
  {
+  "images": [],
   "number": "376",
   "word": "intentar",
   "part": "v",
@@ -2770,6 +3095,7 @@
   "example": "¿somos tan tontos como para intentar repetir la historia?"
  },
  {
+  "images": [],
   "number": "377",
   "word": "guerra",
   "part": "nf",
@@ -2777,6 +3103,7 @@
   "example": "qué pronto se olvida a las víctimas de una guerra"
  },
  {
+  "images": [],
   "number": "378",
   "word": "junto",
   "part": "adv",
@@ -2784,6 +3111,7 @@
   "example": "trabajábamos juntos en el Congreso"
  },
  {
+  "images": [],
   "number": "379",
   "word": "resultado",
   "part": "nm",
@@ -2791,6 +3119,7 @@
   "example": "fue el resultado de muchas acciones que parecían inútiles"
  },
  {
+  "images": [],
   "number": "380",
   "word": "usar",
   "part": "v",
@@ -2798,6 +3127,7 @@
   "example": "mi teléfono no funciona y quisiera usar el tuyo"
  },
  {
+  "images": [],
   "number": "381",
   "word": "decidir",
   "part": "v",
@@ -2805,6 +3135,7 @@
   "example": "¿cómo decidió usted ser director de orquesta?"
  },
  {
+  "images": [],
   "number": "382",
   "word": "repetir",
   "part": "v",
@@ -2812,6 +3143,7 @@
   "example": "no voy a repetir este pecado más en la vida"
  },
  {
+  "images": [],
   "number": "383 ",
   "word": "olvidar",
   "part": "v",
@@ -2819,6 +3151,7 @@
   "example": "no he podido olvidar aquella noche de tu despedida"
  },
  {
+  "images": [],
   "number": "384",
   "word": "ley",
   "part": "nf",
@@ -2826,6 +3159,7 @@
   "example": "el casamiento civil es una ley de este país"
  },
  {
+  "images": [],
   "number": "385",
   "word": "aspecto",
   "part": "nm",
@@ -2833,6 +3167,7 @@
   "example": "uno de los aspectos más controvertidos del modernismo"
  },
  {
+  "images": [],
   "number": "386",
   "word": "pie",
   "part": "nm",
@@ -2840,6 +3175,7 @@
   "example": "está enfermo y tiene un pie en el cementerio"
  },
  {
+  "images": [],
   "number": "387",
   "word": "valer",
   "part": "v",
@@ -2847,6 +3183,7 @@
   "example": "¡estas joyas tienen que valer muchos millones!"
  },
  {
+  "images": [],
   "number": "388",
   "word": "especie",
   "part": "nf",
@@ -2854,6 +3191,7 @@
   "example": "el único que llegó a ser una especie de monstruo fui yo"
  },
  {
+  "images": [],
   "number": "389",
   "word": "comer",
   "part": "v",
@@ -2861,6 +3199,7 @@
   "example": "te comiste todo el queso"
  },
  {
+  "images": [],
   "number": "390",
   "word": "servicio",
   "part": "nm",
@@ -2868,6 +3207,7 @@
   "example": "es un servicio público que beneficia al individuo"
  },
  {
+  "images": [],
   "number": "391",
   "word": "cerca",
   "part": "adv",
@@ -2875,6 +3215,7 @@
   "example": "nos sentábamos cerca del fuego"
  },
  {
+  "images": [],
   "number": "392",
   "word": "mostrar",
   "part": "v",
@@ -2882,6 +3223,7 @@
   "example": "con un dedo me mostró un agujerito negro"
  },
  {
+  "images": [],
   "number": "393",
   "word": "actividad",
   "part": "nf",
@@ -2889,6 +3231,7 @@
   "example": "pienso que el arte es una actividad mental"
  },
  {
+  "images": [],
   "number": "394",
   "word": "tercero",
   "part": "adj",
@@ -2896,6 +3239,7 @@
   "example": "en uno de los primeros años de la tercera década del siglo"
  },
  {
+  "images": [],
   "number": "395",
   "word": "cuál",
   "part": "pron",
@@ -2903,6 +3247,7 @@
   "example": "primero dime cuál es tu nombre"
  },
  {
+  "images": [],
   "number": "396",
   "word": "pronto",
   "part": "adv",
@@ -2910,6 +3255,7 @@
   "example": "pronto lo tuvieron todo hecho"
  },
  {
+  "images": [],
   "number": "397",
   "word": "ocupar",
   "part": "v",
@@ -2917,6 +3263,7 @@
   "example": "volvió a ocupar su lugar"
  },
  {
+  "images": [],
   "number": "398",
   "word": "cuestión",
   "part": "nf",
@@ -2924,6 +3271,7 @@
   "example": "creo que es una cuestión de sinceridad"
  },
  {
+  "images": [],
   "number": "399",
   "word": "duda",
   "part": "nf",
@@ -2931,6 +3279,7 @@
   "example": "no existía duda alguna en que era hijo mío"
  },
  {
+  "images": [],
   "number": "400",
   "word": "diferencia",
   "part": "nf",
@@ -2938,6 +3287,7 @@
   "example": "¿sabés la diferencia entre el contador y el matemático?"
  },
  {
+  "images": [],
   "number": "401",
   "word": "mañana",
   "part": "nf",
@@ -2945,6 +3295,7 @@
   "example": "sí, todo el día está allá, desde la mañana hasta la tarde"
  },
  {
+  "images": [],
   "number": "402",
   "word": "mover",
   "part": "v",
@@ -2952,6 +3303,7 @@
   "example": "después de mover a uno y otro lado la  cabeza"
  },
  {
+  "images": [],
   "number": "403",
   "word": "continuar",
   "part": "v",
@@ -2959,6 +3311,7 @@
   "example": "da la orden para continuar la marcha"
  },
  {
+  "images": [],
   "number": "404",
   "word": "cantidad",
   "part": "nf",
@@ -2966,6 +3319,7 @@
   "example": "todo esto genera una cantidad de datos formidables"
  },
  {
+  "images": [],
   "number": "405",
   "word": "acción",
   "part": "nf",
@@ -2973,6 +3327,7 @@
   "example": "esta acción legal pretendía acelerar la liberalización económica"
  },
  {
+  "images": [],
   "number": "406",
   "word": "suceder",
   "part": "v",
@@ -2980,6 +3335,7 @@
   "example": "¿qué pasa?, ¿sucedió algo malo?, ¿algún problema?"
  },
  {
+  "images": [],
   "number": "407",
   "word": "fijar",
   "part": "v",
@@ -2987,6 +3343,7 @@
   "example": "lo primero que hizo fue fijar fecha definitiva"
  },
  {
+  "images": [],
   "number": "408",
   "word": "sociedad",
   "part": "nf",
@@ -2994,6 +3351,7 @@
   "example": "creaban una sociedad multicultural que vivía en paz"
  },
  {
+  "images": [],
   "number": "409",
   "word": "referir",
   "part": "v",
@@ -3001,6 +3359,7 @@
   "example": "me voy a referir a los dos últimos puntos"
  },
  {
+  "images": [],
   "number": "410",
   "word": "acercar",
   "part": "v",
@@ -3008,6 +3367,7 @@
   "example": "él me miró, se acercó, me besó"
  },
  {
+  "images": [],
   "number": "411",
   "word": "capaz",
   "part": "adj",
@@ -3015,6 +3375,7 @@
   "example": "¿es usted capaz de describir su propia  carrera?"
  },
  {
+  "images": [],
   "number": "412",
   "word": "bajo",
   "part": "adj",
@@ -3022,6 +3383,7 @@
   "example": "las puertas de madera son bajas y rudas"
  },
  {
+  "images": [],
   "number": "413",
   "word": "libre",
   "part": "adj",
@@ -3029,6 +3391,7 @@
   "example": "estaré más tranquilo y con más tiempo  libre"
  },
  {
+  "images": [],
   "number": "414",
   "word": "natural",
   "part": "adj",
@@ -3036,6 +3399,7 @@
   "example": "decidió que su conducta era natural y sincera"
  },
  {
+  "images": [],
   "number": "415",
   "word": "dedicar",
   "part": "v",
@@ -3043,6 +3407,7 @@
   "example": "cuando se quedó sola se dedicó más horas  a escribir"
  },
  {
+  "images": [],
   "number": "416",
   "word": "realmente",
   "part": "adv",
@@ -3050,6 +3415,7 @@
   "example": "¿antes de nacer nosotros existía realmente  el mundo?"
  },
  {
+  "images": [],
   "number": "417",
   "word": "peso",
   "part": "nm",
@@ -3057,6 +3423,7 @@
   "example": "por lo menos son quince mil pesos por mes"
  },
  {
+  "images": [],
   "number": "418",
   "word": "efecto",
   "part": "nm",
@@ -3064,6 +3431,7 @@
   "example": "para estudiar el efecto del Sol sobre la emisión de rayos X"
  },
  {
+  "images": [],
   "number": "419",
   "word": "objeto",
   "part": "nm",
@@ -3071,6 +3439,7 @@
   "example": "será objeto de estudio para las predicciones meteorológicas"
  },
  {
+  "images": [],
   "number": "420",
   "word": "verdadero",
   "part": "adj",
@@ -3078,6 +3447,7 @@
   "example": "cuyo verdadero nombre no conoció nadie"
  },
  {
+  "images": [],
   "number": "421",
   "word": "dónde",
   "part": "adv",
@@ -3085,6 +3455,7 @@
   "example": "¿Dónde está escrito esto en la historia?"
  },
  {
+  "images": [],
   "number": "422",
   "word": "aprender",
   "part": "v",
@@ -3092,6 +3463,7 @@
   "example": "no hay manera de aprender el otro  lenguaje"
  },
  {
+  "images": [],
   "number": "423",
   "word": "amor",
   "part": "nm",
@@ -3099,6 +3471,7 @@
   "example": "¡por el amor más grande del mundo; el amor de Dios!"
  },
  {
+  "images": [],
   "number": "424",
   "word": "muerte",
   "part": "nf",
@@ -3106,6 +3479,7 @@
   "example": "sólo la muerte no tiene remedio, Juan"
  },
  {
+  "images": [],
   "number": "425",
   "word": "partido",
   "part": "nm",
@@ -3113,6 +3487,7 @@
   "example": "fue consejero de un candidato del partido conservador"
  },
  {
+  "images": [],
   "number": "426",
   "word": "económico",
   "part": "adj",
@@ -3120,6 +3495,7 @@
   "example": "es necesario tener progreso económico"
  },
  {
+  "images": [],
   "number": "427",
   "word": "derecho",
   "part": "nm",
@@ -3127,6 +3503,7 @@
   "example": "los catalanes tienen el derecho a usar los dos idiomas que son suyos"
  },
  {
+  "images": [],
   "number": "428",
   "word": "poder",
   "part": "nm",
@@ -3134,6 +3511,7 @@
   "example": "le dio el poder de manejar la economía mundial"
  },
  {
+  "images": [],
   "number": "429",
   "word": "importancia",
   "part": "nf",
@@ -3141,6 +3519,7 @@
   "example": "¿qué proyectos de importancia tiene en su agenda?"
  },
  {
+  "images": [],
   "number": "430",
   "word": "sistema",
   "part": "nm",
@@ -3148,6 +3527,7 @@
   "example": "están situados a 4 mil años luz del sistema solar"
  },
  {
+  "images": [],
   "number": "431",
   "word": "viaje",
   "part": "nm",
@@ -3155,6 +3535,7 @@
   "example": "le suceden todo tipo de aventuras durante  su viaje"
  },
  {
+  "images": [],
   "number": "432",
   "word": "suelo",
   "part": "nm",
@@ -3162,6 +3543,7 @@
   "example": "durmió en el suelo sobre varias mantas"
  },
  {
+  "images": [],
   "number": "433",
   "word": "respecto",
   "part": "nm",
@@ -3169,6 +3551,7 @@
   "example": "los grupos varían con respecto al número que lo componen"
  },
  {
+  "images": [],
   "number": "434",
   "word": "conocimiento",
   "part": "nm",
@@ -3176,6 +3559,7 @@
   "example": "desplegó un conocimiento variado de los costumbres del país"
  },
  {
+  "images": [],
   "number": "435",
   "word": "libertad",
   "part": "nf",
@@ -3183,6 +3567,7 @@
   "example": "les falta la libertad, el hábito de pensar libremente"
  },
  {
+  "images": [],
   "number": "436",
   "word": "encima",
   "part": "adv",
@@ -3190,6 +3575,7 @@
   "example": "nos pueden elevar por encima de nuestra realidad"
  },
  {
+  "images": [],
   "number": "437",
   "word": "comprar",
   "part": "v",
@@ -3197,6 +3583,7 @@
   "example": "me iba a comprar un televisor"
  },
  {
+  "images": [],
   "number": "438",
   "word": "común",
   "part": "adj",
@@ -3204,6 +3591,7 @@
   "example": "el talento no es una cosa muy común"
  },
  {
+  "images": [],
   "number": "439",
   "word": "abierto",
   "part": "adj",
@@ -3211,6 +3599,7 @@
   "example": "dormía con un ojo abierto"
  },
  {
+  "images": [],
   "number": "440",
   "word": "próximo",
   "part": "adj",
@@ -3218,6 +3607,7 @@
   "example": "pasará el próximo semestre enseñando literatura"
  },
  {
+  "images": [],
   "number": "441",
   "word": "atención",
   "part": "nf",
@@ -3225,6 +3615,7 @@
   "example": "llaman mucho la atención y causan un gran impacto"
  },
  {
+  "images": [],
   "number": "442",
   "word": "joven",
   "part": "adj",
@@ -3232,6 +3623,7 @@
   "example": "¿qué novedad le puede aportar una cantante joven como usted?"
  },
  {
+  "images": [],
   "number": "443",
   "word": "subir",
   "part": "v",
@@ -3239,6 +3631,7 @@
   "example": "el sistema de subir y bajar verticalmente"
  },
  {
+  "images": [],
   "number": "444",
   "word": "esfuerzo",
   "part": "nm",
@@ -3246,6 +3639,7 @@
   "example": "no ha sido vano su esfuerzo"
  },
  {
+  "images": [],
   "number": "445",
   "word": "pasado",
   "part": "adj",
@@ -3253,6 +3647,7 @@
   "example": "las cosechas serían buenas, pero no tanto como el año pasado"
  },
  {
+  "images": [],
   "number": "446",
   "word": "evitar",
   "part": "v",
@@ -3260,6 +3655,7 @@
   "example": "actuó rápido para evitar su segura  humillación"
  },
  {
+  "images": [],
   "number": "447",
   "word": "resto",
   "part": "nm",
@@ -3267,6 +3663,7 @@
   "example": "en el Perú y Japón sí, pero no en el resto del mundo"
  },
  {
+  "images": [],
   "number": "448",
   "word": "interesar",
   "part": "v",
@@ -3274,6 +3671,7 @@
   "example": "no le interesa conocer el mundo"
  },
  {
+  "images": [],
   "number": "449",
   "word": "zona",
   "part": "nf",
@@ -3281,6 +3679,7 @@
   "example": "conquistó la zona alemana de Samoa en agosto de 1914"
  },
  {
+  "images": [],
   "number": "450",
   "word": "miedo",
   "part": "nm",
@@ -3288,6 +3687,7 @@
   "example": "yo no tengo miedo de morir"
  },
  {
+  "images": [],
   "number": "451",
   "word": "fuera",
   "part": "adv",
@@ -3295,6 +3695,7 @@
   "example": "hace como diez años que está fuera del Paraguay"
  },
  {
+  "images": [],
   "number": "452",
   "word": "proceso",
   "part": "nm",
@@ -3302,6 +3703,7 @@
   "example": "el proceso de gestación de la criatura no fue normal"
  },
  {
+  "images": [],
   "number": "453",
   "word": "vivo",
   "part": "adj",
@@ -3309,6 +3711,7 @@
   "example": "el país está musicalmente vivo y palpitante"
  },
  {
+  "images": [],
   "number": "454",
   "word": "cerrar",
   "part": "v",
@@ -3316,6 +3719,7 @@
   "example": "lo mejor era cerrar los ojos y dormir"
  },
  {
+  "images": [],
   "number": "455",
   "word": "echar",
   "part": "v",
@@ -3323,6 +3727,7 @@
   "example": "me echó de la casa y me fui"
  },
  {
+  "images": [],
   "number": "456",
   "word": "responder",
   "part": "v",
@@ -3330,6 +3735,7 @@
   "example": "el Gobierno respondió por escrito a este diputado"
  },
  {
+  "images": [],
   "number": "457",
   "word": "sufrir",
   "part": "v",
@@ -3337,6 +3743,7 @@
   "example": "sufrió la eterna tragedia del grande"
  },
  {
+  "images": [],
   "number": "458",
   "word": "completo",
   "part": "adj",
@@ -3344,6 +3751,7 @@
   "example": "tienes mi apoyo completo"
  },
  {
+  "images": [],
   "number": "459",
   "word": "minuto",
   "part": "nm",
@@ -3351,6 +3759,7 @@
   "example": "antes del partido se va a guardar un  minuto de silencio"
  },
  {
+  "images": [],
   "number": "460",
   "word": "contrario",
   "part": "adj",
@@ -3358,6 +3767,7 @@
   "example": "al principio nadie se alarmó; al contrario,  se alegraron"
  },
  {
+  "images": [],
   "number": "461",
   "word": "mesa",
   "part": "nf",
@@ -3365,6 +3775,7 @@
   "example": "la mesa estaba puesta para la  cena"
  },
  {
+  "images": [],
   "number": "462",
   "word": "real",
   "part": "adj",
@@ -3372,6 +3783,7 @@
   "example": "fuimos a la biblioteca del palacio real de Madrid"
  },
  {
+  "images": [],
   "number": "463",
   "word": "ocasión",
   "part": "nf",
@@ -3379,6 +3791,7 @@
   "example": "no se puede perder esta ocasión porque es la última"
  },
  {
+  "images": [],
   "number": "464",
   "word": "importar",
   "part": "v",
@@ -3386,6 +3799,7 @@
   "example": "no le importa nada de nada"
  },
  {
+  "images": [],
   "number": "465",
   "word": "público",
   "part": "adj",
@@ -3393,6 +3807,7 @@
   "example": "el 4 de marzo da su último concierto  público"
  },
  {
+  "images": [],
   "number": "466",
   "word": "obtener",
   "part": "v",
@@ -3400,6 +3815,7 @@
   "example": "se hace la guerra para obtener la paz"
  },
  {
+  "images": [],
   "number": "467",
   "word": "programa",
   "part": "nm",
@@ -3407,6 +3823,7 @@
   "example": "van a aprender mucho de este programa escolar"
  },
  {
+  "images": [],
   "number": "468",
   "word": "favor",
   "part": "nm",
@@ -3414,6 +3831,7 @@
   "example": "están a favor de los serbios"
  },
  {
+  "images": [],
   "number": "469",
   "word": "lejos",
   "part": "adv",
@@ -3421,6 +3839,7 @@
   "example": "ese sitio estaba lejos del pueblo"
  },
  {
+  "images": [],
   "number": "470",
   "word": "siete",
   "part": "num",
@@ -3428,6 +3847,7 @@
   "example": "aprobó el cursillo “Cómo ser feliz en siete días”"
  },
  {
+  "images": [],
   "number": "471",
   "word": "enorme",
   "part": "adj",
@@ -3435,6 +3855,7 @@
   "example": "hay una enorme cantidad de cuadros muy significativos"
  },
  {
+  "images": [],
   "number": "472",
   "word": "respuesta",
   "part": "nf",
@@ -3442,6 +3863,7 @@
   "example": "la única respuesta fue el silencio"
  },
  {
+  "images": [],
   "number": "473",
   "word": "línea",
   "part": "nf",
@@ -3449,6 +3871,7 @@
   "example": "la línea del horizonte que separa el cielo del mar"
  },
  {
+  "images": [],
   "number": "474",
   "word": "espacio",
   "part": "nm",
@@ -3456,6 +3879,7 @@
   "example": "ya no quedaba espacio para nadie alrededor del tranvía"
  },
  {
+  "images": [],
   "number": "475",
   "word": "nivel",
   "part": "nm",
@@ -3463,6 +3887,7 @@
   "example": "el nivel del mar empezaba a aumentar"
  },
  {
+  "images": [],
   "number": "476",
   "word": "gobierno",
   "part": "nm",
@@ -3470,6 +3895,7 @@
   "example": "el feudalismo fue la forma de gobierno"
  },
  {
+  "images": [],
   "number": "477",
   "word": "cabo",
   "part": "nm",
@@ -3477,6 +3903,7 @@
   "example": "llevó a cabo un importante trabajo  científico"
  },
  {
+  "images": [],
   "number": "478",
   "word": "observar",
   "part": "v",
@@ -3484,6 +3911,7 @@
   "example": "en los que se pueden observar bajo microscopio"
  },
  {
+  "images": [],
   "number": "479",
   "word": "indicar",
   "part": "v",
@@ -3491,6 +3919,7 @@
   "example": "el Conductor le indica el lugar que debe ocupar"
  },
  {
+  "images": [],
   "number": "480",
   "word": "alguien",
   "part": "pron",
@@ -3498,6 +3927,7 @@
   "example": "alguien vino a preguntar por usted"
  },
  {
+  "images": [],
   "number": "481",
   "word": "pregunta",
   "part": "nf",
@@ -3505,6 +3935,7 @@
   "example": "cada pregunta abría un mar de respuestas"
  },
  {
+  "images": [],
   "number": "482",
   "word": "claro",
   "part": "adv",
@@ -3512,6 +3943,7 @@
   "example": "¡Claro! Así está mucho mejor"
  },
  {
+  "images": [],
   "number": "483",
   "word": "atrás",
   "part": "adv",
@@ -3519,6 +3951,7 @@
   "example": "se olvidaba de mirar hacia atrás o hacia los lados"
  },
  {
+  "images": [],
   "number": "484",
   "word": "imagen",
   "part": "nf",
@@ -3526,6 +3959,7 @@
   "example": "es un intento evidente de dañar mi imagen pública"
  },
  {
+  "images": [],
   "number": "485",
   "word": "carrera",
   "part": "nf",
@@ -3533,6 +3967,7 @@
   "example": "su carrera como «jazzman» profesional empezó en Cannes"
  },
  {
+  "images": [],
   "number": "486",
   "word": "imaginar",
   "part": "v",
@@ -3540,6 +3975,7 @@
   "example": "me imagino que Uds. tienen la misma situación"
  },
  {
+  "images": [],
   "number": "487",
   "word": "soler",
   "part": "v",
@@ -3547,6 +3983,7 @@
   "example": "en las noches cálidas la familia suele reunirse en el patio"
  },
  {
+  "images": [],
   "number": "488",
   "word": "ambos",
   "part": "adj",
@@ -3554,6 +3991,7 @@
   "example": "se extendían a ambos lados de la carretera"
  },
  {
+  "images": [],
   "number": "489",
   "word": "profundo",
   "part": "adj",
@@ -3561,6 +3999,7 @@
   "example": "el mejor y más profundo conocimiento del poeta"
  },
  {
+  "images": [],
   "number": "490",
   "word": "detener",
   "part": "v",
@@ -3568,6 +4007,7 @@
   "example": "su pupila se detenía sobre el papel"
  },
  {
+  "images": [],
   "number": "491",
   "word": "desarrollar",
   "part": "v",
@@ -3575,6 +4015,7 @@
   "example": "tratando de desarrollar un . . . nuevo sistema electrónico"
  },
  {
+  "images": [],
   "number": "492",
   "word": "ocho",
   "part": "num",
@@ -3582,6 +4023,7 @@
   "example": "entre las siete y media, ocho de la mañana"
  },
  {
+  "images": [],
   "number": "493",
   "word": "señalar",
   "part": "v",
@@ -3589,6 +4031,7 @@
   "example": "nos hizo señas y señaló hacia adelante"
  },
  {
+  "images": [],
   "number": "494",
   "word": "elegir",
   "part": "v",
@@ -3596,6 +4039,7 @@
   "example": "los caminos son muchos y hay que elegir el mejor"
  },
  {
+  "images": [],
   "number": "495",
   "word": "figura",
   "part": "nf",
@@ -3603,6 +4047,7 @@
   "example": "descubrió en el ruidoso grupo la figura de su padre"
  },
  {
+  "images": [],
   "number": "496",
   "word": "principal",
   "part": "adj",
@@ -3610,6 +4055,7 @@
   "example": "¿cuál es el problema principal?"
  },
  {
+  "images": [],
   "number": "497",
   "word": "animal",
   "part": "nm",
@@ -3617,6 +4063,7 @@
   "example": "¿es hombre, animal o cosa?"
  },
  {
+  "images": [],
   "number": "498",
   "word": "base",
   "part": "nf",
@@ -3624,6 +4071,7 @@
   "example": "la mitología griega es la base de la literatura"
  },
  {
+  "images": [],
   "number": "499",
   "word": "preparar",
   "part": "v",
@@ -3631,6 +4079,7 @@
   "example": "todos los ingredientes para preparar un plato notable"
  },
  {
+  "images": [],
   "number": "500",
   "word": "proponer",
   "part": "v",
@@ -3638,6 +4087,7 @@
   "example": "le voy a proponer que nos casemos"
  },
  {
+  "images": [],
   "number": "501",
   "word": "demostrar",
   "part": "v",
@@ -3645,6 +4095,7 @@
   "example": "todos me escuchaban inmóviles, sin demostrar la menor sorpresa"
  },
  {
+  "images": [],
   "number": "502",
   "word": "significar",
   "part": "v",
@@ -3652,6 +4103,7 @@
   "example": "la paloma azul debía significar la libertad"
  },
  {
+  "images": [],
   "number": "503",
   "word": "posición",
   "part": "nf",
@@ -3659,6 +4111,7 @@
   "example": "-Vi que mi posición en aquel momento era inútil"
  },
  {
+  "images": [],
   "number": "504",
   "word": "motivo",
   "part": "nm",
@@ -3666,6 +4119,7 @@
   "example": "revelan el motivo de la construcción de las pirámides"
  },
  {
+  "images": [],
   "number": "505",
   "word": "prueba",
   "part": "nf",
@@ -3673,6 +4127,7 @@
   "example": "fue prueba de fidelidad y confianza conyugal"
  },
  {
+  "images": [],
   "number": "506",
   "word": "política",
   "part": "nf",
@@ -3680,6 +4135,7 @@
   "example": "se lanzan a un frenético debate sobre política"
  },
  {
+  "images": [],
   "number": "507",
   "word": "nacional",
   "part": "adj",
@@ -3687,6 +4143,7 @@
   "example": "le dieron el premio nacional de poesía"
  },
  {
+  "images": [],
   "number": "508",
   "word": "lleno",
   "part": "adj",
@@ -3694,6 +4151,7 @@
   "example": "joven y lleno de esperanzas por una vida mejor"
  },
  {
+  "images": [],
   "number": "509",
   "word": "reunir",
   "part": "v",
@@ -3701,6 +4159,7 @@
   "example": "le permitieron reunir una fortuna de proporciones grotescas"
  },
  {
+  "images": [],
   "number": "510",
   "word": "faltar",
   "part": "v",
@@ -3708,6 +4167,7 @@
   "example": "me falta una persona a quien comunicar mis impresiones"
  },
  {
+  "images": [],
   "number": "511",
   "word": "supuesto",
   "part": "adj",
@@ -3715,6 +4175,7 @@
   "example": "no entendí, por supuesto, nada, ni una palabra"
  },
  {
+  "images": [],
   "number": "512",
   "word": "acompañar",
   "part": "v",
@@ -3722,6 +4183,7 @@
   "example": "deberá acompañar a la novia a la iglesia"
  },
  {
+  "images": [],
   "number": "513",
   "word": "dato",
   "part": "nm",
@@ -3729,6 +4191,7 @@
   "example": "tenemos grandes bases de datos de secuencias de proteínas"
  },
  {
+  "images": [],
   "number": "514",
   "word": "fácil",
   "part": "adj",
@@ -3736,6 +4199,7 @@
   "example": "no es fácil explicar con precisión lo que sucedió"
  },
  {
+  "images": [],
   "number": "515",
   "word": "desear",
   "part": "v",
@@ -3743,6 +4207,7 @@
   "example": "dijo que deseaba venir a México"
  },
  {
+  "images": [],
   "number": "516",
   "word": "adelante",
   "part": "adv",
@@ -3750,6 +4215,7 @@
   "example": "el gobierno sigue adelante con el  proyecto"
  },
  {
+  "images": [],
   "number": "517",
   "word": "empresa",
   "part": "nf",
@@ -3757,6 +4223,7 @@
   "example": "operaba con una empresa constructora  del Reino Unido"
  },
  {
+  "images": [],
   "number": "518",
   "word": "asunto",
   "part": "nm",
@@ -3764,6 +4231,7 @@
   "example": "se ha creado una gran polémica sobre el asunto"
  },
  {
+  "images": [],
   "number": "519",
   "word": "presencia",
   "part": "nf",
@@ -3771,6 +4239,7 @@
   "example": "un ruido que advirtió a los ladrones de su presencia en la casa"
  },
  {
+  "images": [],
   "number": "520",
   "word": "suyo",
   "part": "pron",
@@ -3778,6 +4247,7 @@
   "example": "señor, lo que es mío, es suyo"
  },
  {
+  "images": [],
   "number": "521",
   "word": "cultura",
   "part": "nf",
@@ -3785,6 +4255,7 @@
   "example": "fue una primitiva cultura indoeuropea"
  },
  {
+  "images": [],
   "number": "522",
   "word": "serie",
   "part": "nf",
@@ -3792,6 +4263,7 @@
   "example": "en la combustión intervienen una serie de factores"
  },
  {
+  "images": [],
   "number": "523",
   "word": "millón",
   "part": "num",
@@ -3799,6 +4271,7 @@
   "example": "le ha proporcionado un cheque de un millón de pesetas"
  },
  {
+  "images": [],
   "number": "524",
   "word": "enseñar",
   "part": "v",
@@ -3806,6 +4279,7 @@
   "example": "¿qué objeto tiene enseñar química en Secundaria?"
  },
  {
+  "images": [],
   "number": "525",
   "word": "construir",
   "part": "v",
@@ -3813,6 +4287,7 @@
   "example": "la robótica tiende a construir modelos diminutos"
  },
  {
+  "images": [],
   "number": "526",
   "word": "vender",
   "part": "v",
@@ -3820,6 +4295,7 @@
   "example": "tuvieron que vender el maíz para comprar  el lienzo"
  },
  {
+  "images": [],
   "number": "527",
   "word": "representar",
   "part": "v",
@@ -3827,6 +4303,7 @@
   "example": "representa uno de los aspectos más desconocidos"
  },
  {
+  "images": [],
   "number": "528",
   "word": "desaparecer",
   "part": "v",
@@ -3834,6 +4311,7 @@
   "example": "se hizo desaparecer en la oscuridad"
  },
  {
+  "images": [],
   "number": "529",
   "word": "mandar",
   "part": "v",
@@ -3841,6 +4319,7 @@
   "example": "la primera carta que Rita nos mandó de Francia"
  },
  {
+  "images": [],
   "number": "530",
   "word": "carácter",
   "part": "nm",
@@ -3848,6 +4327,7 @@
   "example": "es un hombre de carácter apacible, reflexivo y afectuoso"
  },
  {
+  "images": [],
   "number": "531",
   "word": "mayoría",
   "part": "nf",
@@ -3855,6 +4335,7 @@
   "example": "la mayoría de los cánceres humanos no tienen un origen vírico"
  },
  {
+  "images": [],
   "number": "532",
   "word": "escuela",
   "part": "nf",
@@ -3862,6 +4343,7 @@
   "example": "dicta clases en la Escuela de Medicina de esa Universidad"
  },
  {
+  "images": [],
   "number": "533",
   "word": "rojo",
   "part": "adj",
@@ -3869,6 +4351,7 @@
   "example": "su boca, muy roja, apenas se movió"
  },
  {
+  "images": [],
   "number": "534",
   "word": "tras",
   "part": "prep",
@@ -3876,6 +4359,7 @@
   "example": "A. había retornado a su tierra tras años de lucha"
  },
  {
+  "images": [],
   "number": "535",
   "word": "superior",
   "part": "adj",
@@ -3883,6 +4367,7 @@
   "example": "una cantidad de dinero superior a su sueldo anual"
  },
  {
+  "images": [],
   "number": "536",
   "word": "andar",
   "part": "v",
@@ -3890,6 +4375,7 @@
   "example": "casi nadie andaba por las calles"
  },
  {
+  "images": [],
   "number": "537",
   "word": "corto",
   "part": "adj",
@@ -3897,6 +4383,7 @@
   "example": "su único día libre, era el día más corto de la semana"
  },
  {
+  "images": [],
   "number": "538",
   "word": "autor",
   "part": "nm+f",
@@ -3904,6 +4391,7 @@
   "example": "cuando un autor escribe un mal libro, se cierra o se tira a la papelera"
  },
  {
+  "images": [],
   "number": "539",
   "word": "hermano",
   "part": "nm",
@@ -3911,6 +4399,7 @@
   "example": "éramos tres hermanos, dos hermanos mayores y yo"
  },
  {
+  "images": [],
   "number": "540",
   "word": "conocido",
   "part": "adj",
@@ -3918,6 +4407,7 @@
   "example": "Velázquez fue también un pintor muy conocido en Sevilla"
  },
  {
+  "images": [],
   "number": "541",
   "word": "preferir",
   "part": "v",
@@ -3925,6 +4415,7 @@
   "example": "en realidad prefiero una buena hamburguesa con una coca cola"
  },
  {
+  "images": [],
   "number": "542",
   "word": "asegurar",
   "part": "v",
@@ -3932,6 +4423,7 @@
   "example": "podía asegurar que él sería la próxima  víctima"
  },
  {
+  "images": [],
   "number": "543",
   "word": "función",
   "part": "nf",
@@ -3939,6 +4431,7 @@
   "example": "¿qué función tienen las Academias en este sentido?"
  },
  {
+  "images": [],
   "number": "544",
   "word": "arriba",
   "part": "adv",
@@ -3946,6 +4439,7 @@
   "example": "desde arriba yo veía a mis dos hijas"
  },
  {
+  "images": [],
   "number": "545",
   "word": "serio",
   "part": "adj",
@@ -3953,6 +4447,7 @@
   "example": "esa muchacha tiene un problema  serio"
  },
  {
+  "images": [],
   "number": "546",
   "word": "causa",
   "part": "nf",
@@ -3960,6 +4455,7 @@
   "example": "la barrera puede romperse a intervalos por causa de las mareas"
  },
  {
+  "images": [],
   "number": "547",
   "word": "suficiente",
   "part": "adj",
@@ -3967,6 +4463,7 @@
   "example": "no tuvo el tiempo suficiente para ejecutar  sus proyectos"
  },
  {
+  "images": [],
   "number": "548",
   "word": "grave",
   "part": "adj",
@@ -3974,6 +4471,7 @@
   "example": "hay momentos de crisis grave en el mundo"
  },
  {
+  "images": [],
   "number": "549",
   "word": "decisión",
   "part": "nf",
@@ -3981,6 +4479,7 @@
   "example": "es difícil tomar una decisión como ésta"
  },
  {
+  "images": [],
   "number": "550",
   "word": "música",
   "part": "nf",
@@ -3988,6 +4487,7 @@
   "example": "la gente se detenía siempre a escuchar la música que tocaban"
  },
  {
+  "images": [],
   "number": "551",
   "word": "extraño",
   "part": "adj",
@@ -3995,6 +4495,7 @@
   "example": "tenían un extraño color de azúcar  quemada"
  },
  {
+  "images": [],
   "number": "552",
   "word": "crecer",
   "part": "v",
@@ -4002,6 +4503,7 @@
   "example": "nació y creció el muchacho en La Huerta"
  },
  {
+  "images": [],
   "number": "553",
   "word": "surgir",
   "part": "v",
@@ -4009,6 +4511,7 @@
   "example": "veía surgir la sombra terrible"
  },
  {
+  "images": [],
   "number": "554",
   "word": "tú",
   "part": "pron",
@@ -4016,6 +4519,7 @@
   "example": "¡qué clase de hombre eres tú!"
  },
  {
+  "images": [],
   "number": "555",
   "word": "expresión",
   "part": "nf",
@@ -4023,6 +4527,7 @@
   "example": "Johnny cambió su sonrisa por una expresión concentrada"
  },
  {
+  "images": [],
   "number": "556",
   "word": "alrededor",
   "part": "adv",
@@ -4030,6 +4535,7 @@
   "example": "entraron alrededor de las ocho de la  mañana"
  },
  {
+  "images": [],
   "number": "557",
   "word": "matar",
   "part": "v",
@@ -4037,6 +4543,7 @@
   "example": "el gato sirve para matar a los ratones"
  },
  {
+  "images": [],
   "number": "558",
   "word": "entregar",
   "part": "v",
@@ -4044,6 +4551,7 @@
   "example": "entregó el paquete a las criaturas"
  },
  {
+  "images": [],
   "number": "559",
   "word": "río",
   "part": "nm",
@@ -4051,6 +4559,7 @@
   "example": "recorriendo el río Amazonas y atravesando  los Andes"
  },
  {
+  "images": [],
   "number": "560",
   "word": "seguridad",
   "part": "nf",
@@ -4058,6 +4567,7 @@
   "example": "unas dudas sobre la calidad y seguridad de  los medicamentos"
  },
  {
+  "images": [],
   "number": "561",
   "word": "término",
   "part": "nm",
@@ -4065,6 +4575,7 @@
   "example": "se centra en el significado literal del término descrito"
  },
  {
+  "images": [],
   "number": "562",
   "word": "colocar",
   "part": "v",
@@ -4072,6 +4583,7 @@
   "example": "vuelve a colocar las rosas dentro del jarrón"
  },
  {
+  "images": [],
   "number": "563",
   "word": "metro",
   "part": "nm",
@@ -4079,6 +4591,7 @@
   "example": "produce kilogramos de vegetales por metro cuadrado"
  },
  {
+  "images": [],
   "number": "564",
   "word": "médico",
   "part": "nm+f",
@@ -4086,6 +4599,7 @@
   "example": "el médico le toma la muestra al paciente"
  },
  {
+  "images": [],
   "number": "565",
   "word": "establecer",
   "part": "v",
@@ -4093,6 +4607,7 @@
   "example": "de ser posible establecer ese tipo de contacto personal"
  },
  {
+  "images": [],
   "number": "566",
   "word": "guardar",
   "part": "v",
@@ -4100,6 +4615,7 @@
   "example": "lo voy a guardar debajo de mi colchón"
  },
  {
+  "images": [],
   "number": "567",
   "word": "arte",
   "part": "nm",
@@ -4107,6 +4623,7 @@
   "example": "la creación de un museo de arte moderno y contemporáneo"
  },
  {
+  "images": [],
   "number": "568",
   "word": "iniciar",
   "part": "v",
@@ -4114,6 +4631,7 @@
   "example": "el curso se inició en enero"
  },
  {
+  "images": [],
   "number": "569",
   "word": "bajar",
   "part": "v",
@@ -4121,6 +4639,7 @@
   "example": "el Dow Jones de Wall Street bajó 52 puntos en un día"
  },
  {
+  "images": [],
   "number": "570",
   "word": "consecuencia",
   "part": "nf",
@@ -4128,6 +4647,7 @@
   "example": "la obstrucción se produce como consecuencia de la aparición de grasas"
  },
  {
+  "images": [],
   "number": "571",
   "word": "notar",
   "part": "v",
@@ -4135,6 +4655,7 @@
   "example": "volví a notar esos extraños ruidos en el callejón"
  },
  {
+  "images": [],
   "number": "572",
   "word": "acto",
   "part": "nm",
@@ -4142,6 +4663,7 @@
   "example": "ser culto es, para mí, un acto voluntario"
  },
  {
+  "images": [],
   "number": "573",
   "word": "meter",
   "part": "v",
@@ -4149,6 +4671,7 @@
   "example": "lo desnudó, lo metió en la cama"
  },
  {
+  "images": [],
   "number": "574",
   "word": "absoluto",
   "part": "adj",
@@ -4156,6 +4679,7 @@
   "example": "mantiene el control absoluto de los oyentes"
  },
  {
+  "images": [],
   "number": "575",
   "word": "pena",
   "part": "nf",
@@ -4163,6 +4687,7 @@
   "example": "ésa es una cosa que sí vale la pena  recordarla"
  },
  {
+  "images": [],
   "number": "576",
   "word": "actuar",
   "part": "v",
@@ -4170,6 +4695,7 @@
   "example": "esa manera de actuar es producto de la desesperación"
  },
  {
+  "images": [],
   "number": "577",
   "word": "segundo",
   "part": "nm",
@@ -4177,6 +4703,7 @@
   "example": "ahí, ahí sí, espérame un segundo"
  },
  {
+  "images": [],
   "number": "578",
   "word": "altura",
   "part": "nf",
@@ -4184,6 +4711,7 @@
   "example": "a siete mil metros de altura hay que usar oxígeno"
  },
  {
+  "images": [],
   "number": "579",
   "word": "deseo",
   "part": "nm",
@@ -4191,6 +4719,7 @@
   "example": "tienen gran entusiasmo y deseo de participar activamente"
  },
  {
+  "images": [],
   "number": "580",
   "word": "precisamente",
   "part": "adv",
@@ -4198,6 +4727,7 @@
   "example": "el problema no era precisamente el cuidado de la rosa"
  },
  {
+  "images": [],
   "number": "581",
   "word": "joven",
   "part": "nc",
@@ -4205,6 +4735,7 @@
   "example": "está dirigido a los jóvenes entre 16 y 20 años"
  },
  {
+  "images": [],
   "number": "582",
   "word": "veinte",
   "part": "num",
@@ -4212,6 +4743,7 @@
   "example": "mide tres metros veinte centímetros"
  },
  {
+  "images": [],
   "number": "583",
   "word": "sueño",
   "part": "nm",
@@ -4219,6 +4751,7 @@
   "example": "tenía sueño de ser estrella de cine"
  },
  {
+  "images": [],
   "number": "584",
   "word": "pretender",
   "part": "v",
@@ -4226,6 +4759,7 @@
   "example": "no sale siempre lo que uno pretende"
  },
  {
+  "images": [],
   "number": "585",
   "word": "tarea",
   "part": "nf",
@@ -4233,6 +4767,7 @@
   "example": "les ayuda a hacer una tarea dentro del  hogar"
  },
  {
+  "images": [],
   "number": "586",
   "word": "carta",
   "part": "nf",
@@ -4240,6 +4775,7 @@
   "example": "comienza a escribir de nuevo y a leer la carta"
  },
  {
+  "images": [],
   "number": "587",
   "word": "apenas",
   "part": "adv",
@@ -4247,6 +4783,7 @@
   "example": "apenas quedaban menos de 75.000  soldados"
  },
  {
+  "images": [],
   "number": "588",
   "word": "propiedad",
   "part": "nf",
@@ -4254,6 +4791,7 @@
   "example": "cedería la propiedad a un grupo de entidades financieras"
  },
  {
+  "images": [],
   "number": "589",
   "word": "producto",
   "part": "nm",
@@ -4261,6 +4799,7 @@
   "example": "el arte es, en parte muy grande, producto de su época"
  },
  {
+  "images": [],
   "number": "590",
   "word": "personal",
   "part": "adj",
@@ -4268,6 +4807,7 @@
   "example": "según mi propia experiencia personal como tal"
  },
  {
+  "images": [],
   "number": "591",
   "word": "simplemente",
   "part": "adv",
@@ -4275,6 +4815,7 @@
   "example": "me visitan simplemente por ser familia"
  },
  {
+  "images": [],
   "number": "592",
   "word": "imposible",
   "part": "adj",
@@ -4282,6 +4823,7 @@
   "example": "estaba muy oscuro y era imposible verla"
  },
  {
+  "images": [],
   "number": "593",
   "word": "gusto",
   "part": "nm",
@@ -4289,6 +4831,7 @@
   "example": "mi personal gusto artístico no es nada conservador"
  },
  {
+  "images": [],
   "number": "594",
   "word": "ayuda",
   "part": "nf",
@@ -4296,6 +4839,7 @@
   "example": "para que las personas afectadas puedan recibir la ayuda que necesitan"
  },
  {
+  "images": [],
   "number": "595",
   "word": "acordar",
   "part": "v",
@@ -4303,6 +4847,7 @@
   "example": "hoy ya nadie se acuerda de los antiguos soldados"
  },
  {
+  "images": [],
   "number": "596",
   "word": "lengua",
   "part": "nf",
@@ -4310,6 +4855,7 @@
   "example": "Góngora es uno de los máximos poetas de la lengua castellana"
  },
  {
+  "images": [],
   "number": "597",
   "word": "cortar",
   "part": "v",
@@ -4317,6 +4863,7 @@
   "example": "salió al jardín y cortó el tallo más largo de su rosal"
  },
  {
+  "images": [],
   "number": "598",
   "word": "plan",
   "part": "nm",
@@ -4324,6 +4871,7 @@
   "example": "nos explicó que tenía preparado un plan infalible"
  },
  {
+  "images": [],
   "number": "599",
   "word": "corresponder",
   "part": "v",
@@ -4331,6 +4879,7 @@
   "example": "introduce un número que corresponde a su tarjeta"
  },
  {
+  "images": [],
   "number": "600",
   "word": "vuelta",
   "part": "nf",
@@ -4338,6 +4887,7 @@
   "example": "¿y el viaje de ida y vuelta en barco?"
  },
  {
+  "images": [],
   "number": "601",
   "word": "romper",
   "part": "v",
@@ -4345,6 +4895,7 @@
   "example": "no quería romper la unidad de la familia"
  },
  {
+  "images": [],
   "number": "602",
   "word": "siquiera",
   "part": "adv",
@@ -4352,6 +4903,7 @@
   "example": "ni siquiera ha preguntado mi nombre"
  },
  {
+  "images": [],
   "number": "603",
   "word": "adquirir",
   "part": "v",
@@ -4359,6 +4911,7 @@
   "example": "por unas cuantas pesetas es posible adquirir un par de tarjetas"
  },
  {
+  "images": [],
   "number": "604",
   "word": "proyecto",
   "part": "nm",
@@ -4366,6 +4919,7 @@
   "example": "esta última fase del proyecto no llegó a ser realizada"
  },
  {
+  "images": [],
   "number": "605",
   "word": "memoria",
   "part": "nf",
@@ -4373,6 +4927,7 @@
   "example": "habla pausadamente, buscando en la memoria la palabra exacta"
  },
  {
+  "images": [],
   "number": "606",
   "word": "origen",
   "part": "nm",
@@ -4380,6 +4935,7 @@
   "example": "las mesas redondas de origen griego surgieron en el período helenístico"
  },
  {
+  "images": [],
   "number": "607",
   "word": "elemento",
   "part": "nm",
@@ -4387,6 +4943,7 @@
   "example": "era un elemento esencial en la estilística culta"
  },
  {
+  "images": [],
   "number": "608",
   "word": "inglés",
   "part": "adj",
@@ -4394,6 +4951,7 @@
   "example": "y no tardó en dominar la lengua inglesa"
  },
  {
+  "images": [],
   "number": "609",
   "word": "mercado",
   "part": "nm",
@@ -4401,6 +4959,7 @@
   "example": "se fue al mercado a comprar verduras"
  },
  {
+  "images": [],
   "number": "610",
   "word": "curso",
   "part": "nm",
@@ -4408,6 +4967,7 @@
   "example": "después hice el curso de literatura contem- poránea"
  },
  {
+  "images": [],
   "number": "611",
   "word": "lanzar",
   "part": "v",
@@ -4415,6 +4975,7 @@
   "example": "giró para lanzar una mirada de reproche"
  },
  {
+  "images": [],
   "number": "612",
   "word": "aprovechar",
   "part": "v",
@@ -4422,6 +4983,7 @@
   "example": "yo quiero aprovechar esta oportunidad"
  },
  {
+  "images": [],
   "number": "613",
   "word": "sangre",
   "part": "nf",
@@ -4429,6 +4991,7 @@
   "example": "la sangre empezaba a fluir de la herida"
  },
  {
+  "images": [],
   "number": "614",
   "word": "interior",
   "part": "nm",
@@ -4436,6 +4999,7 @@
   "example": "comían en el interior y otros al aire libre"
  },
  {
+  "images": [],
   "number": "615",
   "word": "duro",
   "part": "adj",
@@ -4443,6 +5007,7 @@
   "example": "reflejaba la dura realidad de la posguerra italiana"
  },
  {
+  "images": [],
   "number": "616",
   "word": "apoyar",
   "part": "v",
@@ -4450,6 +5015,7 @@
   "example": "los municipios deben apoyar la educación"
  },
  {
+  "images": [],
   "number": "617",
   "word": "negar",
   "part": "v",
@@ -4457,6 +5023,7 @@
   "example": "no puedo negar esta evidencia"
  },
  {
+  "images": [],
   "number": "618",
   "word": "avanzar",
   "part": "v",
@@ -4464,6 +5031,7 @@
   "example": "una procesión que avanza por la avenida"
  },
  {
+  "images": [],
   "number": "619",
   "word": "uso",
   "part": "nm",
@@ -4471,6 +5039,7 @@
   "example": "nunca recuperaré el uso de la mano  derecha"
  },
  {
+  "images": [],
   "number": "620",
   "word": "brazo",
   "part": "nm",
@@ -4478,6 +5047,7 @@
   "example": "nos tomamos de la mano y del brazo mientras caminábamos"
  },
  {
+  "images": [],
   "number": "621",
   "word": "profesor",
   "part": "nm+f",
@@ -4485,6 +5055,7 @@
   "example": "fue profesor de física teórica en la  universidad"
  },
  {
+  "images": [],
   "number": "622",
   "word": "resolver",
   "part": "v",
@@ -4492,6 +5063,7 @@
   "example": "tenemos que resolver el conflicto"
  },
  {
+  "images": [],
   "number": "623",
   "word": "futuro",
   "part": "nm",
@@ -4499,6 +5071,7 @@
   "example": "en la actualidad, y más aún en el futuro"
  },
  {
+  "images": [],
   "number": "624",
   "word": "oportunidad",
   "part": "nf",
@@ -4506,6 +5079,7 @@
   "example": "ahora teníamos la oportunidad de aprovechar nuestra experiencia"
  },
  {
+  "images": [],
   "number": "625",
   "word": "mitad",
   "part": "nf",
@@ -4513,6 +5087,7 @@
   "example": "es un libro sobre la primera mitad del siglo"
  },
  {
+  "images": [],
   "number": "626",
   "word": "costar",
   "part": "v",
@@ -4520,6 +5095,7 @@
   "example": "la pensión les costaba más o menos seis mil pesos"
  },
  {
+  "images": [],
   "number": "627",
   "word": "rico",
   "part": "adj",
@@ -4527,6 +5103,7 @@
   "example": "no quiero ser rica; quiero ser famosa"
  },
  {
+  "images": [],
   "number": "628",
   "word": "recuerdo",
   "part": "nm",
@@ -4534,6 +5111,7 @@
   "example": "es la memoria, el recuerdo de la experiencia vivida"
  },
  {
+  "images": [],
   "number": "629",
   "word": "total",
   "part": "adj",
@@ -4541,6 +5119,7 @@
   "example": "el número total de asistentes sería de treinta personas"
  },
  {
+  "images": [],
   "number": "630",
   "word": "exigir",
   "part": "v",
@@ -4548,6 +5127,7 @@
   "example": "ya no exige sangre como los dioses paganos"
  },
  {
+  "images": [],
   "number": "631",
   "word": "abajo",
   "part": "adv",
@@ -4555,6 +5135,7 @@
   "example": "¿se podría echar abajo la alianza opositora?"
  },
  {
+  "images": [],
   "number": "632",
   "word": "opinión",
   "part": "nf",
@@ -4562,6 +5143,7 @@
   "example": "¿cuál es su opinión sobre el gobierno  español?"
  },
  {
+  "images": [],
   "number": "633",
   "word": "aumentar",
   "part": "v",
@@ -4569,6 +5151,7 @@
   "example": "el primer objetivo es aumentar el número  de visitantes"
  },
  {
+  "images": [],
   "number": "634",
   "word": "recoger",
   "part": "v",
@@ -4576,6 +5159,7 @@
   "example": "se inclinó hacia la derecha para recoger una maleta"
  },
  {
+  "images": [],
   "number": "635",
   "word": "boca",
   "part": "nf",
@@ -4583,6 +5167,7 @@
   "example": "cállese la boca, hijo, que estamos estudiando"
  },
  {
+  "images": [],
   "number": "636",
   "word": "dirección",
   "part": "nf",
@@ -4590,6 +5175,7 @@
   "example": "luego desearíamos navegar en dirección a otras estrellas"
  },
  {
+  "images": [],
   "number": "637",
   "word": "puro",
   "part": "adj",
@@ -4597,6 +5183,7 @@
   "example": "se llenaba los pulmones con el aire puro"
  },
  {
+  "images": [],
   "number": "638",
   "word": "abandonar",
   "part": "v",
@@ -4604,6 +5191,7 @@
   "example": "cuánto nos dolerá abandonar este lugar que tanto amamos"
  },
  {
+  "images": [],
   "number": "639",
   "word": "pieza",
   "part": "nf",
@@ -4611,6 +5199,7 @@
   "example": "el huarache es una pieza de pan cortado por  la mitad"
  },
  {
+  "images": [],
   "number": "640",
   "word": "profesional",
   "part": "adj",
@@ -4618,6 +5207,7 @@
   "example": "creo que era un salvavidas profesional,  pagado"
  },
  {
+  "images": [],
   "number": "641",
   "word": "imponer",
   "part": "v",
@@ -4625,6 +5215,7 @@
   "example": "a menudo trataba de imponer su voluntad"
  },
  {
+  "images": [],
   "number": "642",
   "word": "obligar",
   "part": "v",
@@ -4632,6 +5223,7 @@
   "example": "me obligó a terminar una novela"
  },
  {
+  "images": [],
   "number": "643",
   "word": "físico",
   "part": "adj",
@@ -4639,6 +5231,7 @@
   "example": "su trabajo requería un gran esfuerzo  físico"
  },
  {
+  "images": [],
   "number": "644",
   "word": "actitud",
   "part": "nf",
@@ -4646,6 +5239,7 @@
   "example": "hay que tener siempre una actitud de metódico escepticismo"
  },
  {
+  "images": [],
   "number": "645",
   "word": "mar",
   "part": "nmf",
@@ -4653,6 +5247,7 @@
   "example": "sobre todo en la región costera del mar  Rojo"
  },
  {
+  "images": [],
   "number": "646",
   "word": "francés",
   "part": "adj",
@@ -4660,6 +5255,7 @@
   "example": "era una auténtica madame francesa"
  },
  {
+  "images": [],
   "number": "647",
   "word": "entrada",
   "part": "nf",
@@ -4667,6 +5263,7 @@
   "example": "llegamos nada más que hasta la entrada de  la casa"
  },
  {
+  "images": [],
   "number": "648",
   "word": "contacto",
   "part": "nm",
@@ -4674,6 +5271,7 @@
   "example": "nos mantendremos en contacto por vía telefónica"
  },
  {
+  "images": [],
   "number": "649",
   "word": "corazón",
   "part": "nm",
@@ -4681,6 +5279,7 @@
   "example": "el amor llena tu corazón"
  },
  {
+  "images": [],
   "number": "650",
   "word": "aplicar",
   "part": "v",
@@ -4688,6 +5287,7 @@
   "example": "lo amarró a un árbol y le aplicó una feroz paliza"
  },
  {
+  "images": [],
   "number": "651",
   "word": "capital",
   "part": "nmf",
@@ -4695,6 +5295,7 @@
   "example": "Praga es la capital de la República Checa"
  },
  {
+  "images": [],
   "number": "652",
   "word": "rápido",
   "part": "adj",
@@ -4702,6 +5303,7 @@
   "example": "vamos a buscar una solución lo más rápido posible"
  },
  {
+  "images": [],
   "number": "653",
   "word": "título",
   "part": "nm",
@@ -4709,6 +5311,7 @@
   "example": "esa novela tiene también otro título"
  },
  {
+  "images": [],
   "number": "654",
   "word": "pertenecer",
   "part": "v",
@@ -4716,6 +5319,7 @@
   "example": "un 30 por ciento confiesa pertenecer a otras religiones"
  },
  {
+  "images": [],
   "number": "655",
   "word": "cuarto",
   "part": "nm",
@@ -4723,6 +5327,7 @@
   "example": "dormía en un cuarto donde estaba la cama de ella"
  },
  {
+  "images": [],
   "number": "656",
   "word": "material",
   "part": "nm",
@@ -4730,6 +5335,7 @@
   "example": "la aplicación de los materiales superconduc- tores de alta temperatura"
  },
  {
+  "images": [],
   "number": "657",
   "word": "golpe",
   "part": "nm",
@@ -4737,6 +5343,7 @@
   "example": "se murió por un golpe recibido en el cráneo"
  },
  {
+  "images": [],
   "number": "658",
   "word": "disponer",
   "part": "v",
@@ -4744,6 +5351,7 @@
   "example": "el enemigo dispone de tropas y armas"
  },
  {
+  "images": [],
   "number": "659",
   "word": "comunicación",
   "part": "nf",
@@ -4751,6 +5359,7 @@
   "example": "la falta de comunicación es nuestra principal limitación"
  },
  {
+  "images": [],
   "number": "660",
   "word": "expresar",
   "part": "v",
@@ -4758,6 +5367,7 @@
   "example": "ya expresó su opinión contraria"
  },
  {
+  "images": [],
   "number": "661",
   "word": "simple",
   "part": "adj",
@@ -4765,6 +5375,7 @@
   "example": "al principio papá lo veía como un simple juego"
  },
  {
+  "images": [],
   "number": "662",
   "word": "totalmente",
   "part": "adv",
@@ -4772,6 +5383,7 @@
   "example": "el departamento estaba totalmente desnudo"
  },
  {
+  "images": [],
   "number": "663",
   "word": "provocar",
   "part": "v",
@@ -4779,6 +5391,7 @@
   "example": "la brisa provoca una blanca lluvia de flores"
  },
  {
+  "images": [],
   "number": "664",
   "word": "normal",
   "part": "adj",
@@ -4786,6 +5399,7 @@
   "example": "los altibajos son algo normal de la vida diaria"
  },
  {
+  "images": [],
   "number": "665",
   "word": "defender",
   "part": "v",
@@ -4793,6 +5407,7 @@
   "example": "debemos defender nuestros derechos"
  },
  {
+  "images": [],
   "number": "666",
   "word": "enfermedad",
   "part": "nf",
@@ -4800,6 +5415,7 @@
   "example": "Diría aún que el rock es una enfermedad de los jóvenes"
  },
  {
+  "images": [],
   "number": "667",
   "word": "bien",
   "part": "nm",
@@ -4807,6 +5423,7 @@
   "example": "el número de bienes que pueda poseer en un momento dado"
  },
  {
+  "images": [],
   "number": "668",
   "word": "materia",
   "part": "nf",
@@ -4814,6 +5431,7 @@
   "example": "en materia musical, la tecnología ha sufrido un receso"
  },
  {
+  "images": [],
   "number": "669",
   "word": "quitar",
   "part": "v",
@@ -4821,6 +5439,7 @@
   "example": "sin problemas quita la sábana que cubre la cara de uno"
  },
  {
+  "images": [],
   "number": "670",
   "word": "conservar",
   "part": "v",
@@ -4828,6 +5447,7 @@
   "example": "una señora que conserva recuerdos de su padre"
  },
  {
+  "images": [],
   "number": "671",
   "word": "moderno",
   "part": "adj",
@@ -4835,6 +5455,7 @@
   "example": "he escrito sobre el arte moderno"
  },
  {
+  "images": [],
   "number": "672",
   "word": "sitio",
   "part": "nm",
@@ -4842,6 +5463,7 @@
   "example": "de ocupar el sitio que me correspondía en la casa"
  },
  {
+  "images": [],
   "number": "673",
   "word": "depender",
   "part": "v",
@@ -4849,6 +5471,7 @@
   "example": "no me gusta depender de otra gente"
  },
  {
+  "images": [],
   "number": "674",
   "word": "naturaleza",
   "part": "nf",
@@ -4856,6 +5479,7 @@
   "example": "su naturaleza racional encierra un espíritu poético"
  },
  {
+  "images": [],
   "number": "675",
   "word": "capacidad",
   "part": "nf",
@@ -4863,6 +5487,7 @@
   "example": "tenía una gran capacidad para entender los tiempos nuevos"
  },
  {
+  "images": [],
   "number": "676",
   "word": "actual",
   "part": "adj",
@@ -4870,6 +5495,7 @@
   "example": "¿la gente del actual Gobierno lo sabe?"
  },
  {
+  "images": [],
   "number": "677",
   "word": "marcar",
   "part": "v",
@@ -4877,6 +5503,7 @@
   "example": "vemos así la estrella Polar, que marca el norte mejor que una brújula"
  },
  {
+  "images": [],
   "number": "678",
   "word": "distancia",
   "part": "nf",
@@ -4884,6 +5511,7 @@
   "example": "¿qué puedo decir a miles de kilómetros de distancia?"
  },
  {
+  "images": [],
   "number": "679",
   "word": "pleno",
   "part": "adj",
@@ -4891,6 +5519,7 @@
   "example": "el tiempo es un ladrón experto que roba a pleno día"
  },
  {
+  "images": [],
   "number": "680",
   "word": "cerrado",
   "part": "adj",
@@ -4898,6 +5527,7 @@
   "example": "las cámaras de TV de circuito cerrado"
  },
  {
+  "images": [],
   "number": "681",
   "word": "compartir",
   "part": "v",
@@ -4905,6 +5535,7 @@
   "example": "espero que compartas tu jubilación conmigo"
  },
  {
+  "images": [],
   "number": "682",
   "word": "información",
   "part": "nf",
@@ -4912,6 +5543,7 @@
   "example": "trató de obtener información más precisa"
  },
  {
+  "images": [],
   "number": "683 ",
   "word": "ambiente",
   "part": "nm",
@@ -4919,6 +5551,7 @@
   "example": "un ambiente silencioso le ayudó para concentrarse"
  },
  {
+  "images": [],
   "number": "684",
   "word": "especialmente",
   "part": "adv",
@@ -4926,6 +5559,7 @@
   "example": "no era especialmente devota del amor en cautiverio"
  },
  {
+  "images": [],
   "number": "685",
   "word": "desarrollo",
   "part": "nm",
@@ -4933,6 +5567,7 @@
   "example": "dicen que ya hay planes de desarrollo  urbano"
  },
  {
+  "images": [],
   "number": "686",
   "word": "sol",
   "part": "nm",
@@ -4940,6 +5575,7 @@
   "example": "se levanta antes del sol y no hay luz eléctrica"
  },
  {
+  "images": [],
   "number": "687",
   "word": "muerto",
   "part": "adj",
@@ -4947,6 +5583,7 @@
   "example": "viven sobre materia orgánica muerta o en descomposición"
  },
  {
+  "images": [],
   "number": "688",
   "word": "consistir",
   "part": "v",
@@ -4954,6 +5591,7 @@
   "example": "la carga suele consistir de materias primas"
  },
  {
+  "images": [],
   "number": "689",
   "word": "constituir",
   "part": "v",
@@ -4961,6 +5599,7 @@
   "example": "los miembros que pueden constituir un sector competitivo"
  },
  {
+  "images": [],
   "number": "690",
   "word": "dispuesto",
   "part": "adj",
@@ -4968,6 +5607,7 @@
   "example": "estaba dispuesto a hacer cualquier sacrificio por la Patria"
  },
  {
+  "images": [],
   "number": "691",
   "word": "cubrir",
   "part": "v",
@@ -4975,6 +5615,7 @@
   "example": "se cubre el rostro con un pañuelo"
  },
  {
+  "images": [],
   "number": "692",
   "word": "funcionar",
   "part": "v",
@@ -4982,6 +5623,7 @@
   "example": "un sistema hidráulico que funcionaba mediante estanques de agua"
  },
  {
+  "images": [],
   "number": "693",
   "word": "compañero",
   "part": "nm",
@@ -4989,6 +5631,7 @@
   "example": "fue compañero mío de universidad, muy buen amigo"
  },
  {
+  "images": [],
   "number": "694",
   "word": "salida",
   "part": "nf",
@@ -4996,6 +5639,7 @@
   "example": "quizá por miedo a meterse en un callejón sin salida"
  },
  {
+  "images": [],
   "number": "695",
   "word": "caber",
   "part": "v",
@@ -5003,6 +5647,7 @@
   "example": "no van a caber las cosas en la casa"
  },
  {
+  "images": [],
   "number": "696",
   "word": "conciencia",
   "part": "nf",
@@ -5010,6 +5655,7 @@
   "example": "se dormía en paz con su conciencia y con Dios"
  },
  {
+  "images": [],
   "number": "697",
   "word": "atender",
   "part": "v",
@@ -5017,6 +5663,7 @@
   "example": "los médicos se alternarían para atender a los pacientes"
  },
  {
+  "images": [],
   "number": "698",
   "word": "enfermo",
   "part": "adj",
@@ -5024,6 +5671,7 @@
   "example": "el cayó enfermo de tuberculosis"
  },
  {
+  "images": [],
   "number": "699",
   "word": "insistir",
   "part": "v",
@@ -5031,6 +5679,7 @@
   "example": "el gobierno no debería insistir en este tipo de intervenciones"
  },
  {
+  "images": [],
   "number": "700",
   "word": "costumbre",
   "part": "nf",
@@ -5038,6 +5687,7 @@
   "example": "tampoco faltaban, como era costumbre,  las faltas de respeto"
  },
  {
+  "images": [],
   "number": "701",
   "word": "detrás",
   "part": "adv",
@@ -5045,6 +5695,7 @@
   "example": "pueden estar detrás de ese árbol"
  },
  {
+  "images": [],
   "number": "702",
   "word": "paz",
   "part": "nf",
@@ -5052,6 +5703,7 @@
   "example": "de inmediato que se siente en un ambiente de paz y armonía"
  },
  {
+  "images": [],
   "number": "703",
   "word": "noticia",
   "part": "nf",
@@ -5059,6 +5711,7 @@
   "example": "¿qué noticias tienen de la isla de Mallorca?"
  },
  {
+  "images": [],
   "number": "704",
   "word": "circunstancia",
   "part": "nf",
@@ -5066,6 +5719,7 @@
   "example": "tuvimos que enfrentar una circunstancia económica difícil"
  },
  {
+  "images": [],
   "number": "705",
   "word": "dolor",
   "part": "nm",
@@ -5073,6 +5727,7 @@
   "example": "se levantó quejándose de un dolor de  espalda"
  },
  {
+  "images": [],
   "number": "706",
   "word": "privado",
   "part": "adj",
@@ -5080,6 +5735,7 @@
   "example": "los sectores público y privado han reducido sus obligaciones"
  },
  {
+  "images": [],
   "number": "707",
   "word": "estilo",
   "part": "nm",
@@ -5087,6 +5743,7 @@
   "example": "la casa era de estilo antiguo, con una gran galería al frente"
  },
  {
+  "images": [],
   "number": "708",
   "word": "precio",
   "part": "nm",
@@ -5094,6 +5751,7 @@
   "example": "¡lleven tres al precio de uno!"
  },
  {
+  "images": [],
   "number": "709",
   "word": "popular",
   "part": "adj",
@@ -5101,6 +5759,7 @@
   "example": "¿se trata de música popular o culta?"
  },
  {
+  "images": [],
   "number": "710",
   "word": "sentar",
   "part": "v",
@@ -5108,6 +5767,7 @@
   "example": "los niños pasaban a sentarse en un  escritorio"
  },
  {
+  "images": [],
   "number": "711",
   "word": "planta",
   "part": "nf",
@@ -5115,6 +5775,7 @@
   "example": "ninguna planta capaz de dar frutos puede crecer sobre esta tierra"
  },
  {
+  "images": [],
   "number": "712",
   "word": "personaje",
   "part": "nm",
@@ -5122,6 +5783,7 @@
   "example": "es difícil comprenderlo porque era un personaje muy complicado"
  },
  {
+  "images": [],
   "number": "713",
   "word": "famoso",
   "part": "adj",
@@ -5129,6 +5791,7 @@
   "example": "es un hombre que ya es famoso  precisamente por esas hazañas"
  },
  {
+  "images": [],
   "number": "714",
   "word": "éxito",
   "part": "nm",
@@ -5136,6 +5799,7 @@
   "example": "tiene mucho éxito con sus piezas teatrales"
  },
  {
+  "images": [],
   "number": "715",
   "word": "hija",
   "part": "nf",
@@ -5143,6 +5807,7 @@
   "example": "es hija de padres divorciados"
  },
  {
+  "images": [],
   "number": "716",
   "word": "merecer",
   "part": "v",
@@ -5150,6 +5815,7 @@
   "example": "un interesante artista viajero que merece la pena conocer"
  },
  {
+  "images": [],
   "number": "717",
   "word": "edificio",
   "part": "nm",
@@ -5157,6 +5823,7 @@
   "example": "era un colegio estilo colonial el edificio"
  },
  {
+  "images": [],
   "number": "718",
   "word": "autoridad",
   "part": "nf",
@@ -5164,6 +5831,7 @@
   "example": "la autoridad no se impone, se gana con el respeto"
  },
  {
+  "images": [],
   "number": "719",
   "word": "piedra",
   "part": "nf",
@@ -5171,6 +5839,7 @@
   "example": "se había obtenido obsidiana"
  },
  {
+  "images": [],
   "number": "720",
   "word": "incluir",
   "part": "v",
@@ -5178,6 +5847,7 @@
   "example": "el Partido no incluye ni excluye a nadie"
  },
  {
+  "images": [],
   "number": "721",
   "word": "conjunto",
   "part": "nm",
@@ -5185,6 +5855,7 @@
   "example": "para mí fue el conjunto de cosas el que no me gustó"
  },
  {
+  "images": [],
   "number": "722",
   "word": "treinta",
   "part": "num",
@@ -5192,6 +5863,7 @@
   "example": "van a venir unas treinta personas"
  },
  {
+  "images": [],
   "number": "723",
   "word": "cuánto",
   "part": "adj",
@@ -5199,6 +5871,7 @@
   "example": "¿Cuánto tiempo querías? ¿Una eternidad?"
  },
  {
+  "images": [],
   "number": "724",
   "word": "inmediato",
   "part": "adj",
@@ -5206,6 +5879,7 @@
   "example": "anunció que regresaría de inmediato al aeropuerto"
  },
  {
+  "images": [],
   "number": "725",
   "word": "suerte",
   "part": "nf",
@@ -5213,6 +5887,7 @@
   "example": "yo también estuve en esa guerra, aunque tuve la suerte de sobrevivir"
  },
  {
+  "images": [],
   "number": "726",
   "word": "cruzar",
   "part": "v",
@@ -5220,6 +5895,7 @@
   "example": "dudó un momento sin cruzar la calle"
  },
  {
+  "images": [],
   "number": "727",
   "word": "tender",
   "part": "v",
@@ -5227,6 +5903,7 @@
   "example": "la historia tendía a ser endiabladamente repetitiva"
  },
  {
+  "images": [],
   "number": "728",
   "word": "finalmente",
   "part": "adv",
@@ -5234,6 +5911,7 @@
   "example": "la casa fue finalmente demolida"
  },
  {
+  "images": [],
   "number": "729",
   "word": "junto",
   "part": "adj",
@@ -5241,6 +5919,7 @@
   "example": "desde hace varios años trabaja junto con  el profesor"
  },
  {
+  "images": [],
   "number": "730",
   "word": "anunciar",
   "part": "v",
@@ -5248,6 +5927,7 @@
   "example": "le oí anunciar la llegada de su invitado"
  },
  {
+  "images": [],
   "number": "731",
   "word": "espíritu",
   "part": "nm",
@@ -5255,6 +5935,7 @@
   "example": "son, en cambio, una muestra del mismo espíritu de intolerancia"
  },
  {
+  "images": [],
   "number": "732",
   "word": "miembro",
   "part": "nm",
@@ -5262,6 +5943,7 @@
   "example": "es el miembro más destacado del grupo"
  },
  {
+  "images": [],
   "number": "733",
   "word": "directo",
   "part": "adj",
@@ -5269,6 +5951,7 @@
   "example": "entramos y fui directo al dormitorio"
  },
  {
+  "images": [],
   "number": "734",
   "word": "despertar",
   "part": "v",
@@ -5276,6 +5959,7 @@
   "example": "se volvió a dormir y se despertó de  nuevo"
  },
  {
+  "images": [],
   "number": "735",
   "word": "recurso",
   "part": "nm",
@@ -5283,6 +5967,7 @@
   "example": "tienen todas nuestras técnicas y recursos  a su disposición"
  },
  {
+  "images": [],
   "number": "736",
   "word": "pared",
   "part": "nf",
@@ -5290,6 +5975,7 @@
   "example": "en la pared se ve colgada una pintura"
  },
  {
+  "images": [],
   "number": "737",
   "word": "equipo",
   "part": "nm",
@@ -5297,6 +5983,7 @@
   "example": "volvió a Madrid para formar un equipo de trabajo"
  },
  {
+  "images": [],
   "number": "738",
   "word": "error",
   "part": "nm",
@@ -5304,6 +5991,7 @@
   "example": "en fin, hay la posibilidad de corregir el  error"
  },
  {
+  "images": [],
   "number": "739",
   "word": "preciso",
   "part": "adj",
@@ -5311,6 +5999,7 @@
   "example": "en el preciso instante en que la puerta resonó contra la pared"
  },
  {
+  "images": [],
   "number": "740",
   "word": "diverso",
   "part": "adj",
@@ -5318,6 +6007,7 @@
   "example": "las cortezas de árboles de diversas especies"
  },
  {
+  "images": [],
   "number": "741",
   "word": "dificultad",
   "part": "nf",
@@ -5325,6 +6015,7 @@
   "example": "nos encontramos en dificultades con esta nación"
  },
  {
+  "images": [],
   "number": "742",
   "word": "comentar",
   "part": "v",
@@ -5332,6 +6023,7 @@
   "example": "buscamos el manuscrito para comentar algunos pasajes"
  },
  {
+  "images": [],
   "number": "743",
   "word": "publicar",
   "part": "v",
@@ -5339,6 +6031,7 @@
   "example": "voy a publicar otro libro con el resto"
  },
  {
+  "images": [],
   "number": "744",
   "word": "familiar",
   "part": "adj",
@@ -5346,6 +6039,7 @@
   "example": "por tradición, el negocio familiar pasa a los hijos"
  },
  {
+  "images": [],
   "number": "745",
   "word": "voluntad",
   "part": "nf",
@@ -5353,6 +6047,7 @@
   "example": "donde hay una voluntad hay un camino"
  },
  {
+  "images": [],
   "number": "746",
   "word": "reunión",
   "part": "nf",
@@ -5360,6 +6055,7 @@
   "example": "vamos a tener una reunión con él el próximo lunes"
  },
  {
+  "images": [],
   "number": "747",
   "word": "modelo",
   "part": "nc",
@@ -5367,6 +6063,7 @@
   "example": "¿alguna vez has sido modelo de un pintor?"
  },
  {
+  "images": [],
   "number": "748",
   "word": "cargar",
   "part": "v",
@@ -5374,6 +6071,7 @@
   "example": "cargó en su mochila todo lo necesario y partió"
  },
  {
+  "images": [],
   "number": "749",
   "word": "fecha",
   "part": "nf",
@@ -5381,6 +6079,7 @@
   "example": "lo celebro inmortalizando esta fecha en mi diario"
  },
  {
+  "images": [],
   "number": "750",
   "word": "participar",
   "part": "v",
@@ -5388,6 +6087,7 @@
   "example": "me quería meter en eso, participar y trabajar en todo eso"
  },
  {
+  "images": [],
   "number": "751",
   "word": "impedir",
   "part": "v",
@@ -5395,6 +6095,7 @@
   "example": "nadie puede impedir este suceso"
  },
  {
+  "images": [],
   "number": "752",
   "word": "propósito",
   "part": "nm",
@@ -5402,6 +6103,7 @@
   "example": "estamos totalmente de acuerdo con el propósito de la iniciativa"
  },
  {
+  "images": [],
   "number": "753",
   "word": "salvar",
   "part": "v",
@@ -5409,6 +6111,7 @@
   "example": "la amaba porque le había salvado la vida"
  },
  {
+  "images": [],
   "number": "754",
   "word": "cuidado",
   "part": "nm",
@@ -5416,6 +6119,7 @@
   "example": "mira, tú tienes que tener cuidado con tu forma de expresarte"
  },
  {
+  "images": [],
   "number": "755",
   "word": "puesto",
   "part": "nm",
@@ -5423,6 +6127,7 @@
   "example": "me ofrecieron un puesto como redactora para la América Latina"
  },
  {
+  "images": [],
   "number": "756",
   "word": "grado",
   "part": "nm",
@@ -5430,6 +6135,7 @@
   "example": "las discusiones llegaban a un grado de violencia"
  },
  {
+  "images": [],
   "number": "757",
   "word": "escapar",
   "part": "v",
@@ -5437,6 +6143,7 @@
   "example": "sentí deseos de salir corriendo, escapar de aquella casa"
  },
  {
+  "images": [],
   "number": "758",
   "word": "lucha",
   "part": "nf",
@@ -5444,6 +6151,7 @@
   "example": "la lucha contra el desempleo es la principal prioridad"
  },
  {
+  "images": [],
   "number": "759",
   "word": "tirar",
   "part": "v",
@@ -5451,6 +6159,7 @@
   "example": "el público se puso furioso y nos tiró tomates"
  },
  {
+  "images": [],
   "number": "760",
   "word": "entero",
   "part": "adj",
@@ -5458,6 +6167,7 @@
   "example": "son conocidos en el mundo entero"
  },
  {
+  "images": [],
   "number": "761",
   "word": "jefe",
   "part": "nm+f",
@@ -5465,6 +6175,7 @@
   "example": "es el jefe de una nueva tribu de guerreros"
  },
  {
+  "images": [],
   "number": "762",
   "word": "interesante",
   "part": "adj",
@@ -5472,6 +6183,7 @@
   "example": "te quieren contar cosas interesantes que te diviertan"
  },
  {
+  "images": [],
   "number": "763",
   "word": "amplio",
   "part": "adj",
@@ -5479,6 +6191,7 @@
   "example": "se encontraba en el amplio y fresco corredor de una vivienda"
  },
  {
+  "images": [],
   "number": "764",
   "word": "contestar",
   "part": "v",
@@ -5486,6 +6199,7 @@
   "example": "no puede contestar esta pregunta"
  },
  {
+  "images": [],
   "number": "765",
   "word": "periódico",
   "part": "nm",
@@ -5493,6 +6207,7 @@
   "example": "su padre bajó el periódico que leía"
  },
  {
+  "images": [],
   "number": "766",
   "word": "preocupar",
   "part": "v",
@@ -5500,6 +6215,7 @@
   "example": "cada día le preocupa más la suerte del muchacho"
  },
  {
+  "images": [],
   "number": "767",
   "word": "prestar",
   "part": "v",
@@ -5507,6 +6223,7 @@
   "example": "creo que te podré prestar unos mil soles"
  },
  {
+  "images": [],
   "number": "768",
   "word": "par",
   "part": "nmf",
@@ -5514,6 +6231,7 @@
   "example": "acaba de comprar un par de zapatos"
  },
  {
+  "images": [],
   "number": "769",
   "word": "público",
   "part": "nm",
@@ -5521,6 +6239,7 @@
   "example": "lo que me motiva es el contacto con el público"
  },
  {
+  "images": [],
   "number": "770",
   "word": "pesar",
   "part": "v",
@@ -5528,6 +6247,7 @@
   "example": "el diamante pesaba sin cortar 60,25 quilates"
  },
  {
+  "images": [],
   "number": "771",
   "word": "final",
   "part": "adj",
@@ -5535,6 +6255,7 @@
   "example": "lo que cuenta es el resultado final"
  },
  {
+  "images": [],
   "number": "772",
   "word": "calidad",
   "part": "nf",
@@ -5542,6 +6263,7 @@
   "example": "para mejorar la calidad de vida de los mexicanos"
  },
  {
+  "images": [],
   "number": "773",
   "word": "exponer",
   "part": "v",
@@ -5549,6 +6271,7 @@
   "example": "el marido trató de exponer su verdadera situación económica"
  },
  {
+  "images": [],
   "number": "774",
   "word": "civil",
   "part": "adj",
@@ -5556,6 +6279,7 @@
   "example": "hay que respetar el código civil"
  },
  {
+  "images": [],
   "number": "775",
   "word": "ciencia",
   "part": "nf",
@@ -5563,6 +6287,7 @@
   "example": "han sostenido que incluso la ciencia no es tan racional como se supone"
  },
  {
+  "images": [],
   "number": "776",
   "word": "tamaño",
   "part": "nm",
@@ -5570,6 +6295,7 @@
   "example": "volvió con un paquetón de papas fritas de tamaño gigante"
  },
  {
+  "images": [],
   "number": "777",
   "word": "mas",
   "part": "conj",
@@ -5577,6 +6303,7 @@
   "example": "es posible mas lo dudo"
  },
  {
+  "images": [],
   "number": "778",
   "word": "doctor",
   "part": "nm+f",
@@ -5584,6 +6311,7 @@
   "example": "su salud decayó y el doctor le recomendó una vida más tranquila"
  },
  {
+  "images": [],
   "number": "779",
   "word": "cuadro",
   "part": "nm",
@@ -5591,6 +6319,7 @@
   "example": "observó el cuadro colgado en la pared de enfrente"
  },
  {
+  "images": [],
   "number": "780",
   "word": "caballo",
   "part": "nm",
@@ -5598,6 +6327,7 @@
   "example": "montaban a caballo y jugaban polo"
  },
  {
+  "images": [],
   "number": "781",
   "word": "responsabilidad",
   "part": "nf",
@@ -5605,6 +6335,7 @@
   "example": "con la libertad viene la responsabilidad"
  },
  {
+  "images": [],
   "number": "782",
   "word": "cincuenta",
   "part": "num",
@@ -5612,6 +6343,7 @@
   "example": "entre los cuarenta y los cincuenta años"
  },
  {
+  "images": [],
   "number": "783",
   "word": "interno",
   "part": "adj",
@@ -5619,6 +6351,7 @@
   "example": "la estructura sufría «un colapso interno»"
  },
  {
+  "images": [],
   "number": "784",
   "word": "detalle",
   "part": "nm",
@@ -5626,6 +6359,7 @@
   "example": "conoce en detalle los horrores de la dictadura"
  },
  {
+  "images": [],
   "number": "785",
   "word": "marcha",
   "part": "nf",
@@ -5633,6 +6367,7 @@
   "example": "se pone en marcha un mecanismo enloque- cido"
  },
  {
+  "images": [],
   "number": "786",
   "word": "nueve",
   "part": "num",
@@ -5640,6 +6375,7 @@
   "example": "las nueve vidas del gato"
  },
  {
+  "images": [],
   "number": "787",
   "word": "carne",
   "part": "nf",
@@ -5647,6 +6383,7 @@
   "example": "me gusta la carne de conejo"
  },
  {
+  "images": [],
   "number": "788",
   "word": "jamás",
   "part": "adv",
@@ -5654,6 +6391,7 @@
   "example": "¡Jamás he visto cosa más grandiosa y sensacional!"
  },
  {
+  "images": [],
   "number": "789",
   "word": "pensamiento",
   "part": "nm",
@@ -5661,6 +6399,7 @@
   "example": "un pensamiento extraño nació en mi mente"
  },
  {
+  "images": [],
   "number": "790",
   "word": "viajar",
   "part": "v",
@@ -5668,6 +6407,7 @@
   "example": "le gustaba viajar en tren"
  },
  {
+  "images": [],
   "number": "791",
   "word": "cargo",
   "part": "nm",
@@ -5675,6 +6415,7 @@
   "example": "¿desde cuando ocupa usted el cargo de Director Musical?"
  },
  {
+  "images": [],
   "number": "792",
   "word": "separar",
   "part": "v",
@@ -5682,6 +6423,7 @@
   "example": "sonrió sin separar los labios"
  },
  {
+  "images": [],
   "number": "793",
   "word": "santa",
   "part": "nf",
@@ -5689,6 +6431,7 @@
   "example": "el 30 de agosto es también la fiesta de Santa Rosa de Lima"
  },
  {
+  "images": [],
   "number": "794",
   "word": "construcción",
   "part": "nf",
@@ -5696,6 +6439,7 @@
   "example": "suelen instalarse durante la construcción del edificio"
  },
  {
+  "images": [],
   "number": "795",
   "word": "juicio",
   "part": "nm",
@@ -5703,6 +6447,7 @@
   "example": "no sabemos cuál será el juicio de la crítica sobre tus escritos"
  },
  {
+  "images": [],
   "number": "796",
   "word": "terreno",
   "part": "nm",
@@ -5710,6 +6455,7 @@
   "example": "éste es un terreno muy árido"
  },
  {
+  "images": [],
   "number": "797",
   "word": "piso",
   "part": "nm",
@@ -5717,6 +6463,7 @@
   "example": "había una escalera hasta el tercer piso"
  },
  {
+  "images": [],
   "number": "798",
   "word": "compañía",
   "part": "nf",
@@ -5724,6 +6471,7 @@
   "example": "la compañía de teléfonos fue un monopolio de Estado"
  },
  {
+  "images": [],
   "number": "799",
   "word": "regresar",
   "part": "v",
@@ -5731,6 +6479,7 @@
   "example": "luego de catorce días regresó a su casa"
  },
  {
+  "images": [],
   "number": "800",
   "word": "texto",
   "part": "nm",
@@ -5738,6 +6487,7 @@
   "example": "es un libro de texto en ciencias"
  },
  {
+  "images": [],
   "number": "801",
   "word": "fuente",
   "part": "nf",
@@ -5745,6 +6495,7 @@
   "example": "la fuente de su inspiración hay que buscarla en Eurípides"
  },
  {
+  "images": [],
   "number": "802",
   "word": "presente",
   "part": "nm",
@@ -5752,6 +6503,7 @@
   "example": "no viven en el futuro ni en el pasado, ¡viven en el presente!"
  },
  {
+  "images": [],
   "number": "803",
   "word": "definitivo",
   "part": "adj",
@@ -5759,6 +6511,7 @@
   "example": "ese adiós fue definitivo porque nunca volví a hablar con ella"
  },
  {
+  "images": [],
   "number": "804",
   "word": "revista",
   "part": "nf",
@@ -5766,6 +6519,7 @@
   "example": "publica una revista en la que colabora regularmente"
  },
  {
+  "images": [],
   "number": "805",
   "word": "esperanza",
   "part": "nf",
@@ -5773,6 +6527,7 @@
   "example": "yo creo que hay que tener fe, esperanza y caridad"
  },
  {
+  "images": [],
   "number": "806",
   "word": "máquina",
   "part": "nf",
@@ -5780,6 +6535,7 @@
   "example": "una máquina que convierte la energía mecánica en eléctrica"
  },
  {
+  "images": [],
   "number": "807",
   "word": "contemplar",
   "part": "v",
@@ -5787,6 +6543,7 @@
   "example": "R. la contempló en silencio, compadecido"
  },
  {
+  "images": [],
   "number": "808",
   "word": "recorrer",
   "part": "v",
@@ -5794,6 +6551,7 @@
   "example": "su trabajo le permitió viajar y recorrer el mundo"
  },
  {
+  "images": [],
   "number": "809",
   "word": "frase",
   "part": "nf",
@@ -5801,6 +6559,7 @@
   "example": "bastaría una sola palabra o una frase para decirlo"
  },
  {
+  "images": [],
   "number": "810",
   "word": "perfecto",
   "part": "adj",
@@ -5808,6 +6567,7 @@
   "example": "queríamos encontrar el sitio perfecto"
  },
  {
+  "images": [],
   "number": "811",
   "word": "sala",
   "part": "nf",
@@ -5815,6 +6575,7 @@
   "example": "me conduce hasta la puerta de la sala que da acceso a la galería"
  },
  {
+  "images": [],
   "number": "812",
   "word": "durar",
   "part": "v",
@@ -5822,6 +6583,7 @@
   "example": "esta suerte no te va a durar toda la vida"
  },
  {
+  "images": [],
   "number": "813",
   "word": "instrumento",
   "part": "nm",
@@ -5829,6 +6591,7 @@
   "example": "el músico probó su instrumento disparando algunas notas"
  },
  {
+  "images": [],
   "number": "814",
   "word": "aquello",
   "part": "pron",
@@ -5836,6 +6599,7 @@
   "example": "aquello era un palacio"
  },
  {
+  "images": [],
   "number": "815",
   "word": "defensa",
   "part": "nf",
@@ -5843,6 +6607,7 @@
   "example": "para luchar hasta la muerte en defensa de la patria amenazada"
  },
  {
+  "images": [],
   "number": "816",
   "word": "director",
   "part": "nm+f",
@@ -5850,6 +6615,7 @@
   "example": "ejerce este control el director de cada departamento"
  },
  {
+  "images": [],
   "number": "817",
   "word": "retirar",
   "part": "v",
@@ -5857,6 +6623,7 @@
   "example": "retiró su nombre de la contienda por la presidencia"
  },
  {
+  "images": [],
   "number": "818",
   "word": "explicación",
   "part": "nf",
@@ -5864,6 +6631,7 @@
   "example": "el mito es una explicación imaginativa del mundo y del hombre"
  },
  {
+  "images": [],
   "number": "819",
   "word": "artículo",
   "part": "nm",
@@ -5871,6 +6639,7 @@
   "example": "no podía concentrarse en el artículo que estaba escribiendo"
  },
  {
+  "images": [],
   "number": "820",
   "word": "debajo",
   "part": "adv",
@@ -5878,6 +6647,7 @@
   "example": "buscan algo debajo de una mesa"
  },
  {
+  "images": [],
   "number": "821",
   "word": "permanecer",
   "part": "v",
@@ -5885,6 +6655,7 @@
   "example": "estoy condenado a permanecer aquí"
  },
  {
+  "images": [],
   "number": "822",
   "word": "asistir",
   "part": "v",
@@ -5892,6 +6663,7 @@
   "example": "llegó marzo y los chicos no pudieron asistir a clases"
  },
  {
+  "images": [],
   "number": "823",
   "word": "doce",
   "part": "num",
@@ -5899,6 +6671,7 @@
   "example": "la iglesia de los Doce Apóstoles"
  },
  {
+  "images": [],
   "number": "824",
   "word": "radio",
   "part": "nmf",
@@ -5906,6 +6679,7 @@
   "example": "fue transmitido en cadena nacional por la radio y la televisión"
  },
  {
+  "images": [],
   "number": "825",
   "word": "organizar",
   "part": "v",
@@ -5913,6 +6687,7 @@
   "example": "quisiera organizar un grupo de teatro"
  },
  {
+  "images": [],
   "number": "826",
   "word": "película",
   "part": "nf",
@@ -5920,6 +6695,7 @@
   "example": "en la misma zona donde se había rodado la película «West Side Story»"
  },
  {
+  "images": [],
   "number": "827",
   "word": "elección",
   "part": "nf",
@@ -5927,6 +6703,7 @@
   "example": "este año tendremos elección de 10  gobernadores"
  },
  {
+  "images": [],
   "number": "828",
   "word": "visita",
   "part": "nf",
@@ -5934,6 +6711,7 @@
   "example": "tras una visita a la ciudad de San Francisco"
  },
  {
+  "images": [],
   "number": "829",
   "word": "contener",
   "part": "v",
@@ -5941,6 +6719,7 @@
   "example": "una dieta que no contiene las cosas que te llevan a la obesidad"
  },
  {
+  "images": [],
   "number": "830",
   "word": "apoyo",
   "part": "nm",
@@ -5948,6 +6727,7 @@
   "example": "cuando necesité ayuda, ella volvió para  darme su apoyo"
  },
  {
+  "images": [],
   "number": "831",
   "word": "presidente",
   "part": "nm",
@@ -5955,6 +6735,7 @@
   "example": "el Presidente es la máxima autoridad del  país"
  },
  {
+  "images": [],
   "number": "832",
   "word": "arma",
   "part": "nf",
@@ -5962,6 +6743,7 @@
   "example": "después de decir esto, sacó un arma y  disparó"
  },
  {
+  "images": [],
   "number": "833",
   "word": "árbol",
   "part": "nm",
@@ -5969,6 +6751,7 @@
   "example": "las ramas del árbol, que dan sombra"
  },
  {
+  "images": [],
   "number": "834",
   "word": "visitar",
   "part": "v",
@@ -5976,6 +6759,7 @@
   "example": "me gustaría visitar Los Ángeles"
  },
  {
+  "images": [],
   "number": "835",
   "word": "informar",
   "part": "v",
@@ -5983,6 +6767,7 @@
   "example": "pero alguien le informó que ya se había  ido"
  },
  {
+  "images": [],
   "number": "836",
   "word": "encuentro",
   "part": "nm",
@@ -5990,6 +6775,7 @@
   "example": "acepté el encuentro en el café habitual"
  },
  {
+  "images": [],
   "number": "837",
   "word": "parecido",
   "part": "adj",
@@ -5997,6 +6783,7 @@
   "example": "el resultado daba algo parecido a la locura"
  },
  {
+  "images": [],
   "number": "838",
   "word": "corriente",
   "part": "nf",
@@ -6004,6 +6791,7 @@
   "example": "la corriente eléctrica fluye por uno de los electrodos"
  },
  {
+  "images": [],
   "number": "839",
   "word": "lectura",
   "part": "nf",
@@ -6011,6 +6799,7 @@
   "example": "orientaba mi afición por las letras con la lectura de los clásicos"
  },
  {
+  "images": [],
   "number": "840",
   "word": "existencia",
   "part": "nf",
@@ -6018,6 +6807,7 @@
   "example": "él ignoraba la existencia de los otros"
  },
  {
+  "images": [],
   "number": "841",
   "word": "lenguaje",
   "part": "nm",
@@ -6025,6 +6815,7 @@
   "example": "dueño de un lenguaje basado en el habla popular"
  },
  {
+  "images": [],
   "number": "842",
   "word": "enviar",
   "part": "v",
@@ -6032,6 +6823,7 @@
   "example": "para enviarle dinero a Pancho"
  },
  {
+  "images": [],
   "number": "843",
   "word": "aun",
   "part": "adv",
@@ -6039,6 +6831,7 @@
   "example": "era popular, aun sin publicar sus principales obras"
  },
  {
+  "images": [],
   "number": "844",
   "word": "destino",
   "part": "nm",
@@ -6046,6 +6839,7 @@
   "example": "para abordar su vuelo con destino a Estados Unidos"
  },
  {
+  "images": [],
   "number": "845",
   "word": "educación",
   "part": "nf",
@@ -6053,6 +6847,7 @@
   "example": "y nada contribuye más a ellas que la educación y la cultura"
  },
  {
+  "images": [],
   "number": "846",
   "word": "cuidar",
   "part": "v",
@@ -6060,6 +6855,7 @@
   "example": "debía cuidar la virginidad de la hija"
  },
  {
+  "images": [],
   "number": "847",
   "word": "intervenir",
   "part": "v",
@@ -6067,6 +6863,7 @@
   "example": "en espera del momento apropiado para intervenir"
  },
  {
+  "images": [],
   "number": "848",
   "word": "operación",
   "part": "nf",
@@ -6074,6 +6871,7 @@
   "example": "con el objetivo de elaborar una operación de rescate"
  },
  {
+  "images": [],
   "number": "849",
   "word": "raro",
   "part": "adj",
@@ -6081,6 +6879,7 @@
   "example": "no sé; me suena raro lo que dicen ustedes"
  },
  {
+  "images": [],
   "number": "850",
   "word": "perfectamente",
   "part": "adv",
@@ -6088,6 +6887,7 @@
   "example": "con un aspecto perfectamente sereno"
  },
  {
+  "images": [],
   "number": "851",
   "word": "extender",
   "part": "v",
@@ -6095,6 +6895,7 @@
   "example": "ella extiende sobre la mesita un mapa astral"
  },
  {
+  "images": [],
   "number": "852",
   "word": "comprobar",
   "part": "v",
@@ -6102,6 +6903,7 @@
   "example": "tuvo oportunidad de comprobar la cruda realidad"
  },
  {
+  "images": [],
   "number": "853",
   "word": "nota",
   "part": "nf",
@@ -6109,6 +6911,7 @@
   "example": "la «españolada» tiene siempre una nota de carácter despectivo"
  },
  {
+  "images": [],
   "number": "854",
   "word": "particular",
   "part": "adj",
@@ -6116,6 +6919,7 @@
   "example": "una forma particular de vestirse y de  caminar"
  },
  {
+  "images": [],
   "number": "855",
   "word": "ése",
   "part": "pron",
@@ -6123,6 +6927,7 @@
   "example": "ése es el único que no está aquí"
  },
  {
+  "images": [],
   "number": "856",
   "word": "militar",
   "part": "adj",
@@ -6130,6 +6935,7 @@
   "example": "las autoridades civiles y militares harán respetar esta decisión"
  },
  {
+  "images": [],
   "number": "857",
   "word": "dormir",
   "part": "v",
@@ -6137,6 +6943,7 @@
   "example": "esta cama es para dormir la siesta en verano"
  },
  {
+  "images": [],
   "number": "858",
   "word": "unido",
   "part": "adj",
@@ -6144,6 +6951,7 @@
   "example": "tenemos un candidato fuerte, tenemos un Partido unido"
  },
  {
+  "images": [],
   "number": "859",
   "word": "discutir",
   "part": "v",
@@ -6151,6 +6959,7 @@
   "example": "parecía discutir con un interlocutor invisible"
  },
  {
+  "images": [],
   "number": "860",
   "word": "extraordinario",
   "part": "adj",
@@ -6158,6 +6967,7 @@
   "example": "yo creo que tiene un talento extraordinario como director"
  },
  {
+  "images": [],
   "number": "861",
   "word": "teatro",
   "part": "nm",
@@ -6165,6 +6975,7 @@
   "example": "amalgamaban las bellas artes, la literatura, el teatro y la música"
  },
  {
+  "images": [],
   "number": "862",
   "word": "enfrentar",
   "part": "v",
@@ -6172,6 +6983,7 @@
   "example": "prefieren huir a enfrentarse con los soldados"
  },
  {
+  "images": [],
   "number": "863",
   "word": "recién",
   "part": "adv",
@@ -6179,6 +6991,7 @@
   "example": "amigos que recién habían tenido un hijo"
  },
  {
+  "images": [],
   "number": "864",
   "word": "negocio",
   "part": "nm",
@@ -6186,6 +6999,7 @@
   "example": "a base de negocios ilícitos acumuló una fortuna importante"
  },
  {
+  "images": [],
   "number": "865",
   "word": "letra",
   "part": "nf",
@@ -6193,6 +7007,7 @@
   "example": "la letra es un jeroglífico"
  },
  {
+  "images": [],
   "number": "866",
   "word": "peor",
   "part": "adv",
@@ -6200,6 +7015,7 @@
   "example": "cada día que pasa veo peor y escribo menos"
  },
  {
+  "images": [],
   "number": "867",
   "word": "sentimiento",
   "part": "nm",
@@ -6207,6 +7023,7 @@
   "example": "se molesta, hay en ella un sentimiento de frustración"
  },
  {
+  "images": [],
   "number": "868",
   "word": "conducir",
   "part": "v",
@@ -6214,6 +7031,7 @@
   "example": "el mismo camino que nos condujo a ese  lugar"
  },
  {
+  "images": [],
   "number": "869",
   "word": "completamente",
   "part": "adv",
@@ -6221,6 +7039,7 @@
   "example": "me olvidé completamente de mí misma"
  },
  {
+  "images": [],
   "number": "870",
   "word": "firmar",
   "part": "v",
@@ -6228,6 +7047,7 @@
   "example": "acabamos de firmar una carta de protesta"
  },
  {
+  "images": [],
   "number": "871",
   "word": "solución",
   "part": "nf",
@@ -6235,6 +7055,7 @@
   "example": "no encontraría la solución a mis problemas"
  },
  {
+  "images": [],
   "number": "872",
   "word": "mío",
   "part": "pron",
@@ -6242,6 +7063,7 @@
   "example": "mozo, otro café igual al mío"
  },
  {
+  "images": [],
   "number": "873",
   "word": "comida",
   "part": "nf",
@@ -6249,6 +7071,7 @@
   "example": "en los restaurantes no se servía comida antes de las ocho"
  },
  {
+  "images": [],
   "number": "874",
   "word": "impresión",
   "part": "nf",
@@ -6256,6 +7079,7 @@
   "example": "me da la impresión de que no quiere enterarse"
  },
  {
+  "images": [],
   "number": "875",
   "word": "plano",
   "part": "nm",
@@ -6263,6 +7087,7 @@
   "example": "A., en el plano sentimental, se mueve muy seguro de dos cosas"
  },
  {
+  "images": [],
   "number": "876",
   "word": "intención",
   "part": "nf",
@@ -6270,6 +7095,7 @@
   "example": "comunicó a los dueños su intención de comprarles el piso"
  },
  {
+  "images": [],
   "number": "877",
   "word": "ritmo",
   "part": "nm",
@@ -6277,6 +7103,7 @@
   "example": "es un ritmo de vida y un sistema de vida muy distinto"
  },
  {
+  "images": [],
   "number": "878",
   "word": "verde",
   "part": "adj",
@@ -6284,6 +7111,7 @@
   "example": "los vegetales de hoja verde, como las espinacas y la col"
  },
  {
+  "images": [],
   "number": "879",
   "word": "exacto",
   "part": "adj",
@@ -6291,6 +7119,7 @@
   "example": "en ese momento, en ese exacto momento,  no antes ni después"
  },
  {
+  "images": [],
   "number": "880",
   "word": "respetar",
   "part": "v",
@@ -6298,6 +7127,7 @@
   "example": "hay que respetar a las personas mayores"
  },
  {
+  "images": [],
   "number": "881",
   "word": "banco",
   "part": "nm",
@@ -6305,6 +7135,7 @@
   "example": "el Banco de México garantiza una parte del crédito"
  },
  {
+  "images": [],
   "number": "882",
   "word": "inmediatamente",
   "part": "adv",
@@ -6312,6 +7143,7 @@
   "example": "pensé inmediatamente en ti"
  },
  {
+  "images": [],
   "number": "883",
   "word": "sostener",
   "part": "v",
@@ -6319,6 +7151,7 @@
   "example": "subimos a la plataforma que sostenía la cama"
  },
  {
+  "images": [],
   "number": "884",
   "word": "piel",
   "part": "nf",
@@ -6326,6 +7159,7 @@
   "example": "tenía la piel muy sucia; me desnudé y lo llevé al baño"
  },
  {
+  "images": [],
   "number": "885",
   "word": "delante",
   "part": "adv",
@@ -6333,6 +7167,7 @@
   "example": "el caballo marchaba delante y a la derecha"
  },
  {
+  "images": [],
   "number": "886",
   "word": "religioso",
   "part": "adj",
@@ -6340,6 +7175,7 @@
   "example": "un sentimiento religioso que expresa admiración"
  },
  {
+  "images": [],
   "number": "887",
   "word": "advertir",
   "part": "v",
@@ -6347,6 +7183,7 @@
   "example": "una compañera le advirtió que aquello era una falsificación"
  },
  {
+  "images": [],
   "number": "888",
   "word": "oscuro",
   "part": "adj",
@@ -6354,6 +7191,7 @@
   "example": "estás en el punto más oscuro del bosque"
  },
  {
+  "images": [],
   "number": "889",
   "word": "control",
   "part": "nm",
@@ -6361,6 +7199,7 @@
   "example": "y esto, sin ese control, se ha vuelto salvaje"
  },
  {
+  "images": [],
   "number": "890",
   "word": "investigación",
   "part": "nf",
@@ -6368,6 +7207,7 @@
   "example": "están dedicados a la investigación financiera  y de propiedades"
  },
  {
+  "images": [],
   "number": "891",
   "word": "transformar",
   "part": "v",
@@ -6375,6 +7215,7 @@
   "example": "la política básica fue transformar China en una sociedad socialista"
  },
  {
+  "images": [],
   "number": "892",
   "word": "conversación",
   "part": "nf",
@@ -6382,6 +7223,7 @@
   "example": "quería continuar la conversación sobre la pintura y el arte"
  },
  {
+  "images": [],
   "number": "893",
   "word": "verano",
   "part": "nm",
@@ -6389,6 +7231,7 @@
   "example": "esperan el calor del verano que cada día parecía más lejano"
  },
  {
+  "images": [],
   "number": "894",
   "word": "respeto",
   "part": "nm",
@@ -6396,6 +7239,7 @@
   "example": "hasta ese momento sentía un respeto muy grande hacia él"
  },
  {
+  "images": [],
   "number": "895",
   "word": "norte",
   "part": "nm",
@@ -6403,6 +7247,7 @@
   "example": "creo que en el norte y el centro del país se ha logrado eso"
  },
  {
+  "images": [],
   "number": "896",
   "word": "mediante",
   "part": "prep",
@@ -6410,6 +7255,7 @@
   "example": "se salvó mediante el remedio ése"
  },
  {
+  "images": [],
   "number": "897",
   "word": "cuarto",
   "part": "adj",
@@ -6417,6 +7263,7 @@
   "example": "un veinticinco por ciento, la cuarta parte, está cubierta de bosques"
  },
  {
+  "images": [],
   "number": "898",
   "word": "tradición",
   "part": "nf",
@@ -6424,6 +7271,7 @@
   "example": "deberías ser fiel a la tradición religiosa"
  },
  {
+  "images": [],
   "number": "899",
   "word": "bastar",
   "part": "v",
@@ -6431,6 +7279,7 @@
   "example": "una sola lección le bastó para conocerlo  todo"
  },
  {
+  "images": [],
   "number": "900",
   "word": "población",
   "part": "nf",
@@ -6438,6 +7287,7 @@
   "example": "hay una población de 75 mil personas"
  },
  {
+  "images": [],
   "number": "901",
   "word": "pareja",
   "part": "nf",
@@ -6445,6 +7295,7 @@
   "example": "una pareja de enamorados se besa"
  },
  {
+  "images": [],
   "number": "902",
   "word": "pasado",
   "part": "nm",
@@ -6452,6 +7303,7 @@
   "example": "Ud. sólo piensa en el pasado. // Si, pero es tan lindo recordar"
  },
  {
+  "images": [],
   "number": "903",
   "word": "diario",
   "part": "nm",
@@ -6459,6 +7311,7 @@
   "example": "las noticias que lee en el diario acerca de lo que pasa en Inglaterra"
  },
  {
+  "images": [],
   "number": "904",
   "word": "azul",
   "part": "adj",
@@ -6466,6 +7319,7 @@
   "example": "y los colores básicos: azul, amarillo, verde y rojo"
  },
  {
+  "images": [],
   "number": "905",
   "word": "mencionar",
   "part": "v",
@@ -6473,6 +7327,7 @@
   "example": "se deben mencionar algunos detalles más"
  },
  {
+  "images": [],
   "number": "906",
   "word": "generación",
   "part": "nf",
@@ -6480,6 +7335,7 @@
   "example": "está criando la nueva generación de hijos"
  },
  {
+  "images": [],
   "number": "907",
   "word": "frío",
   "part": "adj",
@@ -6487,6 +7343,7 @@
   "example": "las temperaturas son aún más frías durante  el invierno"
  },
  {
+  "images": [],
   "number": "908",
   "word": "visión",
   "part": "nf",
@@ -6494,6 +7351,7 @@
   "example": "teníamos sobre todo una misma visión de la vida"
  },
  {
+  "images": [],
   "number": "909",
   "word": "concreto",
   "part": "aj",
@@ -6501,6 +7359,7 @@
   "example": "de buscar una solución al problema concreto de las minas"
  },
  {
+  "images": [],
   "number": "910",
   "word": "plantear",
   "part": "v",
@@ -6508,6 +7367,7 @@
   "example": "quisiéramos aquí plantear la cuestión"
  },
  {
+  "images": [],
   "number": "911",
   "word": "probar",
   "part": "v",
@@ -6515,6 +7375,7 @@
   "example": "metió la mano adentro para probar la temperatura"
  },
  {
+  "images": [],
   "number": "912",
   "word": "derecho",
   "part": "adj",
@@ -6522,6 +7383,7 @@
   "example": "¿dónde está? // Derecho por el corredor,  a la derecha"
  },
  {
+  "images": [],
   "number": "913",
   "word": "peligro",
   "part": "nm",
@@ -6529,6 +7391,7 @@
   "example": "ante el peligro de la muerte, Douglas recordó toda su vida"
  },
  {
+  "images": [],
   "number": "914",
   "word": "oro",
   "part": "nm",
@@ -6536,6 +7399,7 @@
   "example": "no faltan los lingotes, barras y monedas de oro y plata"
  },
  {
+  "images": [],
   "number": "915",
   "word": "justo",
   "part": "adv",
@@ -6543,6 +7407,7 @@
   "example": "está colocada en el medio - justo frente a la silla"
  },
  {
+  "images": [],
   "number": "916",
   "word": "manejar",
   "part": "v",
@@ -6550,6 +7415,7 @@
   "example": "quiero manejar un auto"
  },
  {
+  "images": [],
   "number": "917",
   "word": "vino",
   "part": "nm",
@@ -6557,6 +7423,7 @@
   "example": "para acompañar un plato así, tiene que ser vino tinto"
  },
  {
+  "images": [],
   "number": "918",
   "word": "unir",
   "part": "v",
@@ -6564,6 +7431,7 @@
   "example": "lo que Dios ha unido no lo separe el hombre"
  },
  {
+  "images": [],
   "number": "919",
   "word": "caminar",
   "part": "v",
@@ -6571,6 +7439,7 @@
   "example": "sólo debía caminar dos cuadras para llegar a la terminal"
  },
  {
+  "images": [],
   "number": "920",
   "word": "coincidir",
   "part": "v",
@@ -6578,6 +7447,7 @@
   "example": "se entienden, a pesar de no coincidir siempre en sus opiniones"
  },
  {
+  "images": [],
   "number": "921",
   "word": "etapa",
   "part": "nf",
@@ -6585,6 +7455,7 @@
   "example": "entró en la etapa final de su enfermedad"
  },
  {
+  "images": [],
   "number": "922",
   "word": "sencillo",
   "part": "adj",
@@ -6592,6 +7463,7 @@
   "example": "¿es más difícil o más sencillo que antes?"
  },
  {
+  "images": [],
   "number": "923",
   "word": "silencio",
   "part": "nm",
@@ -6599,6 +7471,7 @@
   "example": "Castro guarda silencio en cuanto al número de encarcelados"
  },
  {
+  "images": [],
   "number": "924",
   "word": "salvo",
   "part": "adv",
@@ -6606,6 +7479,7 @@
   "example": "todo ha envejecido salvo esa mirada"
  },
  {
+  "images": [],
   "number": "925",
   "word": "llenar",
   "part": "v",
@@ -6613,6 +7487,7 @@
   "example": "un espacio se puede llenar con muchos elementos bonitos"
  },
  {
+  "images": [],
   "number": "926",
   "word": "dominar",
   "part": "v",
@@ -6620,6 +7495,7 @@
   "example": "dominaba tres lenguas: el griego, el latín, y el osco"
  },
  {
+  "images": [],
   "number": "927",
   "word": "determinado",
   "part": "adj",
@@ -6627,6 +7503,7 @@
   "example": "se levantó con aire determinado para marcharse"
  },
  {
+  "images": [],
   "number": "928",
   "word": "artista",
   "part": "nc",
@@ -6634,6 +7511,7 @@
   "example": "el artista pintó también retablos de madera de gran formato"
  },
  {
+  "images": [],
   "number": "929",
   "word": "medir",
   "part": "v",
@@ -6641,6 +7519,7 @@
   "example": "la Colonia Güell mide precisamente 44 metros de alto"
  },
  {
+  "images": [],
   "number": "930",
   "word": "labor",
   "part": "nf",
@@ -6648,6 +7527,7 @@
   "example": "se habla mucho de su labor en el terreno del psicoanálisis"
  },
  {
+  "images": [],
   "number": "931",
   "word": "perdido",
   "part": "adj",
@@ -6655,6 +7535,7 @@
   "example": "no todo estaba perdido y era posible conseguir un empleo"
  },
  {
+  "images": [],
   "number": "932",
   "word": "cielo",
   "part": "nm",
@@ -6662,6 +7543,7 @@
   "example": "cree ver en el cielo una nube negra"
  },
  {
+  "images": [],
   "number": "933",
   "word": "práctica",
   "part": "nf",
@@ -6669,6 +7551,7 @@
   "example": "necesitas poner en práctica tus ideas"
  },
  {
+  "images": [],
   "number": "934",
   "word": "límite",
   "part": "nm",
@@ -6676,6 +7559,7 @@
   "example": "habían llegado al límite de su paciencia"
  },
  {
+  "images": [],
   "number": "935",
   "word": "masa",
   "part": "nf",
@@ -6683,6 +7567,7 @@
   "example": "para determinar la masa atómica de diversos elementos"
  },
  {
+  "images": [],
   "number": "936",
   "word": "directamente",
   "part": "adv",
@@ -6690,6 +7575,7 @@
   "example": "se metió directamente en la pelea"
  },
  {
+  "images": [],
   "number": "937",
   "word": "atravesar",
   "part": "v",
@@ -6697,6 +7583,7 @@
   "example": "para llegar al monte tenía que atravesar la pista caminando"
  },
  {
+  "images": [],
   "number": "938",
   "word": "formación",
   "part": "nf",
@@ -6704,6 +7591,7 @@
   "example": "¿cuál ha sido su formación académica?"
  },
  {
+  "images": [],
   "number": "939",
   "word": "perro",
   "part": "nm",
@@ -6711,6 +7599,7 @@
   "example": "el gato, el perro y los pollos fueron  domesticados muy pronto"
  },
  {
+  "images": [],
   "number": "940",
   "word": "izquierda",
   "part": "nf",
@@ -6718,6 +7607,7 @@
   "example": "los miró de arriba abajo y de izquierda a derecha"
  },
  {
+  "images": [],
   "number": "941",
   "word": "destacar",
   "part": "v",
@@ -6725,6 +7615,7 @@
   "example": "quisiera destacar los puntos siguientes"
  },
  {
+  "images": [],
   "number": "942",
   "word": "cercano",
   "part": "adj",
@@ -6732,6 +7623,7 @@
   "example": "su lugar de trabajo se encontraba cercano a la residencia"
  },
  {
+  "images": [],
   "number": "943",
   "word": "cuarenta",
   "part": "num",
@@ -6739,6 +7631,7 @@
   "example": "era una mujer de unos cuarenta años"
  },
  {
+  "images": [],
   "number": "944",
   "word": "pronunciar",
   "part": "v",
@@ -6746,6 +7639,7 @@
   "example": "su manera de pronunciar el castellano"
  },
  {
+  "images": [],
   "number": "945",
   "word": "distinguir",
   "part": "v",
@@ -6753,6 +7647,7 @@
   "example": "el desdichado no distingue entre lo cierto y lo ilusorio"
  },
  {
+  "images": [],
   "number": "946",
   "word": "energía",
   "part": "nf",
@@ -6760,6 +7655,7 @@
   "example": "no encontró ni las palabras ni la energía para hacerlo"
  },
  {
+  "images": [],
   "number": "947",
   "word": "confianza",
   "part": "nf",
@@ -6767,6 +7663,7 @@
   "example": "hay una gran confianza entre los alumnos y la profesora"
  },
  {
+  "images": [],
   "number": "948",
   "word": "adecuado",
   "part": "adj",
@@ -6774,6 +7671,7 @@
   "example": "buscó el lugar adecuado donde plantar su nido"
  },
  {
+  "images": [],
   "number": "949",
   "word": "introducir",
   "part": "v",
@@ -6781,6 +7679,7 @@
   "example": "ahorita se pueden introducir las nuevas tecnologías"
  },
  {
+  "images": [],
   "number": "950",
   "word": "flor",
   "part": "nf",
@@ -6788,6 +7687,7 @@
   "example": "el clavel y las rosas, tulipán y ¿cuál era la otra flor?"
  },
  {
+  "images": [],
   "number": "951",
   "word": "esposa",
   "part": "nf",
@@ -6795,6 +7695,7 @@
   "example": "la delicada solicitud de Elena, su esposa y compañera permanente"
  },
  {
+  "images": [],
   "number": "952",
   "word": "comunicar",
   "part": "v",
@@ -6802,6 +7703,7 @@
   "example": "la novela sirve más bien para comunicar  ideas"
  },
  {
+  "images": [],
   "number": "953",
   "word": "italiano",
   "part": "adj",
@@ -6809,6 +7711,7 @@
   "example": "tantas ciudades italianas que son casi como un museo"
  },
  {
+  "images": [],
   "number": "954",
   "word": "invitar",
   "part": "v",
@@ -6816,6 +7719,7 @@
   "example": "le voy a invitar con un café caliente"
  },
  {
+  "images": [],
   "number": "955",
   "word": "responsable",
   "part": "adj",
@@ -6823,6 +7727,7 @@
   "example": "siempre me sentí responsable de nuestra separación"
  },
  {
+  "images": [],
   "number": "956",
   "word": "feliz",
   "part": "adj",
@@ -6830,6 +7735,7 @@
   "example": "con un aplausito cortés, y una sonrisita  feliz"
  },
  {
+  "images": [],
   "number": "957",
   "word": "revolución",
   "part": "nf",
@@ -6837,6 +7743,7 @@
   "example": "los progresos en la ciencia y la revolución de las comunicaciones"
  },
  {
+  "images": [],
   "number": "958",
   "word": "instalar",
   "part": "v",
@@ -6844,6 +7751,7 @@
   "example": "trataba de instalar un columpio para los  niños"
  },
  {
+  "images": [],
   "number": "959",
   "word": "tardar",
   "part": "v",
@@ -6851,6 +7759,7 @@
   "example": "el tren se tardó doce horas en llegar a Roma"
  },
  {
+  "images": [],
   "number": "960",
   "word": "mejorar",
   "part": "v",
@@ -6858,6 +7767,7 @@
   "example": "no va a mejorar, R. suspiró con aire de resignación"
  },
  {
+  "images": [],
   "number": "961",
   "word": "maestro",
   "part": "nm",
@@ -6865,6 +7775,7 @@
   "example": "en términos académicos, soy maestro de Humanismo en la Universidad"
  },
  {
+  "images": [],
   "number": "962",
   "word": "emplear",
   "part": "v",
@@ -6872,6 +7783,7 @@
   "example": "el pintor necesita emplear sus talentos en sus obras"
  },
  {
+  "images": [],
   "number": "963",
   "word": "alemán",
   "part": "adj",
@@ -6879,6 +7791,7 @@
   "example": "la firma de electricidad alemana AEG, en Berlín"
  },
  {
+  "images": [],
   "number": "964",
   "word": "convenir",
   "part": "v",
@@ -6886,6 +7799,7 @@
   "example": "no conviene que me vean en un consultorio de esos"
  },
  {
+  "images": [],
   "number": "965",
   "word": "recuperar",
   "part": "v",
@@ -6893,6 +7807,7 @@
   "example": "pareció recuperar parte de sus menguadas fuerzas"
  },
  {
+  "images": [],
   "number": "966",
   "word": "fenómeno",
   "part": "nm",
@@ -6900,6 +7815,7 @@
   "example": "el muchacho debe de ser un fenómeno para recuperarse tan pronto"
  },
  {
+  "images": [],
   "number": "967",
   "word": "presión",
   "part": "nf",
@@ -6907,6 +7823,7 @@
   "example": "está ejerciendo mucha presión para que no  lo publiquemos"
  },
  {
+  "images": [],
   "number": "968",
   "word": "dado",
   "part": "adj",
@@ -6914,6 +7831,7 @@
   "example": "todos ellos, en un momento dado, fueron rivales"
  },
  {
+  "images": [],
   "number": "969",
   "word": "alumno",
   "part": "nm",
@@ -6921,6 +7839,7 @@
   "example": "yo fui muy buen alumno en la matemática"
  },
  {
+  "images": [],
   "number": "970",
   "word": "teoría",
   "part": "nf",
@@ -6928,6 +7847,7 @@
   "example": "un artículo acerca de la fusión nuclear o la Teoría de la Relatividad"
  },
  {
+  "images": [],
   "number": "971",
   "word": "probablemente",
   "part": "adv",
@@ -6935,6 +7855,7 @@
   "example": "probablemente después de misa se viene a cocinar"
  },
  {
+  "images": [],
   "number": "972",
   "word": "tono",
   "part": "nm",
@@ -6942,6 +7863,7 @@
   "example": "habla de forma pausada y en tono bajo"
  },
  {
+  "images": [],
   "number": "973",
   "word": "salud",
   "part": "nf",
@@ -6949,6 +7871,7 @@
   "example": "ayudan a elevar el nivel de salud a través  de la alimentación"
  },
  {
+  "images": [],
   "number": "974",
   "word": "definir",
   "part": "v",
@@ -6956,6 +7879,7 @@
   "example": "la suma de los actos que define una vida"
  },
  {
+  "images": [],
   "number": "975",
   "word": "superar",
   "part": "v",
@@ -6963,6 +7887,7 @@
   "example": "el sistema inmunológico supera a la  bacteria"
  },
  {
+  "images": [],
   "number": "976",
   "word": "señora",
   "part": "nf",
@@ -6970,6 +7895,7 @@
   "example": "Señora Shoemaker, ¿cuándo descubrió  este cometa?"
  },
  {
+  "images": [],
   "number": "977",
   "word": "exactamente",
   "part": "adv",
@@ -6977,6 +7903,7 @@
   "example": "quedan exactamente dos segundos y seis décimas"
  },
  {
+  "images": [],
   "number": "978",
   "word": "afirmar",
   "part": "v",
@@ -6984,6 +7911,7 @@
   "example": "afirmó que E. pertenecía a una horrible clase de hombre"
  },
  {
+  "images": [],
   "number": "979",
   "word": "diario",
   "part": "adj",
@@ -6991,6 +7919,7 @@
   "example": "no es como . . . cualquier cosa de la vida  diaria"
  },
  {
+  "images": [],
   "number": "980",
   "word": "histórico",
   "part": "adj",
@@ -6998,6 +7927,7 @@
   "example": "el único manuscrito histórico con miniaturas del mundo bizantino"
  },
  {
+  "images": [],
   "number": "981",
   "word": "debido",
   "part": "adj",
@@ -7005,6 +7935,7 @@
   "example": "una infección intestinal, debido a la falta de higiene"
  },
  {
+  "images": [],
   "number": "982",
   "word": "vía",
   "part": "nf",
@@ -7012,6 +7943,7 @@
   "example": "esa información que ha venido a esta Cámara por vía periodística"
  },
  {
+  "images": [],
   "number": "983",
   "word": "interpretar",
   "part": "v",
@@ -7019,6 +7951,7 @@
   "example": "la expresión en su rostro era difícil de interpretar"
  },
  {
+  "images": [],
   "number": "984",
   "word": "alma",
   "part": "nf",
@@ -7026,6 +7959,7 @@
   "example": "en el fondo de su alma se encendió una llamarada de rebelión"
  },
  {
+  "images": [],
   "number": "985",
   "word": "admitir",
   "part": "v",
@@ -7033,6 +7967,7 @@
   "example": "ella no quería admitir su culpabilidad"
  },
  {
+  "images": [],
   "number": "986",
   "word": "identificar",
   "part": "v",
@@ -7040,6 +7975,7 @@
   "example": "permitió identificar con precisión las causas de la contaminación"
  },
  {
+  "images": [],
   "number": "987",
   "word": "madera",
   "part": "nf",
@@ -7047,6 +7983,7 @@
   "example": "se exporta madera de pino del sur de Brasil"
  },
  {
+  "images": [],
   "number": "988",
   "word": "fiesta",
   "part": "nf",
@@ -7054,6 +7991,7 @@
   "example": "¿le gustaría celebrar su fiesta de cumpleaños?"
  },
  {
+  "images": [],
   "number": "989",
   "word": "calor",
   "part": "nm",
@@ -7061,6 +7999,7 @@
   "example": "era verano, el piso todavía estaba caliente; hacía calor"
  },
  {
+  "images": [],
   "number": "990",
   "word": "mínimo",
   "part": "adj",
@@ -7068,6 +8007,7 @@
   "example": "son alumnas que no tienen el mínimo interés por aprender"
  },
  {
+  "images": [],
   "number": "991",
   "word": "afectar",
   "part": "v",
@@ -7075,6 +8015,7 @@
   "example": "los déficits fiscales sí pueden afectar la economía"
  },
  {
+  "images": [],
   "number": "992",
   "word": "hogar",
   "part": "nm",
@@ -7082,6 +8023,7 @@
   "example": "el niño tiene derecho a un hogar y a un padre, a un apellido"
  },
  {
+  "images": [],
   "number": "993",
   "word": "mente",
   "part": "nf",
@@ -7089,6 +8031,7 @@
   "example": "tenía una mente analítica y científica"
  },
  {
+  "images": [],
   "number": "994",
   "word": "seguramente",
   "part": "adv",
@@ -7096,6 +8039,7 @@
   "example": "se sentó a mi lado, seguramente para darme confianza"
  },
  {
+  "images": [],
   "number": "995",
   "word": "preocupación",
   "part": "nf",
@@ -7103,6 +8047,7 @@
   "example": "su rostro expresaba preocupación y tristeza"
  },
  {
+  "images": [],
   "number": "996",
   "word": "reducir",
   "part": "v",
@@ -7110,6 +8055,7 @@
   "example": "el importe del maíz se reducía a cero"
  },
  {
+  "images": [],
   "number": "997",
   "word": "concepto",
   "part": "nm",
@@ -7117,6 +8063,7 @@
   "example": "hoy tenemos un concepto muy museístico  de la obra de arte"
  },
  {
+  "images": [],
   "number": "998",
   "word": "montar",
   "part": "v",
@@ -7124,6 +8071,7 @@
   "example": "vieron que yo montaba bien a caballo"
  },
  {
+  "images": [],
   "number": "999",
   "word": "teléfono",
   "part": "nm",
@@ -7131,6 +8079,7 @@
   "example": "la llamo por teléfono y me dice que recibió  el mensaje"
  },
  {
+  "images": [],
   "number": "1000",
   "word": "hoja",
   "part": "nf",
