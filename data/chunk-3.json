@@ -702,7 +702,7 @@
   "number": "3077",
   "word": "acostar",
   "part": "v",
-  "translation": "to put/go to bed",
+  "translation": "to go (or put) to bed",
   "example": "vete luego a acostar para que mañana te levantes temprano",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/06e4b881-a817-40bd-9fb3-2d78f7df7027.jpg",
@@ -1407,7 +1407,7 @@
   "number": "3153",
   "word": "volcar",
   "part": "v",
-  "translation": "to turn/knock over, empty",
+  "translation": "to turn over, empty",
   "example": "volcó el contenido del tacho de comida en  la tierra",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c3efbfc3-0448-41e1-b641-33d644362502.jpg",
@@ -8462,7 +8462,7 @@
   "number": "3926",
   "word": "adónde",
   "part": "adv",
-  "translation": "to where?",
+  "translation": "to where (question)",
   "example": "si pudiera hacer otro viaje ¿Adónde iría?",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/55386925-9e1c-4583-ab12-b8dd04e93645.jpg"
@@ -8632,7 +8632,7 @@
   "number": "3945",
   "word": "destrozar",
   "part": "v",
-  "translation": "to rip/break into pieces",
+  "translation": "to rip, break into pieces",
   "example": "las ramas agudas que le destrozaban las ropas",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/to%2520destroy%252C%2520to%2520break.jpg"
@@ -9006,8 +9006,7 @@
   "part": "nf",
   "translation": "communion",
   "example": "en la misa tomó primera comunión",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3987",
@@ -9015,8 +9014,7 @@
   "part": "nm+f",
   "translation": "ambassador",
   "example": "es nuestro embajador en las Naciones  Unidas",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3988",
@@ -9024,8 +9022,7 @@
   "part": "nm",
   "translation": "third",
   "example": "el Oceano Pacífico abarca más de un tercio  de la superficie de la Tierra",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3989",
@@ -9033,8 +9030,7 @@
   "part": "nf",
   "translation": "illumination, lighting",
   "example": "se van las luces y sólo queda la iluminación  de velas",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3990",
@@ -9042,8 +9038,7 @@
   "part": "nf",
   "translation": "censorship, criticism",
   "example": "estableció la censura de los medios de comunicación",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3991",
@@ -9051,8 +9046,7 @@
   "part": "nf",
   "translation": "dispute, argument, quarrel",
   "example": "refleja tensiones por la disputa de la candidatura presidencial",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3992",
@@ -9060,8 +9054,7 @@
   "part": "nm",
   "translation": "splendor",
   "example": "era un mundo refinado, de gran esplendor, con joyas y candelabros",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3993",
@@ -9071,8 +9064,7 @@
   "example": "Moisés debió inscribir en sus tablas los diez mandamientos",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/a74a28c3-cc68-4256-a0fa-94b5015c267f.jpg"
-  ],
-  "skip": true
+  ]
  },
  {
   "number": "3994",
@@ -9080,8 +9072,7 @@
   "part": "nm",
   "translation": "damage, loss",
   "example": "el perjuicio es irreparable para los escolares",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3995",
@@ -9091,8 +9082,7 @@
   "example": "andaba con medalla de plata en el pecho",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/medal.jpg"
-  ],
-  "skip": true
+  ]
  },
  {
   "number": "3996",
@@ -9102,8 +9092,7 @@
   "example": "un sentido de gratitud y lealtad a la autoridad pontificia",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/08829394-c441-4820-942c-75e0b66ca4b5.jpg"
-  ],
-  "skip": true
+  ]
  },
  {
   "number": "3997",
@@ -9113,8 +9102,7 @@
   "example": "el matrimonio y el divorcio son  consideraciones graves",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/divorce%2520%2528divorcio%2529.jpg"
-  ],
-  "skip": true
+  ]
  },
  {
   "number": "3998",
@@ -9122,8 +9110,7 @@
   "part": "v",
   "translation": "to endow, bestow",
   "example": "su cobertura lo dotaba de un halo prodigioso",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "3999",
@@ -9133,8 +9120,7 @@
   "example": "es un enfoque muy científico sobre la historia",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/6d648bfb-86e0-431c-9be3-cdde6c13df73.jpg"
-  ],
-  "skip": true
+  ]
  },
  {
   "number": "4000",
@@ -9142,8 +9128,7 @@
   "part": "adj",
   "translation": "civilized",
   "example": "hay otro medio más civilizado de resolver este conflicto",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "4001",
@@ -9151,8 +9136,7 @@
   "part": "nf",
   "translation": "firmness",
   "example": "la firmeza de su carácter; su dureza a la hora de dejarla",
-  "images": [],
-  "skip": true
+  "images": []
  },
  {
   "number": "4002",
@@ -9160,7 +9144,6 @@
   "part": "adj",
   "translation": "unquestionable",
   "example": "alcanzó un indudable desarrollo económico y social",
-  "images": [],
-  "skip": true
+  "images": []
  }
 ]

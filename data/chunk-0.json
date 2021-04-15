@@ -76,7 +76,7 @@
   "number": "9",
   "word": "se",
   "part": "pron",
-  "translation": "[“reflexive” marker]",
+  "translation": "reflexive marker",
   "example": "la abuela se acostó tranquila",
   "images": []
  },
@@ -122,7 +122,7 @@
   "number": "14",
   "word": "su",
   "part": "adj",
-  "translation": "his/her/their/your",
+  "translation": "his, her, their, your",
   "example": "¿quién era? ¿Su hermana? ¿Su amiga?",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/c2615957-0867-4359-b9eb-d5259fe8504d.jpg"
@@ -174,7 +174,7 @@
   "number": "19",
   "word": "le",
   "part": "pron",
-  "translation": "[3rd person] (indir obj)",
+  "translation": "3rd person (indir obj)",
   "example": "nunca le dijo la verdad",
   "images": []
  },
@@ -190,7 +190,7 @@
   "number": "21",
   "word": "lo",
   "part": "pron",
-  "translation": "[3rd person] (dir obj-m)",
+  "translation": "3rd person (dir obj-m)",
   "example": "lo compré en la tienda",
   "images": []
  },
@@ -448,7 +448,7 @@
   "number": "47",
   "word": "qué",
   "part": "pron",
-  "translation": "what?, which?, how",
+  "translation": "what, which, how",
   "example": "no sé qué voy a hacer",
   "images": [
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/8e77a199-d723-476a-91e0-1462fb6e6bf5.jpg"
@@ -1016,7 +1016,7 @@
   "number": "126",
   "word": "cómo",
   "part": "adv",
-  "translation": "how?",
+  "translation": "how",
   "example": "mamá, ¿cómo puedo vivir?"
  },
  {
@@ -2178,7 +2178,7 @@
   "number": "292",
   "word": "quién",
   "part": "pron",
-  "translation": "who?, whom?",
+  "translation": "who, whom",
   "example": "¿quién es el padre de su hijo?"
  },
  {
@@ -2493,7 +2493,7 @@
   "number": "337",
   "word": "bueno",
   "part": "adv",
-  "translation": "well…",
+  "translation": "well",
   "example": "bueno, ¿y ahora qué hacemos?"
  },
  {
@@ -2899,7 +2899,7 @@
   "number": "395",
   "word": "cuál",
   "part": "pron",
-  "translation": "which?",
+  "translation": "which",
   "example": "primero dime cuál es tu nombre"
  },
  {
@@ -3081,7 +3081,7 @@
   "number": "421",
   "word": "dónde",
   "part": "adv",
-  "translation": "where?",
+  "translation": "where",
   "example": "¿Dónde está escrito esto en la historia?"
  },
  {
@@ -5195,7 +5195,7 @@
   "number": "723",
   "word": "cuánto",
   "part": "adj",
-  "translation": "how much?",
+  "translation": "how much",
   "example": "¿Cuánto tiempo querías? ¿Una eternidad?"
  },
  {
