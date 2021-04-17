@@ -3083,7 +3083,7 @@
   "images": [],
   "number": "4351",
   "word": "inminente",
-  "part": "aj",
+  "part": "adj",
   "translation": "imminent",
   "example": "el bolchevique creía inminente la extensión de la revolución soviética"
  },
@@ -3901,7 +3901,7 @@
   "number": "4441",
   "word": "agrupar",
   "part": "v",
-  "translation": "to",
+  "translation": "to (put in) group",
   "example": "los pingüinos se agrupan en 8 especies y 6 géneros"
  },
  {
@@ -6091,7 +6091,7 @@
    "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/6ff78f62-e375-42fc-8f6e-830ce92b8e6d.jpg"
   ],
   "number": "4686",
-  "word": "ordenador",
+  "word": "móvil",
   "part": "adj",
   "translation": "mobile",
   "example": "los ejecutivos disponen de coche, teléfono móvil, chalet . . ."

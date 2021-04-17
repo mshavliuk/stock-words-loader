@@ -212,7 +212,7 @@
   "number": "1027",
   "word": "idioma",
   "part": "nm",
-  "translation": "language",
+  "translation": "(specific) language",
   "example": "habla en un idioma extraño"
  },
  {
@@ -2012,7 +2012,7 @@
   "number": "1252",
   "word": "dudar",
   "part": "v",
-  "translation": "to",
+  "translation": "to (have) doubt",
   "example": "yo dudo de que el Gobierno tenga la capacidad"
  },
  {
@@ -2436,7 +2436,7 @@
   "number": "1305",
   "word": "muchísimo",
   "part": "adj",
-  "translation": "great many, great amount",
+  "translation": "very much, great amount",
   "example": "¡ahora vas a poder ganar muchísimo  dinero!"
  },
  {
@@ -3116,7 +3116,7 @@
   "number": "1390",
   "word": "aquél",
   "part": "pron",
-  "translation": "that one over there",
+  "translation": "that one",
   "example": "¿y cuál es su coche? - Aquél"
  },
  {
@@ -3643,7 +3643,7 @@
   "images": [],
   "number": "1456",
   "word": "listo",
-  "part": "aj",
+  "part": "adj",
   "translation": "ready, clever, smart",
   "example": "en la mesa estaba listo mi desayuno"
  },

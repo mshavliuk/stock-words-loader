@@ -2163,7 +2163,7 @@
   "number": "260",
   "word": "frente",
   "part": "nmf",
-  "translation": "facing, across from",
+  "translation": "facing, across, from",
   "example": "lo Uno frente a lo Otro, el Bien frente al Mal"
  },
  {
@@ -3547,7 +3547,7 @@
   "number": "433",
   "word": "respecto",
   "part": "nm",
-  "translation": "withregards to",
+  "translation": "respect, with regards to",
   "example": "los grupos varían con respecto al número que lo componen"
  },
  {
@@ -5971,7 +5971,7 @@
   "number": "736",
   "word": "pared",
   "part": "nf",
-  "translation": "wall",
+  "translation": "wall (interior)",
   "example": "en la pared se ve colgada una pintura"
  },
  {
@@ -7354,7 +7354,7 @@
   "images": [],
   "number": "909",
   "word": "concreto",
-  "part": "aj",
+  "part": "adj",
   "translation": "concrete, real",
   "example": "de buscar una solución al problema concreto de las minas"
  },
